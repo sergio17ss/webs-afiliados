@@ -21,12 +21,13 @@
         langBtn: 'EN',
         comingSoon: 'Próximamente',
         comingSoonDesc: 'Nuevas categorías en camino',
+        navBrand: 'Guías de Compra',
       },
       index: {
         metaTitle: 'Guías de Compra',
         metaDesc:
           'Guías de compra independientes. Encuentra el mejor producto para ti.',
-        title: '📊 Guías de Compra',
+        title: 'Top Productos por Categoría · Guías de Compra',
         subtitle:
           'Selecciona una categoría para ver sus guías y comparativas',
         card1Title: 'Auriculares',
@@ -43,7 +44,6 @@
           'Comparativa de los 5 auriculares más vendidos en Amazon España en 2026. Analizamos Soundcore Q20i, Sony WH-CH520, Nothing Ear (a), AirPods 4 y Xiaomi Redmi Buds 6 Play.',
         ogTitle:
           'Top 5 Mejores Auriculares 2026 · Guía Completa',
-        navBrand: '🎧 Mejores Auriculares 2026',
         category: '🎧 Auriculares',
         title:
           'Los 5 mejores auriculares para comprar en 2026',
@@ -207,7 +207,6 @@
           'Comparativa de las 5 sillas ergonómicas más vendidas en Amazon España en 2026. Analizamos Sihoo, Hygiatic, Cazar y más.',
         ogTitle:
           'Top 5 Mejores Sillas Ergonómicas 2026 · Guía Completa',
-        navBrand: '🪑 Sillas Ergonómicas 2026',
         category: '🪑 Sillas de Oficina',
         title:
           'Top 5 sillas ergonómicas para teletrabajar en 2026',
@@ -407,12 +406,13 @@
         langBtn: 'ES',
         comingSoon: 'Coming Soon',
         comingSoonDesc: 'New categories on the way',
+        navBrand: 'Buying Guides',
       },
       index: {
         metaTitle: 'Buying Guides',
         metaDesc:
           'Independent buying guides. Find the best product for you.',
-        title: '📊 Buying Guides',
+        title: 'Top Products by Category · Buying Guides',
         subtitle:
           'Select a category to browse guides and comparisons',
         card1Title: 'Headphones',
@@ -429,7 +429,6 @@
           'Comparison of the 5 best-selling headphones on Amazon Spain in 2026. We review Soundcore Q20i, Sony WH-CH520, Nothing Ear (a), AirPods 4, and Xiaomi Redmi Buds 6 Play.',
         ogTitle:
           'Top 5 Best Headphones 2026 · Complete Guide',
-        navBrand: '🎧 Best Headphones 2026',
         category: '🎧 Headphones',
         title:
           'The 5 best headphones to buy in 2026',
@@ -592,7 +591,6 @@
           'Comparison of the 5 best-selling ergonomic chairs on Amazon Spain in 2026. We review Sihoo, Hygiatic, Cazar, and more.',
         ogTitle:
           'Top 5 Best Ergonomic Chairs 2026 · Complete Guide',
-        navBrand: '🪑 Ergonomic Chairs 2026',
         category: '🪑 Office Chairs',
         title:
           'Top 5 ergonomic chairs for working from home in 2026',
