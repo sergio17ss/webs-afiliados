@@ -5,64 +5,75 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Guías de compra independientes. Encuentra el mejor producto para ti." />
   <title>Guías de Compra</title>
+  <link rel="stylesheet" href="css/style.css" />
   <script defer src="js/i18n.js"></script>
-  <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Inter', sans-serif;
-      background: #f8fafc; color: #1e293b; line-height: 1.6;
-      display: flex; flex-direction: column; align-items: center;
-      justify-content: center; min-height: 100vh; padding: 40px 20px;
-    }
-    h1 { font-size: 2.5rem; font-weight: 800; margin-bottom: 8px; }
-    p { color: #64748b; margin-bottom: 40px; font-size: 1.1rem; }
-    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; width: 100%; max-width: 700px; }
-    .card {
-      background: white; border: 1px solid #e2e8f0; border-radius: 12px;
-      padding: 32px; text-align: center; text-decoration: none; color: inherit;
-      transition: all 0.3s;
-    }
-    .card:hover { box-shadow: 0 4px 20px rgba(0,0,0,0.1); transform: translateY(-2px); }
-    .card .icon { font-size: 3rem; margin-bottom: 12px; }
-    .card h2 { font-size: 1.2rem; margin-bottom: 8px; }
-    .card p { font-size: 0.9rem; margin-bottom: 0; }
-    .footer { margin-top: 60px; font-size: 0.85rem; color: #94a3b8; }
-    .lang-btn {
-      background: white; border: 1px solid #e2e8f0; border-radius: 6px;
-      padding: 6px 14px; font-size: 0.85rem; font-weight: 700;
-      font-family: inherit; cursor: pointer; color: #1e293b;
-      transition: all 0.2s; position: fixed; top: 20px; right: 20px; z-index: 200;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-    }
-    .lang-btn:hover { border-color: #2563EB; color: #2563EB; }
-  </style>
 </head>
 <body>
-  <button class="lang-btn" onclick="i18n.toggleLang()" aria-label="Switch language">
-    <span class="lang-btn-text">EN</span>
-  </button>
+  <header class="header">
+    <div class="header-inner">
+      <a href="." class="header-logo"><span>G</span>uías de Compra</a>
+      <div class="header-actions">
+        <button class="lang-btn" onclick="i18n.toggleLang()" aria-label="Switch language">
+          <span class="lang-btn-text">EN</span>
+        </button>
+      </div>
+    </div>
+  </header>
 
-  <h1 data-i18n="index.title">📊 Guías de Compra</h1>
-  <p data-i18n="index.subtitle">Selecciona una categoría para ver sus guías y comparativas</p>
-  <div class="grid">
-    <a href="auriculares/" class="card">
-      <div class="icon">🎧</div>
-      <h2 data-i18n="index.card1Title">Auriculares</h2>
-      <p data-i18n-html="index.card1Desc">Top 5 mejores auriculares 2026 · Comparativa</p>
-    </a>
-    <a href="oficina/" class="card">
-      <div class="icon">🪑</div>
-      <h2 data-i18n="index.card2Title">Sillas Ergonómicas</h2>
-      <p data-i18n-html="index.card2Desc">Top 5 mejores sillas oficina 2026 · Comparativa</p>
-    </a>
-    <a href="#" class="card" style="opacity: 0.4;">
-      <div class="icon">🔜</div>
-      <h2 data-i18n="common.comingSoon">Próximamente</h2>
-      <p data-i18n="common.comingSoonDesc">Nuevas categorías en camino</p>
-    </a>
-  </div>
-  <div class="footer" data-i18n="common.copyright">
-    © 2026 Guías de Compra · Algunos enlaces son de afiliado
-  </div>
+  <section class="hero">
+    <h1 data-i18n="index.title">📊 Guías de Compra</h1>
+    <p data-i18n="index.subtitle">Selecciona una categoría para ver sus guías y comparativas</p>
+  </section>
+
+  <section class="section">
+    <div class="category-grid">
+      <a href="auriculares/" class="category-card">
+        <div class="icon">🎧</div>
+        <h2 data-i18n="index.card1Title">Auriculares</h2>
+        <p data-i18n-html="index.card1Desc">Top 5 mejores auriculares 2026 · Comparativa</p>
+        <span class="card-arrow">Leer guía →</span>
+      </a>
+
+      <a href="oficina/" class="category-card">
+        <div class="icon">🪑</div>
+        <h2 data-i18n="index.card2Title">Sillas Ergonómicas</h2>
+        <p data-i18n-html="index.card2Desc">Top 5 mejores sillas oficina 2026 · Comparativa</p>
+        <span class="card-arrow">Leer guía →</span>
+      </a>
+
+      <a href="#" class="category-card coming-soon">
+        <div class="icon">🔜</div>
+        <h2 data-i18n="common.comingSoon">Próximamente</h2>
+        <p data-i18n="common.comingSoonDesc">Nuevas categorías en camino</p>
+      </a>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <h3>Guías de Compra</h3>
+        <p>Comparativas independientes para ayudarte a tomar la mejor decisión de compra.</p>
+      </div>
+      <div>
+        <h4 data-i18n="common.navDocs">Enlaces</h4>
+        <ul class="footer-links">
+          <li><a href="." data-i18n="common.navHome">Inicio</a></li>
+          <li><a href="auriculares/">Auriculares</a></li>
+          <li><a href="oficina/">Sillas</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Legal</h4>
+        <ul class="footer-links">
+          <li><a href="#" data-i18n="common.navPrivacy">Política de privacidad</a></li>
+          <li><a href="#" data-i18n="common.navAffiliate">Aviso de afiliados</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom" data-i18n="common.copyright">
+      © 2026 Guías de Compra · Algunos enlaces son de afiliado
+    </div>
+  </footer>
 </body>
 </html>

@@ -10,40 +10,28 @@
   <meta name="robots" content="index, follow" />
   <title>Título del Artículo · Guías de Compra</title>
   <link rel="stylesheet" href="../css/style.css" />
-  <script defer src="../js/main.js"></script>
   <script defer src="../js/i18n.js"></script>
-
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Título del Artículo",
-    "description": "Descripción del artículo",
-    "datePublished": "2026-07-08",
-    "dateModified": "2026-07-08",
-    "author": { "@type": "Person", "name": "Guías de Compra" }
-  }
-  </script>
 </head>
 <body>
   <header class="header">
-    <nav class="nav">
-      <a href="../index.html" class="nav-brand" data-i18n="template.navBrand">Guías de Compra</a>
-      <button class="nav-toggle" aria-label="Menú">☰</button>
-      <ul class="nav-links">
-        <li><a href="../index.html" data-i18n="template.footerLinkHome">Inicio</a></li>
-        <li><a href="plantilla.html" data-i18n="template.footerLinkArticles">Artículos</a></li>
-        <li><button class="lang-btn" onclick="i18n.toggleLang()" aria-label="Switch language">
+    <div class="header-inner">
+      <a href="../index.html" class="header-logo" data-i18n="template.navBrand">Guías de Compra</a>
+      <div class="header-actions">
+        <button class="lang-btn" onclick="i18n.toggleLang()" aria-label="Switch language">
           <span class="lang-btn-text">EN</span>
-        </button></li>
-      </ul>
-    </nav>
+        </button>
+      </div>
+    </div>
   </header>
 
-  <main class="main">
+  <main class="article-page">
     <article class="article">
       <header class="article-header">
-        <span class="article-category" data-i18n="template.category">Tecnología</span>
+        <div class="article-breadcrumb">
+          <a href="../index.html">Inicio</a>
+          <span>→</span>
+          <span data-i18n="template.category">Tecnología</span>
+        </div>
         <h1 data-i18n="template.title">Título del artículo — los mejores [producto] de 2026</h1>
         <div class="article-meta">
           <span data-i18n="template.metaUpdated">📅 Actualizado: julio 2026</span>
@@ -51,12 +39,11 @@
         </div>
       </header>
 
-      <img class="article-featured-img" src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80" alt="Descripción de la imagen principal" loading="eager" />
+      <img class="article-featured-img" src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80" alt="Imagen principal" loading="eager" />
 
       <div class="article-content">
         <p data-i18n-html="template.introP1"><strong>Introducción:</strong> Aquí va un párrafo introductorio explicando qué vas a comparar y por qué es útil para el lector. Incluye la palabra clave principal de forma natural.</p>
 
-        <!-- === AD SENSE SLOT 1 === -->
         <div class="ad-slot">[Anuncio AdSense 1]</div>
 
         <h2>1. [Producto A] — El mejor calidad-precio</h2>
@@ -67,7 +54,7 @@
             <div class="rating">★★★★☆ 4.2/5</div>
             <div class="price">99,99 €</div>
           </div>
-          <a class="btn btn-accent" href="https://amazon.es/dirigir-a-producto" target="_blank" rel="nofollow sponsored">Ver precio</a>
+          <a class="btn btn-accent" href="https://amazon.es" target="_blank" rel="nofollow sponsored">Ver precio</a>
         </div>
         <p>Descripción detallada del Producto A. Qué ofrece, sus ventajas principales, para quién es ideal. Incluir pros y contras, especificaciones clave y experiencia de uso.</p>
 
@@ -90,7 +77,6 @@
           </div>
         </div>
 
-        <!-- === AD SENSE SLOT 2 === -->
         <div class="ad-slot">[Anuncio AdSense 2]</div>
 
         <h2>2. [Producto B] — La opción premium</h2>
@@ -101,7 +87,7 @@
             <div class="rating">★★★★★ 4.8/5</div>
             <div class="price">199,99 €</div>
           </div>
-          <a class="btn btn-accent" href="https://amazon.es/dirigir-a-producto" target="_blank" rel="nofollow sponsored">Ver precio</a>
+          <a class="btn btn-accent" href="https://amazon.es" target="_blank" rel="nofollow sponsored">Ver precio</a>
         </div>
         <p>Descripción detallada del Producto B. Para quién merece la pena pagar más. Diferencias clave con el producto anterior.</p>
 
@@ -125,86 +111,79 @@
         </div>
 
         <h2>Tabla comparativa</h2>
-        <table class="comparison-table">
-          <thead>
-            <tr>
-              <th>Característica</th>
-              <th class="winner">Producto A 🏆</th>
-              <th>Producto B</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Precio</td>
-              <td class="winner">99,99 €</td>
-              <td>199,99 €</td>
-            </tr>
-            <tr>
-              <td>Peso</td>
-              <td class="winner">250 g</td>
-              <td>350 g</td>
-            </tr>
-            <tr>
-              <td>Autonomía</td>
-              <td>10 horas</td>
-              <td class="winner">20 horas</td>
-            </tr>
-            <tr>
-              <td>Garantía</td>
-              <td>2 años</td>
-              <td class="winner">3 años</td>
-            </tr>
-          </tbody>
-        </table>
+        <div class="comparison-table-wrap">
+          <table class="comparison-table">
+            <thead>
+              <tr>
+                <th>Característica</th>
+                <th class="winner">Producto A 🏆</th>
+                <th>Producto B</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Precio</td>
+                <td class="winner">99,99 €</td>
+                <td>199,99 €</td>
+              </tr>
+              <tr>
+                <td>Peso</td>
+                <td class="winner">250 g</td>
+                <td>350 g</td>
+              </tr>
+              <tr>
+                <td>Autonomía</td>
+                <td>10 horas</td>
+                <td class="winner">20 horas</td>
+              </tr>
+              <tr>
+                <td>Garantía</td>
+                <td>2 años</td>
+                <td class="winner">3 años</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
 
-        <!-- === AD SENSE SLOT 3 === -->
         <div class="ad-slot">[Anuncio AdSense 3]</div>
 
         <h2 data-i18n="template.conclusionTitle">Conclusión — ¿cuál comprar?</h2>
-        <p>Resumen final recomendando uno u otro según el perfil del comprador. Explicación clara de por qué.</p>
+        <p>Resumen final recomendando uno u otro según el perfil del comprador.</p>
 
         <p data-i18n-html="template.conclusionP1"><strong>🧑‍💻 Para la mayoría de personas:</strong> El Producto A es la mejor opción por su relación calidad-precio.</p>
         <p data-i18n-html="template.conclusionP2"><strong>🎯 Para los más exigentes:</strong> El Producto B merece la pena si necesitas [ventaja clave].</p>
 
-        <div style="text-align: center; margin: 40px 0;">
-          <a class="btn btn-accent" href="https://amazon.es" target="_blank" rel="nofollow sponsored" style="font-size: 1.1rem; padding: 16px 40px;" data-i18n="template.ctaBtn">
-            🛒 Ver ofertas en Amazon
-          </a>
+        <div class="cta-section">
+          <a class="btn btn-accent" href="https://amazon.es" target="_blank" rel="nofollow sponsored" data-i18n="template.ctaBtn">🛒 Ver ofertas en Amazon</a>
         </div>
 
-        <div class="disclosure" data-i18n="common.disclosure">
-          ⚠️ Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nosotros recibimos una pequeña comisión sin coste adicional para ti. Esto nos ayuda a mantener el sitio. Gracias por tu apoyo.
-        </div>
+        <div class="disclosure" data-i18n="common.disclosure">⚠️ Este artículo contiene enlaces de afiliado. Si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Esto nos ayuda a mantener el sitio. Gracias por tu apoyo.</div>
       </div>
     </article>
   </main>
 
   <footer class="footer">
-    <div class="container">
-      <div class="footer-grid">
-        <div class="footer-brand">
-          <h3 data-i18n="template.footerBrand">Guías de Compra</h3>
-          <p data-i18n="template.footerDesc">Comparativas independientes para ayudarte a tomar la mejor decisión de compra.</p>
-        </div>
-        <div>
-          <h4 data-i18n="template.footerLinks">Enlaces</h4>
-          <ul class="footer-links">
-            <li><a href="../index.html" data-i18n="template.footerLinkHome">Inicio</a></li>
-            <li><a href="plantilla.html" data-i18n="template.footerLinkArticles">Artículos</a></li>
-          </ul>
-        </div>
-        <div>
-          <h4 data-i18n="template.footerLegal">Legal</h4>
-          <ul class="footer-links">
-            <li><a href="#" data-i18n="common.navPrivacy">Política de privacidad</a></li>
-            <li><a href="#" data-i18n="common.navAffiliate">Aviso de afiliados</a></li>
-          </ul>
-        </div>
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <h3 data-i18n="template.footerBrand">Guías de Compra</h3>
+        <p data-i18n="template.footerDesc">Comparativas independientes para ayudarte a tomar la mejor decisión de compra.</p>
       </div>
-      <div class="footer-bottom">
-        <p data-i18n="common.copyright">© 2026 Guías de Compra · Algunos enlaces son de afiliado. Lee nuestro aviso legal.</p>
+      <div>
+        <h4 data-i18n="template.footerLinks">Enlaces</h4>
+        <ul class="footer-links">
+          <li><a href="../index.html" data-i18n="template.footerLinkHome">Inicio</a></li>
+          <li><a href="plantilla.html" data-i18n="template.footerLinkArticles">Artículos</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4 data-i18n="template.footerLegal">Legal</h4>
+        <ul class="footer-links">
+          <li><a href="#" data-i18n="common.navPrivacy">Política de privacidad</a></li>
+          <li><a href="#" data-i18n="common.navAffiliate">Aviso de afiliados</a></li>
+        </ul>
       </div>
     </div>
+    <div class="footer-bottom" data-i18n="common.copyright">© 2026 Guías de Compra · Algunos enlaces son de afiliado. Lee nuestro aviso legal.</div>
   </footer>
 </body>
 </html>
