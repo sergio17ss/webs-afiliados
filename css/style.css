@@ -357,6 +357,26 @@ a:hover { color: var(--primary-dark); }
   .card-grid { grid-template-columns: 1fr; }
 }
 
+/* Language switcher */
+.lang-btn {
+  background: none; border: 1px solid var(--border);
+  border-radius: 6px; padding: 4px 10px; font-size: 0.8rem;
+  font-weight: 700; font-family: var(--font); cursor: pointer;
+  color: var(--text); transition: all 0.2s; line-height: 1.4;
+}
+.lang-btn:hover { border-color: var(--primary); color: var(--primary); }
+
+.lang-btn-header {
+  position: fixed; top: 16px; right: 20px; z-index: 200;
+  background: white; box-shadow: var(--shadow);
+}
+.lang-btn-header:hover { box-shadow: var(--shadow-md); }
+
+@media (max-width: 768px) {
+  .lang-btn-header { top: 12px; right: 12px; }
+  .nav .lang-btn { font-size: 0.75rem; padding: 2px 8px; }
+}
+
 @media (max-width: 480px) {
   .hero h1 { font-size: 1.6rem; }
   .hero { padding: 60px 0 40px; }

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es" data-i18n-title="template.metaTitle" data-i18n-desc="template.metaDesc" data-i18n-og-title="template.ogTitle">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -11,6 +11,7 @@
   <title>Título del Artículo · Guías de Compra</title>
   <link rel="stylesheet" href="../css/style.css" />
   <script defer src="../js/main.js"></script>
+  <script defer src="../js/i18n.js"></script>
 
   <script type="application/ld+json">
   {
@@ -27,11 +28,14 @@
 <body>
   <header class="header">
     <nav class="nav">
-      <a href="../index.html" class="nav-brand">Guías de Compra</a>
+      <a href="../index.html" class="nav-brand" data-i18n="template.navBrand">Guías de Compra</a>
       <button class="nav-toggle" aria-label="Menú">☰</button>
       <ul class="nav-links">
-        <li><a href="../index.html">Inicio</a></li>
-        <li><a href="plantilla.html">Artículos</a></li>
+        <li><a href="../index.html" data-i18n="template.footerLinkHome">Inicio</a></li>
+        <li><a href="plantilla.html" data-i18n="template.footerLinkArticles">Artículos</a></li>
+        <li><button class="lang-btn" onclick="i18n.toggleLang()" aria-label="Switch language">
+          <span class="lang-btn-text">EN</span>
+        </button></li>
       </ul>
     </nav>
   </header>
@@ -39,18 +43,18 @@
   <main class="main">
     <article class="article">
       <header class="article-header">
-        <span class="article-category">Tecnología</span>
-        <h1>Título del artículo — los mejores [producto] de 2026</h1>
+        <span class="article-category" data-i18n="template.category">Tecnología</span>
+        <h1 data-i18n="template.title">Título del artículo — los mejores [producto] de 2026</h1>
         <div class="article-meta">
-          <span>📅 Actualizado: julio 2026</span>
-          <span>✍️ Por: Guías de Compra</span>
+          <span data-i18n="template.metaUpdated">📅 Actualizado: julio 2026</span>
+          <span data-i18n="template.metaAuthor">✍️ Por: Guías de Compra</span>
         </div>
       </header>
 
       <img class="article-featured-img" src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80" alt="Descripción de la imagen principal" loading="eager" />
 
       <div class="article-content">
-        <p><strong>Introducción:</strong> Aquí va un párrafo introductorio explicando qué vas a comparar y por qué es útil para el lector. Incluye la palabra clave principal de forma natural.</p>
+        <p data-i18n-html="template.introP1"><strong>Introducción:</strong> Aquí va un párrafo introductorio explicando qué vas a comparar y por qué es útil para el lector. Incluye la palabra clave principal de forma natural.</p>
 
         <!-- === AD SENSE SLOT 1 === -->
         <div class="ad-slot">[Anuncio AdSense 1]</div>
@@ -67,19 +71,23 @@
         </div>
         <p>Descripción detallada del Producto A. Qué ofrece, sus ventajas principales, para quién es ideal. Incluir pros y contras, especificaciones clave y experiencia de uso.</p>
 
-        <h3>Ventajas e inconvenientes</h3>
+        <h3 data-i18n="common.prosTitle">Ventajas e inconvenientes</h3>
         <div class="pros-cons">
-          <ul class="pros">
-            <h4>✅ Pros</h4>
-            <li>Ventaja 1 del producto</li>
-            <li>Ventaja 2 del producto</li>
-            <li>Ventaja 3 del producto</li>
-          </ul>
-          <ul class="cons">
-            <h4>❌ Contras</h4>
-            <li>Desventaja 1 del producto</li>
-            <li>Desventaja 2 del producto</li>
-          </ul>
+          <div class="pros">
+            <h4 data-i18n="common.prosLabel">✅ Pros</h4>
+            <ul>
+              <li>Ventaja 1 del producto</li>
+              <li>Ventaja 2 del producto</li>
+              <li>Ventaja 3 del producto</li>
+            </ul>
+          </div>
+          <div class="cons">
+            <h4 data-i18n="common.consLabel">❌ Contras</h4>
+            <ul>
+              <li>Desventaja 1 del producto</li>
+              <li>Desventaja 2 del producto</li>
+            </ul>
+          </div>
         </div>
 
         <!-- === AD SENSE SLOT 2 === -->
@@ -97,19 +105,23 @@
         </div>
         <p>Descripción detallada del Producto B. Para quién merece la pena pagar más. Diferencias clave con el producto anterior.</p>
 
-        <h3>Ventajas e inconvenientes</h3>
+        <h3 data-i18n="common.prosTitle">Ventajas e inconvenientes</h3>
         <div class="pros-cons">
-          <ul class="pros">
-            <h4>✅ Pros</h4>
-            <li>Ventaja 1 del producto</li>
-            <li>Ventaja 2 del producto</li>
-            <li>Ventaja 3 del producto</li>
-          </ul>
-          <ul class="cons">
-            <h4>❌ Contras</h4>
-            <li>Desventaja 1 del producto</li>
-            <li>Desventaja 2 del producto</li>
-          </ul>
+          <div class="pros">
+            <h4 data-i18n="common.prosLabel">✅ Pros</h4>
+            <ul>
+              <li>Ventaja 1 del producto</li>
+              <li>Ventaja 2 del producto</li>
+              <li>Ventaja 3 del producto</li>
+            </ul>
+          </div>
+          <div class="cons">
+            <h4 data-i18n="common.consLabel">❌ Contras</h4>
+            <ul>
+              <li>Desventaja 1 del producto</li>
+              <li>Desventaja 2 del producto</li>
+            </ul>
+          </div>
         </div>
 
         <h2>Tabla comparativa</h2>
@@ -148,19 +160,19 @@
         <!-- === AD SENSE SLOT 3 === -->
         <div class="ad-slot">[Anuncio AdSense 3]</div>
 
-        <h2>Conclusión — ¿cuál comprar?</h2>
+        <h2 data-i18n="template.conclusionTitle">Conclusión — ¿cuál comprar?</h2>
         <p>Resumen final recomendando uno u otro según el perfil del comprador. Explicación clara de por qué.</p>
 
-        <p><strong>🧑‍💻 Para la mayoría de personas:</strong> El Producto A es la mejor opción por su relación calidad-precio.</p>
-        <p><strong>🎯 Para los más exigentes:</strong> El Producto B merece la pena si necesitas [ventaja clave].</p>
+        <p data-i18n-html="template.conclusionP1"><strong>🧑‍💻 Para la mayoría de personas:</strong> El Producto A es la mejor opción por su relación calidad-precio.</p>
+        <p data-i18n-html="template.conclusionP2"><strong>🎯 Para los más exigentes:</strong> El Producto B merece la pena si necesitas [ventaja clave].</p>
 
         <div style="text-align: center; margin: 40px 0;">
-          <a class="btn btn-accent" href="https://amazon.es" target="_blank" rel="nofollow sponsored" style="font-size: 1.1rem; padding: 16px 40px;">
+          <a class="btn btn-accent" href="https://amazon.es" target="_blank" rel="nofollow sponsored" style="font-size: 1.1rem; padding: 16px 40px;" data-i18n="template.ctaBtn">
             🛒 Ver ofertas en Amazon
           </a>
         </div>
 
-        <div class="disclosure">
+        <div class="disclosure" data-i18n="common.disclosure">
           ⚠️ Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nosotros recibimos una pequeña comisión sin coste adicional para ti. Esto nos ayuda a mantener el sitio. Gracias por tu apoyo.
         </div>
       </div>
@@ -171,26 +183,26 @@
     <div class="container">
       <div class="footer-grid">
         <div class="footer-brand">
-          <h3>Guías de Compra</h3>
-          <p>Comparativas independientes para ayudarte a tomar la mejor decisión de compra.</p>
+          <h3 data-i18n="template.footerBrand">Guías de Compra</h3>
+          <p data-i18n="template.footerDesc">Comparativas independientes para ayudarte a tomar la mejor decisión de compra.</p>
         </div>
         <div>
-          <h4>Enlaces</h4>
+          <h4 data-i18n="template.footerLinks">Enlaces</h4>
           <ul class="footer-links">
-            <li><a href="../index.html">Inicio</a></li>
-            <li><a href="plantilla.html">Artículos</a></li>
+            <li><a href="../index.html" data-i18n="template.footerLinkHome">Inicio</a></li>
+            <li><a href="plantilla.html" data-i18n="template.footerLinkArticles">Artículos</a></li>
           </ul>
         </div>
         <div>
-          <h4>Legal</h4>
+          <h4 data-i18n="template.footerLegal">Legal</h4>
           <ul class="footer-links">
-            <li><a href="#">Política de privacidad</a></li>
-            <li><a href="#">Aviso de afiliados</a></li>
+            <li><a href="#" data-i18n="common.navPrivacy">Política de privacidad</a></li>
+            <li><a href="#" data-i18n="common.navAffiliate">Aviso de afiliados</a></li>
           </ul>
         </div>
       </div>
       <div class="footer-bottom">
-        <p>© 2026 Guías de Compra · Algunos enlaces son de afiliado. Lee nuestro aviso legal.</p>
+        <p data-i18n="common.copyright">© 2026 Guías de Compra · Algunos enlaces son de afiliado. Lee nuestro aviso legal.</p>
       </div>
     </div>
   </footer>

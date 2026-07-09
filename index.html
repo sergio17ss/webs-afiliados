@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es" data-i18n-title="index.metaTitle" data-i18n-desc="index.metaDesc">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Guías de compra independientes. Encuentra el mejor producto para ti." />
   <title>Guías de Compra</title>
+  <script defer src="js/i18n.js"></script>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
@@ -26,29 +27,41 @@
     .card h2 { font-size: 1.2rem; margin-bottom: 8px; }
     .card p { font-size: 0.9rem; margin-bottom: 0; }
     .footer { margin-top: 60px; font-size: 0.85rem; color: #94a3b8; }
+    .lang-btn {
+      background: white; border: 1px solid #e2e8f0; border-radius: 6px;
+      padding: 6px 14px; font-size: 0.85rem; font-weight: 700;
+      font-family: inherit; cursor: pointer; color: #1e293b;
+      transition: all 0.2s; position: fixed; top: 20px; right: 20px; z-index: 200;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
+    .lang-btn:hover { border-color: #2563EB; color: #2563EB; }
   </style>
 </head>
 <body>
-  <h1>📊 Guías de Compra</h1>
-  <p>Selecciona una categoría para ver sus guías y comparativas</p>
+  <button class="lang-btn" onclick="i18n.toggleLang()" aria-label="Switch language">
+    <span class="lang-btn-text">EN</span>
+  </button>
+
+  <h1 data-i18n="index.title">📊 Guías de Compra</h1>
+  <p data-i18n="index.subtitle">Selecciona una categoría para ver sus guías y comparativas</p>
   <div class="grid">
     <a href="auriculares/" class="card">
       <div class="icon">🎧</div>
-      <h2>Auriculares</h2>
-      <p>Top 5 mejores auriculares 2026 · Comparativa</p>
+      <h2 data-i18n="index.card1Title">Auriculares</h2>
+      <p data-i18n-html="index.card1Desc">Top 5 mejores auriculares 2026 · Comparativa</p>
     </a>
     <a href="oficina/" class="card">
       <div class="icon">🪑</div>
-      <h2>Sillas Ergonómicas</h2>
-      <p>Top 5 mejores sillas oficina 2026 · Comparativa</p>
+      <h2 data-i18n="index.card2Title">Sillas Ergonómicas</h2>
+      <p data-i18n-html="index.card2Desc">Top 5 mejores sillas oficina 2026 · Comparativa</p>
     </a>
     <a href="#" class="card" style="opacity: 0.4;">
       <div class="icon">🔜</div>
-      <h2>Próximamente</h2>
-      <p>Nuevas categorías en camino</p>
+      <h2 data-i18n="common.comingSoon">Próximamente</h2>
+      <p data-i18n="common.comingSoonDesc">Nuevas categorías en camino</p>
     </a>
   </div>
-  <div class="footer">
+  <div class="footer" data-i18n="common.copyright">
     © 2026 Guías de Compra · Algunos enlaces son de afiliado
   </div>
 </body>

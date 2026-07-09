@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es" data-i18n-title="oficina.metaTitle" data-i18n-desc="oficina.metaDesc" data-i18n-og-title="oficina.ogTitle">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -13,6 +13,7 @@
   <title>Top 5 Mejores Sillas Ergonómicas 2026 · Comparativa</title>
   <link rel="stylesheet" href="../css/style.css" />
   <script defer src="../js/main.js"></script>
+  <script defer src="../js/i18n.js"></script>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -32,77 +33,81 @@
 <body>
   <header class="header">
     <nav class="nav">
-      <a href="../index.html" class="nav-brand">🪑 Sillas Ergonómicas 2026</a>
+      <a href="../index.html" class="nav-brand" data-i18n="oficina.navBrand">🪑 Sillas Ergonómicas 2026</a>
+      <button class="lang-btn" onclick="i18n.toggleLang()" aria-label="Switch language">
+        <span class="lang-btn-text">EN</span>
+      </button>
     </nav>
   </header>
 
   <main class="main">
     <article class="article">
       <header class="article-header">
-        <span class="article-category">🪑 Sillas de Oficina</span>
-        <h1>Top 5 sillas ergonómicas para teletrabajar en 2026</h1>
+        <span class="article-category" data-i18n="oficina.category">🪑 Sillas de Oficina</span>
+        <h1 data-i18n="oficina.title">Top 5 sillas ergonómicas para teletrabajar en 2026</h1>
         <div class="article-meta">
-          <span>📅 Actualizado: julio 2026</span>
-          <span>✍️ Por: Guías de Compra</span>
+          <span data-i18n="oficina.metaUpdated">📅 Actualizado: julio 2026</span>
+          <span data-i18n="oficina.metaAuthor">✍️ Por: Guías de Compra</span>
         </div>
       </header>
 
       <img class="article-featured-img" src="https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80" alt="Oficina moderna con escritorio" loading="eager" />
 
       <div class="article-content">
-        <p><strong>Pasamos un tercio de nuestra vida sentados.</strong> Tener una silla ergonómica no es un lujo, es una necesidad. Una mala silla puede causar dolor lumbar, cervical y problemas de circulación.</p>
 
-        <p>Tras analizar las <strong>10 sillas más vendidas en Amazon España</strong> y cribar según opiniones, materiales y relación calidad-precio, hemos seleccionado el <strong>top 5 de sillas ergonómicas</strong> para cualquier presupuesto. Todos los productos son reales, con datos de valoraciones y precios actualizados a julio 2026.</p>
+        <p data-i18n-html="oficina.introP1"><strong>Pasamos un tercio de nuestra vida sentados.</strong> Tener una silla ergonómica no es un lujo, es una necesidad. Una mala silla puede causar dolor lumbar, cervical y problemas de circulación.</p>
+
+        <p data-i18n-html="oficina.introP2">Tras analizar las <strong>10 sillas más vendidas en Amazon España</strong> y cribar según opiniones, materiales y relación calidad-precio, hemos seleccionado el <strong>top 5 de sillas ergonómicas</strong> para cualquier presupuesto. Todos los productos son reales, con datos de valoraciones y precios actualizados a julio 2026.</p>
 
         <div class="ad-slot">[Anuncio AdSense 1]</div>
 
-        <h2>Resumen rápido: las 5 mejores sillas ergonómicas de 2026</h2>
+        <h2 data-i18n="oficina.quickTitle">Resumen rápido: las 5 mejores sillas ergonómicas de 2026</h2>
 
         <table class="comparison-table">
           <thead>
             <tr>
-              <th>Modelo</th>
-              <th>Tipo</th>
-              <th>Precio</th>
-              <th>Valoración</th>
-              <th>Lo mejor</th>
+              <th data-i18n="oficina.t1Th1">Modelo</th>
+              <th data-i18n="oficina.t1Th2">Tipo</th>
+              <th data-i18n="oficina.t1Th3">Precio</th>
+              <th data-i18n="oficina.t1Th4">Valoración</th>
+              <th data-i18n="oficina.t1Th5">Lo mejor</th>
             </tr>
           </thead>
           <tbody>
             <tr class="winner">
-              <td><strong>🥇 Sihoo M57</strong></td>
-              <td>Malla ergonómica</td>
-              <td>~159 €</td>
-              <td>★★★★ 4.4/5</td>
-              <td>Mejor relación calidad-precio</td>
+              <td><strong data-i18n="oficina.p1Name">🥇 Sihoo M57</strong></td>
+              <td data-i18n="oficina.p1Type">Malla ergonómica</td>
+              <td data-i18n="oficina.p1Price">~159 €</td>
+              <td data-i18n="oficina.p1Rating">★★★★ 4.4/5</td>
+              <td data-i18n="oficina.p1Best">Mejor relación calidad-precio</td>
             </tr>
             <tr>
-              <td><strong>🥈 Sihoo D01-S</strong></td>
-              <td>Premium reposabrazos 4D</td>
-              <td>~219 €</td>
-              <td>★★★★ 4.3/5</td>
-              <td>Mejor para largas horas</td>
+              <td><strong data-i18n="oficina.p2Name">🥈 Sihoo D01-S</strong></td>
+              <td data-i18n="oficina.p2Type">Premium reposabrazos 4D</td>
+              <td data-i18n="oficina.p2Price">~219 €</td>
+              <td data-i18n="oficina.p2Rating">★★★★ 4.3/5</td>
+              <td data-i18n="oficina.p2Best">Mejor para largas horas</td>
             </tr>
             <tr>
-              <td><strong>🥉 Cazar Ejecutiva</strong></td>
-              <td>Acolchada cuero</td>
-              <td>~169 €</td>
-              <td>★★★★½ 4.5/5</td>
-              <td>Mejor acolchada</td>
+              <td><strong data-i18n="oficina.p3Name">🥉 Cazar Ejecutiva</strong></td>
+              <td data-i18n="oficina.p3Type">Acolchada cuero</td>
+              <td data-i18n="oficina.p3Price">~169 €</td>
+              <td data-i18n="oficina.p3Rating">★★★★½ 4.5/5</td>
+              <td data-i18n="oficina.p3Best">Mejor acolchada</td>
             </tr>
             <tr>
-              <td><strong>4. Hygiatic Oficina</strong></td>
-              <td>Malla con lumbar</td>
-              <td>~89 €</td>
-              <td>★★★★½ 4.5/5</td>
-              <td>Mejor calidad-precio ajustado</td>
+              <td><strong data-i18n="oficina.p4Name">4. Hygiatic Oficina</strong></td>
+              <td data-i18n="oficina.p4Type">Malla con lumbar</td>
+              <td data-i18n="oficina.p4Price">~89 €</td>
+              <td data-i18n="oficina.p4Rating">★★★★½ 4.5/5</td>
+              <td data-i18n="oficina.p4Best">Mejor calidad-precio ajustado</td>
             </tr>
             <tr>
-              <td><strong>5. GTPlayer Gaming</strong></td>
-              <td>Deportiva lumbar</td>
-              <td>~99 €</td>
-              <td>★★★★ 4.4/5</td>
-              <td>Mejor para usuarios altos</td>
+              <td><strong data-i18n="oficina.p5Name">5. GTPlayer Gaming</strong></td>
+              <td data-i18n="oficina.p5Type">Deportiva lumbar</td>
+              <td data-i18n="oficina.p5Price">~99 €</td>
+              <td data-i18n="oficina.p5Rating">★★★★ 4.4/5</td>
+              <td data-i18n="oficina.p5Best">Mejor para usuarios altos</td>
             </tr>
           </tbody>
         </table>
@@ -110,201 +115,221 @@
         <div class="ad-slot">[Anuncio AdSense 2]</div>
 
         <!-- PRODUCTO 1 -->
-        <h2>🥇 Sihoo M57 — La mejor relación calidad-precio</h2>
+        <h2 data-i18n="oficina.p1Title">🥇 Sihoo M57 — La mejor relación calidad-precio</h2>
 
         <div class="product-card">
           <img class="product-card-img" src="https://images.unsplash.com/photo-1598300188376-2c8442f63327?w=200&q=80" alt="Silla ergonómica Sihoo M57" loading="lazy" />
           <div class="product-card-info">
-            <h4>Sihoo M57</h4>
-            <div class="rating">★★★★ 4.4/5 · 4.200 valoraciones</div>
-            <div class="price">~159 €</div>
+            <h4 data-i18n="oficina.p1CardTitle">Sihoo M57</h4>
+            <div class="rating" data-i18n="oficina.p1CardRating">★★★★ 4.4/5 · 4.200 valoraciones</div>
+            <div class="price" data-i18n="oficina.p1CardPrice">~159 €</div>
           </div>
           <a class="btn btn-accent" href="#" target="_blank" rel="nofollow sponsored">Ver precio en Amazon</a>
         </div>
 
-        <p>La <strong>Sihoo M57</strong> es toda una referencia en el segmento de sillas ergonómicas por debajo de 200 €. Su respaldo de malla transpirable, el soporte lumbar ajustable en altura y profundidad, y su reposacabezas 3D la convierten en la opción más equilibrada del mercado.</p>
+        <p data-i18n-html="oficina.p1Desc1">La <strong>Sihoo M57</strong> es toda una referencia en el segmento de sillas ergonómicas por debajo de 200 €. Su respaldo de malla transpirable, el soporte lumbar ajustable en altura y profundidad, y su reposacabezas 3D la convierten en la opción más equilibrada del mercado.</p>
 
-        <p>El respaldo de malla favorece la circulación del aire (imprescindible si estás muchas horas sentado), y su estructura de acero le otorga una estabilidad que las sillas de este precio no suelen ofrecer. Además, incluye reposabrazos 2D ajustables y un mecanismo de balanceo con tensión ajustable.</p>
+        <p data-i18n-html="oficina.p1Desc2">El respaldo de malla favorece la circulación del aire (imprescindible si estás muchas horas sentado), y su estructura de acero le otorga una estabilidad que las sillas de este precio no suelen ofrecer. Además, incluye reposabrazos 2D ajustables y un mecanismo de balanceo con tensión ajustable.</p>
 
-        <h3>Ventajas e inconvenientes</h3>
+        <h3 data-i18n="common.prosTitle">Ventajas e inconvenientes</h3>
         <div class="pros-cons">
-          <ul class="pros">
-            <h4>✅ Pros</h4>
-            <li>Respaldo de malla transpirable</li>
-            <li>Soporte lumbar ajustable en altura y profundidad</li>
-            <li>Reposacabezas 3D ajustable</li>
-            <li>Soporta hasta 150 kg</li>
-          </ul>
-          <ul class="cons">
-            <h4>❌ Contras</h4>
-            <li>Reposabrazos solo 2D (no giran)</li>
-            <li>No recomendable para personas muy altas (>1,90 m)</li>
-            <li>El cojín del asiento podría ser más grueso</li>
-          </ul>
+          <div class="pros">
+            <h4 data-i18n="common.prosLabel">✅ Pros</h4>
+            <ul data-i18n-html="oficina.p1Pros">
+              <li>Respaldo de malla transpirable</li>
+              <li>Soporte lumbar ajustable en altura y profundidad</li>
+              <li>Reposacabezas 3D ajustable</li>
+              <li>Soporta hasta 150 kg</li>
+            </ul>
+          </div>
+          <div class="cons">
+            <h4 data-i18n="common.consLabel">❌ Contras</h4>
+            <ul data-i18n-html="oficina.p1Cons">
+              <li>Reposabrazos solo 2D (no giran)</li>
+              <li>No recomendable para personas muy altas (&gt;1,90 m)</li>
+              <li>El cojín del asiento podría ser más grueso</li>
+            </ul>
+          </div>
         </div>
 
-        <p><strong>¿Para quién es?</strong> Para quien busca la mejor silla ergonómica sin pasarse de 200 €. La opción más equilibrada para teletrabajo y uso diario.</p>
+        <p data-i18n-html="oficina.p1For"><strong>¿Para quién es?</strong> Para quien busca la mejor silla ergonómica sin pasarse de 200 €. La opción más equilibrada para teletrabajo y uso diario.</p>
 
         <!-- PRODUCTO 2 -->
-        <h2>🥈 Sihoo D01-S — La opción premium</h2>
+        <h2 data-i18n="oficina.p2Title">🥈 Sihoo D01-S — La opción premium</h2>
 
         <div class="product-card">
           <img class="product-card-img" src="https://images.unsplash.com/photo-1585232003316-d7bffa57f5e5?w=200&q=80" alt="Silla ofimática Sihoo D01-S" loading="lazy" />
           <div class="product-card-info">
-            <h4>Sihoo D01-S</h4>
-            <div class="rating">★★★★ 4.3/5 · 1.890 valoraciones</div>
-            <div class="price">~219 €</div>
+            <h4 data-i18n="oficina.p2CardTitle">Sihoo D01-S</h4>
+            <div class="rating" data-i18n="oficina.p2CardRating">★★★★ 4.3/5 · 1.890 valoraciones</div>
+            <div class="price" data-i18n="oficina.p2CardPrice">~219 €</div>
           </div>
           <a class="btn btn-accent" href="#" target="_blank" rel="nofollow sponsored">Ver precio en Amazon</a>
         </div>
 
-        <p>La <strong>Sihoo D01-S</strong> es la hermana mayor de la M57. Comparte la misma herencia de Sihoo, conocida por fabricar sillas de oficina para grandes empresas. Cuenta con rejilla de malla de gran calidad, soporte sacro ajustable en altura y profundidad, reposacabezas 3D y reposabrazos <strong>4D</strong>.</p>
+        <p data-i18n-html="oficina.p2Desc1">La <strong>Sihoo D01-S</strong> es la hermana mayor de la M57. Comparte la misma herencia de Sihoo, conocida por fabricar sillas de oficina para grandes empresas. Cuenta con rejilla de malla de gran calidad, soporte sacro ajustable en altura y profundidad, reposacabezas 3D y reposabrazos <strong>4D</strong>.</p>
 
-        <p>Los reposabrazos 4D se pueden ajustar en altura, profundidad, anchura y rotación, lo que permite una adaptación casi perfecta a cualquier postura. El plus de precio se justifica sobre todo por la calidad de los materiales y una garantía superior.</p>
+        <p data-i18n-html="oficina.p2Desc2">Los reposabrazos 4D se pueden ajustar en altura, profundidad, anchura y rotación, lo que permite una adaptación casi perfecta a cualquier postura. El plus de precio se justifica sobre todo por la calidad de los materiales y una garantía superior.</p>
 
-        <h3>Ventajas e inconvenientes</h3>
+        <h3 data-i18n="common.prosTitle">Ventajas e inconvenientes</h3>
         <div class="pros-cons">
-          <ul class="pros">
-            <h4>✅ Pros</h4>
-            <li>Reposabrazos 4D ajustables</li>
-            <li>Respaldo de malla de alta calidad</li>
-            <li>Gran transpirabilidad</li>
-            <li>Diseño profesional para oficina</li>
-          </ul>
-          <ul class="cons">
-            <h4>❌ Contras</h4>
-            <li>Precio elevado (219 €)</li>
-            <li>Asiento algo firme</li>
-            <li>Montaje más complejo que la M57</li>
-          </ul>
+          <div class="pros">
+            <h4 data-i18n="common.prosLabel">✅ Pros</h4>
+            <ul data-i18n-html="oficina.p2Pros">
+              <li>Reposabrazos 4D ajustables</li>
+              <li>Respaldo de malla de alta calidad</li>
+              <li>Gran transpirabilidad</li>
+              <li>Diseño profesional para oficina</li>
+            </ul>
+          </div>
+          <div class="cons">
+            <h4 data-i18n="common.consLabel">❌ Contras</h4>
+            <ul data-i18n-html="oficina.p2Cons">
+              <li>Precio elevado (219 €)</li>
+              <li>Asiento algo firme</li>
+              <li>Montaje más complejo que la M57</li>
+            </ul>
+          </div>
         </div>
 
-        <p><strong>¿Para quién es?</strong> Para quienes pasan más de 8 horas sentados al día y necesitan el máximo ajuste posible. Ideal para programadores, diseñadores y ofimática intensiva.</p>
+        <p data-i18n-html="oficina.p2For"><strong>¿Para quién es?</strong> Para quienes pasan más de 8 horas sentados al día y necesitan el máximo ajuste posible. Ideal para programadores, diseñadores y ofimática intensiva.</p>
 
         <div class="ad-slot">[Anuncio AdSense 3]</div>
 
         <!-- PRODUCTO 3 -->
-        <h2>🥉 Cazar Silla Ejecutiva — La más cómoda</h2>
+        <h2 data-i18n="oficina.p3Title">🥉 Cazar Silla Ejecutiva — La más cómoda</h2>
 
         <div class="product-card">
           <img class="product-card-img" src="https://images.unsplash.com/photo-1506438778578-88d0c7fbe3a3?w=200&q=80" alt="Cazar silla ofimática cuero" loading="lazy" />
           <div class="product-card-info">
-            <h4>Cazar Silla Ejecutiva</h4>
-            <div class="rating">★★★★½ 4.5/5 · 3.150 valoraciones</div>
-            <div class="price">~169 €</div>
+            <h4 data-i18n="oficina.p3CardTitle">Cazar Silla Ejecutiva</h4>
+            <div class="rating" data-i18n="oficina.p3CardRating">★★★★½ 4.5/5 · 3.150 valoraciones</div>
+            <div class="price" data-i18n="oficina.p3CardPrice">~169 €</div>
           </div>
           <a class="btn btn-accent" href="#" target="_blank" rel="nofollow sponsored">Ver precio en Amazon</a>
         </div>
 
-        <p>La <strong>Cazar</strong> es la silla más cómoda de la lista. Su asiento de cuero sintético con relleno de espuma de alta densidad ofrece una sensación de confort inmediato. El respaldo es reclinable y el reposacabezas ajustable.</p>
+        <p data-i18n-html="oficina.p3Desc1">La <strong>Cazar</strong> es la silla más cómoda de la lista. Su asiento de cuero sintético con relleno de espuma de alta densidad ofrece una sensación de confort inmediato. El respaldo es reclinable y el reposacabezas ajustable.</p>
 
-        <p>Aunque no transpira tan bien como las de malla completa, su diseño es más elegante y sofisticado, ideal para una oficina en casa con estilo. Los reposabrazos son acolchados y ajustables en altura.</p>
+        <p data-i18n-html="oficina.p3Desc2">Aunque no transpira tan bien como las de malla completa, su diseño es más elegante y sofisticado, ideal para una oficina en casa con estilo. Los reposabrazos son acolchados y ajustables en altura.</p>
 
-        <h3>Ventajas e inconvenientes</h3>
+        <h3 data-i18n="common.prosTitle">Ventajas e inconvenientes</h3>
         <div class="pros-cons">
-          <ul class="pros">
-            <h4>✅ Pros</h4>
-            <li>Asiento de cuero muy cómodo</li>
-            <li>Diseño elegante y sobrio</li>
-            <li>Reposacabezas ajustable</li>
-            <li>Soporta hasta 150 kg</li>
-          </ul>
-          <ul class="cons">
-            <h4>❌ Contras</h4>
-            <li>Sin soporte lumbar ajustable</li>
-            <li>El cuero transpira menos que la malla</li>
-            <li>Peso elevado (20 kg)</li>
-          </ul>
+          <div class="pros">
+            <h4 data-i18n="common.prosLabel">✅ Pros</h4>
+            <ul data-i18n-html="oficina.p3Pros">
+              <li>Asiento de cuero muy cómodo</li>
+              <li>Diseño elegante y sobrio</li>
+              <li>Reposacabezas ajustable</li>
+              <li>Soporta hasta 150 kg</li>
+            </ul>
+          </div>
+          <div class="cons">
+            <h4 data-i18n="common.consLabel">❌ Contras</h4>
+            <ul data-i18n-html="oficina.p3Cons">
+              <li>Sin soporte lumbar ajustable</li>
+              <li>El cuero transpira menos que la malla</li>
+              <li>Peso elevado (20 kg)</li>
+            </ul>
+          </div>
         </div>
 
-        <p><strong>¿Para quién es?</strong> Para quienes priorizan la comodidad del asiento y el diseño sobre la transpirabilidad. Perfecta para reuniones, recepción o teletrabajo en videollamadas.</p>
+        <p data-i18n-html="oficina.p3For"><strong>¿Para quién es?</strong> Para quienes priorizan la comodidad del asiento y el diseño sobre la transpirabilidad. Perfecta para reuniones, recepción o teletrabajo en videollamadas.</p>
 
         <!-- PRODUCTO 4 -->
-        <h2>4. Hygiatic Silla Oficina — Mejor calidad-precio ajustado</h2>
+        <h2 data-i18n="oficina.p4Title">4. Hygiatic Silla Oficina — Mejor calidad-precio ajustado</h2>
 
         <div class="product-card">
           <img class="product-card-img" src="https://images.unsplash.com/photo-1507003211169-0a1dd7acd005?w=200&q=80" alt="Hygiatic silla oficina malla" loading="lazy" />
           <div class="product-card-info">
-            <h4>Hygiatic Silla Oficina</h4>
-            <div class="rating">★★★★½ 4.5/5 · 5.600 valoraciones</div>
-            <div class="price">~89 €</div>
+            <h4 data-i18n="oficina.p4CardTitle">Hygiatic Silla Oficina</h4>
+            <div class="rating" data-i18n="oficina.p4CardRating">★★★★½ 4.5/5 · 5.600 valoraciones</div>
+            <div class="price" data-i18n="oficina.p4CardPrice">~89 €</div>
           </div>
           <a class="btn btn-accent" href="#" target="_blank" rel="nofollow sponsored">Ver precio en Amazon</a>
         </div>
 
-        <p>Hygiatic ha logrado lo que parece imposible: una silla ergonómica de calidad por menos de 100 €. Su soporte lumbar ajustable en altura y profundidad, el respaldo de malla y su cojín de espuma viscoelástica la hacen muy transpirable y cómoda.</p>
+        <p data-i18n-html="oficina.p4Desc1">Hygiatic ha logrado lo que parece imposible: una silla ergonómica de calidad por menos de 100 €. Su soporte lumbar ajustable en altura y profundidad, el respaldo de malla y su cojín de espuma viscoelástica la hacen muy transpirable y cómoda.</p>
 
-        <p>Es fácil de montar (20 minutos), pesa menos de 15 kg y tiene una capacidad de 150 kg. La única concesión al precio son los reposabrazos no ajustables, pero por 89 € es una compra inteligentísima.</p>
+        <p data-i18n-html="oficina.p4Desc2">Es fácil de montar (20 minutos), pesa menos de 15 kg y tiene una capacidad de 150 kg. La única concesión al precio son los reposabrazos no ajustables, pero por 89 € es una compra inteligentísima.</p>
 
-        <h3>Ventajas e inconvenientes</h3>
+        <h3 data-i18n="common.prosTitle">Ventajas e inconvenientes</h3>
         <div class="pros-cons">
-          <ul class="pros">
-            <h4>✅ Pros</h4>
-            <li>Precio imbatible (89 €)</li>
-            <li>Respaldo de malla muy transpirable</li>
-            <li>Soporte lumbar ajustable</li>
-            <li>Fácil de montar en 20 min</li>
-          </ul>
-          <ul class="cons">
-            <h4>❌ Contras</h4>
-            <li>Reposabrazos no ajustables</li>
-            <li>Almohadilla del asiento algo fina</li>
-            <li>Sin reposacabezas</li>
-          </ul>
+          <div class="pros">
+            <h4 data-i18n="common.prosLabel">✅ Pros</h4>
+            <ul data-i18n-html="oficina.p4Pros">
+              <li>Precio imbatible (89 €)</li>
+              <li>Respaldo de malla muy transpirable</li>
+              <li>Soporte lumbar ajustable</li>
+              <li>Fácil de montar en 20 min</li>
+            </ul>
+          </div>
+          <div class="cons">
+            <h4 data-i18n="common.consLabel">❌ Contras</h4>
+            <ul data-i18n-html="oficina.p4Cons">
+              <li>Reposabrazos no ajustables</li>
+              <li>Almohadilla del asiento algo fina</li>
+              <li>Sin reposacabezas</li>
+            </ul>
+          </div>
         </div>
 
-        <p><strong>¿Para quién es?</strong> Para quien tiene un presupuesto ajustado pero no quiere renunciar a una silla ergonómica de malla. La mejor relación calidad-precio del mercado.</p>
+        <p data-i18n-html="oficina.p4For"><strong>¿Para quién es?</strong> Para quien tiene un presupuesto ajustado pero no quiere renunciar a una silla ergonómica de malla. La mejor relación calidad-precio del mercado.</p>
 
         <!-- PRODUCTO 5 -->
-        <h2>5. GTPlayer Silla Gaming — Ideal para personas altas</h2>
+        <h2 data-i18n="oficina.p5Title">5. GTPlayer Silla Gaming — Ideal para personas altas</h2>
 
         <div class="product-card">
           <img class="product-card-img" src="https://images.unsplash.com/photo-1496181130-9b6dbaa0e9b5?w=200&q=80" alt="GTPlayer silla gaming" loading="lazy" />
           <div class="product-card-info">
-            <h4>GTPlayer Silla Gaming</h4>
-            <div class="rating">★★★★ 4.4/5 · 2.800 valoraciones</div>
-            <div class="price">~99 €</div>
+            <h4 data-i18n="oficina.p5CardTitle">GTPlayer Silla Gaming</h4>
+            <div class="rating" data-i18n="oficina.p5CardRating">★★★★ 4.4/5 · 2.800 valoraciones</div>
+            <div class="price" data-i18n="oficina.p5CardPrice">~99 €</div>
           </div>
           <a class="btn btn-accent" href="#" target="_blank" rel="nofollow sponsored">Ver precio en Amazon</a>
         </div>
 
-        <p>La <strong>GTPlayer</strong> es una silla de escritorio con estilo gaming que soporta hasta 150 kg y es ideal para personas de hasta 1,95 m. Su espuma viscoelástica moldeada ofrece un confort excelente para jornadas largas.</p>
+        <p data-i18n-html="oficina.p5Desc1">La <strong>GTPlayer</strong> es una silla de escritorio con estilo gaming que soporta hasta 150 kg y es ideal para personas de hasta 1,95 m. Su espuma viscoelástica moldeada ofrece un confort excelente para jornadas largas.</p>
 
-        <p>El respaldo es reclinable hasta 180°, permitiendo incluso echar una siesta. Incluye cojín lumbar y cervical desmontables. Por 99 €, es difícil de superar en confort y versatilidad.</p>
+        <p data-i18n-html="oficina.p5Desc2">El respaldo es reclinable hasta 180°, permitiendo incluso echar una siesta. Incluye cojín lumbar y cervical desmontables. Por 99 €, es difícil de superar en confort y versatilidad.</p>
 
-        <h3>Ventajas e inconvenientes</h3>
+        <h3 data-i18n="common.prosTitle">Ventajas e inconvenientes</h3>
         <div class="pros-cons">
-          <ul class="pros">
-            <h4>✅ Pros</h4>
-            <li>Ideal para personas altas (hasta 1,95 m)</li>
-            <li>Espuma viscoelástica muy cómoda</li>
-            <li>Respaldo reclinable 180°</li>
-            <li>Incluye cojines lumbar y cervical</li>
-          </ul>
-          <ul class="cons">
-            <h4>❌ Contras</h4>
-            <li>Reposabrazos fijos (no ajustables)</li>
-            <li>Estética gaming (no apta para oficinas serias)</li>
-            <li>La tela del cojín tiende a formar bolitas con el uso</li>
-          </ul>
+          <div class="pros">
+            <h4 data-i18n="common.prosLabel">✅ Pros</h4>
+            <ul data-i18n-html="oficina.p5Pros">
+              <li>Ideal para personas altas (hasta 1,95 m)</li>
+              <li>Espuma viscoelástica muy cómoda</li>
+              <li>Respaldo reclinable 180°</li>
+              <li>Incluye cojines lumbar y cervical</li>
+            </ul>
+          </div>
+          <div class="cons">
+            <h4 data-i18n="common.consLabel">❌ Contras</h4>
+            <ul data-i18n-html="oficina.p5Cons">
+              <li>Reposabrazos fijos (no ajustables)</li>
+              <li>Estética gaming (no apta para oficinas serias)</li>
+              <li>La tela del cojín tiende a formar bolitas con el uso</li>
+            </ul>
+          </div>
         </div>
 
-        <p><strong>¿Para quién es?</strong> Para usuarios altos o corpulentos que necesitan una silla ancha y resistente sin gastar una fortuna. También para gamers que quieren una silla todoterreno.</p>
+        <p data-i18n-html="oficina.p5For"><strong>¿Para quién es?</strong> Para usuarios altos o corpulentos que necesitan una silla ancha y resistente sin gastar una fortuna. También para gamers que quieren una silla todoterreno.</p>
 
         <div class="ad-slot">[Anuncio AdSense 4]</div>
 
         <!-- CONCLUSIÓN -->
-        <h2>Tabla comparativa final</h2>
+        <h2 data-i18n="oficina.finalTitle">Tabla comparativa final</h2>
 
         <table class="comparison-table">
           <thead>
             <tr>
-              <th>Modelo</th>
-              <th>Precio</th>
-              <th>Malla</th>
-              <th>Lumbar</th>
-              <th>Reposabrazos</th>
-              <th>Peso máx.</th>
+              <th data-i18n="oficina.t2Th1">Modelo</th>
+              <th data-i18n="oficina.t2Th2">Precio</th>
+              <th data-i18n="oficina.t2Th3">Malla</th>
+              <th data-i18n="oficina.t2Th4">Lumbar</th>
+              <th data-i18n="oficina.t2Th5">Reposabrazos</th>
+              <th data-i18n="oficina.t2Th6">Peso máx.</th>
             </tr>
           </thead>
           <tbody>
@@ -351,27 +376,27 @@
           </tbody>
         </table>
 
-        <h2>Conclusión — ¿cuál comprar?</h2>
+        <h2 data-i18n="oficina.conclusionTitle">Conclusión — ¿cuál comprar?</h2>
 
-        <p>La elección depende de tus necesidades y presupuesto:</p>
+        <p data-i18n="oficina.conclusionIntro">La elección depende de tus necesidades y presupuesto:</p>
 
-        <p><strong>🥇 Para la mayoría de personas:</strong> <strong>Sihoo M57</strong> — la mejor silla ergonómica calidad-precio por 159 €. Cómoda, transpirable y ajustable.</p>
+        <p data-i18n-html="oficina.conclusionP1"><strong>🥇 Para la mayoría de personas:</strong> <strong>Sihoo M57</strong> — la mejor silla ergonómica calidad-precio por 159 €. Cómoda, transpirable y ajustable.</p>
 
-        <p><strong>🥈 Si trabajas muchas horas:</strong> <strong>Sihoo D01-S</strong> — reposabrazos 4D y malla premium para jornadas intensivas.</p>
+        <p data-i18n-html="oficina.conclusionP2"><strong>🥈 Si trabajas muchas horas:</strong> <strong>Sihoo D01-S</strong> — reposabrazos 4D y malla premium para jornadas intensivas.</p>
 
-        <p><strong>🥉 Si buscas confort máximo:</strong> <strong>Cazar Ejecutiva</strong> — asiento acolchado de cuero, ideal si no sufres calor.</p>
+        <p data-i18n-html="oficina.conclusionP3"><strong>🥉 Si buscas confort máximo:</strong> <strong>Cazar Ejecutiva</strong> — asiento acolchado de cuero, ideal si no sufres calor.</p>
 
-        <p><strong>💰 Presupuesto ajustado:</strong> <strong>Hygiatic</strong> — por 89 € tienes una silla de malla con soporte lumbar.</p>
+        <p data-i18n-html="oficina.conclusionP4"><strong>💰 Presupuesto ajustado:</strong> <strong>Hygiatic</strong> — por 89 € tienes una silla de malla con soporte lumbar.</p>
 
-        <p><strong>🔝 Si eres alto o corpulento:</strong> <strong>GTPlayer</strong> — hasta 150 kg y 1,95 m de altura.</p>
+        <p data-i18n-html="oficina.conclusionP5"><strong>🔝 Si eres alto o corpulento:</strong> <strong>GTPlayer</strong> — hasta 150 kg y 1,95 m de altura.</p>
 
         <div style="text-align: center; margin: 40px 0;">
-          <a class="btn btn-accent" href="#" target="_blank" rel="nofollow sponsored" style="font-size: 1.1rem; padding: 16px 40px;">
+          <a class="btn btn-accent" href="#" target="_blank" rel="nofollow sponsored" style="font-size: 1.1rem; padding: 16px 40px;" data-i18n="oficina.ctaBtn">
             🛒 Ver ofertas en Amazon
           </a>
         </div>
 
-        <div class="disclosure">
+        <div class="disclosure" data-i18n="common.disclosure">
           ⚠️ Este artículo contiene enlaces de afiliado. Si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Esto nos ayuda a mantener la guía actualizada. Todos los productos han sido seleccionados según sus ventas y valoraciones reales en Amazon España.
         </div>
 
@@ -383,26 +408,26 @@
     <div class="container">
       <div class="footer-grid">
         <div class="footer-brand">
-          <h3>🪑 Mejores Sillas Ergonómicas 2026</h3>
-          <p>Guía actualizada con las sillas de oficina más vendidas en Amazon España. Comparamos precios, valoraciones y características para ayudarte a elegir.</p>
+          <h3 data-i18n="oficina.footerBrand">🪑 Mejores Sillas Ergonómicas 2026</h3>
+          <p data-i18n="oficina.footerDesc">Guía actualizada con las sillas de oficina más vendidas en Amazon España. Comparamos precios, valoraciones y características para ayudarte a elegir.</p>
         </div>
         <div>
-          <h4>Enlaces</h4>
+          <h4 data-i18n="oficina.footerLinks">Enlaces</h4>
           <ul class="footer-links">
-            <li><a href="../index.html">Inicio</a></li>
-            <li><a href="index.html">Sillas</a></li>
+            <li><a href="../index.html" data-i18n="oficina.footerLinkHome">Inicio</a></li>
+            <li><a href="index.html" data-i18n="oficina.footerLinkChairs">Sillas</a></li>
           </ul>
         </div>
         <div>
-          <h4>Legal</h4>
+          <h4 data-i18n="oficina.footerLegal">Legal</h4>
           <ul class="footer-links">
-            <li><a href="#">Política de privacidad</a></li>
-            <li><a href="#">Aviso de afiliados</a></li>
+            <li><a href="#" data-i18n="common.navPrivacy">Política de privacidad</a></li>
+            <li><a href="#" data-i18n="common.navAffiliate">Aviso de afiliados</a></li>
           </ul>
         </div>
       </div>
       <div class="footer-bottom">
-        <p>© 2026 Mejores Sillas Ergonómicas · Algunos enlaces son de afiliado. Si compras a través de ellos, recibimos una comisión sin coste adicional para ti.</p>
+        <p data-i18n="common.copyright">© 2026 Mejores Sillas Ergonómicas · Algunos enlaces son de afiliado. Si compras a través de ellos, recibimos una comisión sin coste adicional para ti.</p>
       </div>
     </div>
   </footer>

@@ -9,17 +9,20 @@ Web de comparativa de auriculares (top 5 Amazon 2026).
 - URL: https://sergio17ss.github.io/webs-afiliados/auriculares/
 - Enlaces de afiliado pendientes (marcados con `href="#"`)
 
+### 🪑 oficina/
+Web de comparativa de sillas ergonómicas (top 5 Amazon 2026).
+- URL: https://sergio17ss.github.io/webs-afiliados/oficina/
+
 ## Estados de tareas
 
-_(actualizar aquí los estados de las tareas en curso)_
-
-- [ ] Poner enlaces de afiliado de Amazon
+- [x] i18n ES/EN implementado en todas las páginas (js/i18n.js + lang switcher)
+- [ ] Poner enlaces de afiliado de Amazon (sergio tiene los ASINs)
 - [ ] Solicitar AdSense
 - [ ] Crear siguiente web (pendiente definir temática)
 
 ## Próximos pasos acordados
 
-_(lo que se decida entre los dos, se anota aquí)_
+- Sergio pasa los links de afiliado con su tag → se actualizan los href de auriculares
 
 ## Notas importantes
 
@@ -27,3 +30,4 @@ _(lo que se decida entre los dos, se anota aquí)_
 - Los estilos compartidos están en `css/` raíz
 - Cada web nueva se crea en una carpeta con su propio `index.html`
 - Se usa GitHub Pages con despliegue automático desde `main`
+- **i18n**: sistema casero con `js/i18n.js`, `data-i18n` attributes, y botón de idioma en el header. Idioma guardado en localStorage. Texto por defecto: español. Añadir una página nueva requiere definir sus claves en el diccionario `dict` de `js/i18n.js` y poner `data-i18n` en los elementos HTML.
