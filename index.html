@@ -4,14 +4,58 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Guías de compra independientes. Encuentra el mejor producto para ti." />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://sergio17ss.github.io/webs-afiliados/" />
+  <meta name="author" content="Guías de Compra" />
   <title>Guías de Compra</title>
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Guías de Compra" />
+  <meta property="og:description" content="Guías de compra independientes. Encuentra el mejor producto para ti." />
+  <meta property="og:url" content="https://sergio17ss.github.io/webs-afiliados/" />
+  <meta property="og:site_name" content="Guías de Compra" />
+  <meta property="og:locale" content="es_ES" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Guías de Compra" />
+  <meta name="twitter:description" content="Guías de compra independientes. Encuentra el mejor producto para ti." />
+
+  <!-- Hreflang -->
+  <link rel="alternate" hreflang="es" href="https://sergio17ss.github.io/webs-afiliados/" />
+  <link rel="alternate" hreflang="en" href="https://sergio17ss.github.io/webs-afiliados/" />
+  <link rel="alternate" hreflang="x-default" href="https://sergio17ss.github.io/webs-afiliados/" />
+
+  <!-- Preconnect -->
+  <link rel="preconnect" href="https://images.unsplash.com" />
+  <link rel="dns-prefetch" href="https://images.unsplash.com" />
+
   <link rel="stylesheet" href="css/style.css" />
   <script defer src="js/i18n.js"></script>
+
+  <!-- Schema: WebSite + Organization -->
+  <script type="application/ld+json">
+  [{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Guías de Compra",
+    "url": "https://sergio17ss.github.io/webs-afiliados/",
+    "description": "Guías de compra independientes con comparativas de productos y análisis detallados.",
+    "inLanguage": "es"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Guías de Compra",
+    "url": "https://sergio17ss.github.io/webs-afiliados/"
+  }]
+  </script>
 </head>
 <body>
-  <header class="header">
+  <header class="header" role="banner">
     <div class="header-inner">
-      <a href="." class="header-logo"><span>G</span>uías de Compra</a>
+      <a href="." class="header-logo" aria-label="Guías de Compra - Inicio"><span>G</span>uías de Compra</a>
       <div class="header-actions">
         <button class="lang-btn" onclick="i18n.toggleLang()" aria-label="Switch language">
           <span class="lang-btn-text">EN</span>
@@ -20,36 +64,38 @@
     </div>
   </header>
 
-  <section class="hero">
-    <h1 data-i18n="index.title">📊 Guías de Compra</h1>
-    <p data-i18n="index.subtitle">Selecciona una categoría para ver sus guías y comparativas</p>
-  </section>
+  <main role="main">
+    <section class="hero">
+      <h1 data-i18n="index.title">📊 Guías de Compra</h1>
+      <p data-i18n="index.subtitle">Selecciona una categoría para ver sus guías y comparativas</p>
+    </section>
 
-  <section class="section">
-    <div class="category-grid">
-      <a href="auriculares/" class="category-card">
-        <div class="icon">🎧</div>
-        <h2 data-i18n="index.card1Title">Auriculares</h2>
-        <p data-i18n-html="index.card1Desc">Top 5 mejores auriculares 2026 · Comparativa</p>
-        <span class="card-arrow">Leer guía →</span>
-      </a>
+    <section class="section" aria-label="Categorías">
+      <div class="category-grid">
+        <a href="auriculares/" class="category-card">
+          <div class="icon" aria-hidden="true">🎧</div>
+          <h2 data-i18n="index.card1Title">Auriculares</h2>
+          <p data-i18n-html="index.card1Desc">Top 5 mejores auriculares 2026 · Comparativa</p>
+          <span class="card-arrow">Leer guía →</span>
+        </a>
 
-      <a href="oficina/" class="category-card">
-        <div class="icon">🪑</div>
-        <h2 data-i18n="index.card2Title">Sillas Ergonómicas</h2>
-        <p data-i18n-html="index.card2Desc">Top 5 mejores sillas oficina 2026 · Comparativa</p>
-        <span class="card-arrow">Leer guía →</span>
-      </a>
+        <a href="oficina/" class="category-card">
+          <div class="icon" aria-hidden="true">🪑</div>
+          <h2 data-i18n="index.card2Title">Sillas Ergonómicas</h2>
+          <p data-i18n-html="index.card2Desc">Top 5 mejores sillas oficina 2026 · Comparativa</p>
+          <span class="card-arrow">Leer guía →</span>
+        </a>
 
-      <a href="#" class="category-card coming-soon">
-        <div class="icon">🔜</div>
-        <h2 data-i18n="common.comingSoon">Próximamente</h2>
-        <p data-i18n="common.comingSoonDesc">Nuevas categorías en camino</p>
-      </a>
-    </div>
-  </section>
+        <a href="#" class="category-card coming-soon" aria-disabled="true">
+          <div class="icon" aria-hidden="true">🔜</div>
+          <h2 data-i18n="common.comingSoon">Próximamente</h2>
+          <p data-i18n="common.comingSoonDesc">Nuevas categorías en camino</p>
+        </a>
+      </div>
+    </section>
+  </main>
 
-  <footer class="footer">
+  <footer class="footer" role="contentinfo">
     <div class="footer-grid">
       <div class="footer-brand">
         <h3>Guías de Compra</h3>

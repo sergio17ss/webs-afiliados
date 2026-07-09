@@ -3,19 +3,91 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- SEO -->
+  <title>Título del Artículo · Guías de Compra</title>
   <meta name="description" content="Descripción del artículo para SEO. Máximo 160 caracteres." />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://sergio17ss.github.io/webs-afiliados/articulos/plantilla.html" />
+  <meta name="author" content="Guías de Compra" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="article" />
   <meta property="og:title" content="Título del Artículo · Guías de Compra" />
   <meta property="og:description" content="Descripción del artículo para redes sociales." />
-  <meta property="og:type" content="article" />
-  <meta name="robots" content="index, follow" />
-  <title>Título del Artículo · Guías de Compra</title>
+  <meta property="og:url" content="https://sergio17ss.github.io/webs-afiliados/articulos/plantilla.html" />
+  <meta property="og:site_name" content="Guías de Compra" />
+  <meta property="og:locale" content="es_ES" />
+  <meta property="og:image" content="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1200&q=80" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="article:published_time" content="2026-07-08T08:00:00+02:00" />
+  <meta property="article:modified_time" content="2026-07-08T08:00:00+02:00" />
+  <meta property="article:author" content="Guías de Compra" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Título del Artículo · Guías de Compra" />
+  <meta name="twitter:description" content="Descripción del artículo para redes sociales." />
+  <meta name="twitter:image" content="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1200&q=80" />
+
+  <!-- Hreflang (client-side i18n, same URL for both) -->
+  <link rel="alternate" hreflang="es" href="https://sergio17ss.github.io/webs-afiliados/articulos/plantilla.html" />
+  <link rel="alternate" hreflang="en" href="https://sergio17ss.github.io/webs-afiliados/articulos/plantilla.html" />
+  <link rel="alternate" hreflang="x-default" href="https://sergio17ss.github.io/webs-afiliados/articulos/plantilla.html" />
+
+  <!-- Preconnect -->
+  <link rel="preconnect" href="https://images.unsplash.com" />
+  <link rel="dns-prefetch" href="https://images.unsplash.com" />
+
+  <!-- Styles -->
   <link rel="stylesheet" href="../css/style.css" />
+
+  <!-- Scripts -->
   <script defer src="../js/i18n.js"></script>
+
+  <!-- Schema: Article + BreadcrumbList -->
+  <script type="application/ld+json">
+  [{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Título del Artículo",
+    "description": "Descripción del artículo",
+    "datePublished": "2026-07-08T08:00:00+02:00",
+    "dateModified": "2026-07-08T08:00:00+02:00",
+    "author": {
+      "@type": "Person",
+      "name": "Guías de Compra"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Guías de Compra"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1200&q=80",
+      "width": 1200,
+      "height": 630
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://sergio17ss.github.io/webs-afiliados/articulos/plantilla.html"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://sergio17ss.github.io/webs-afiliados/" },
+      { "@type": "ListItem", "position": 2, "name": "Artículos", "item": "https://sergio17ss.github.io/webs-afiliados/articulos/plantilla.html" }
+    ]
+  }]
+  </script>
 </head>
 <body>
-  <header class="header">
+  <header class="header" role="banner">
     <div class="header-inner">
-      <a href="../index.html" class="header-logo" data-i18n="template.navBrand">Guías de Compra</a>
+      <a href="../index.html" class="header-logo" data-i18n="template.navBrand" aria-label="Volver al inicio">Guías de Compra</a>
       <div class="header-actions">
         <button class="lang-btn" onclick="i18n.toggleLang()" aria-label="Switch language">
           <span class="lang-btn-text">EN</span>
@@ -24,14 +96,14 @@
     </div>
   </header>
 
-  <main class="article-page">
+  <main class="article-page" role="main">
     <article class="article">
       <header class="article-header">
-        <div class="article-breadcrumb">
+        <nav class="article-breadcrumb" aria-label="Breadcrumb">
           <a href="../index.html">Inicio</a>
-          <span>→</span>
+          <span aria-hidden="true">→</span>
           <span data-i18n="template.category">Tecnología</span>
-        </div>
+        </nav>
         <h1 data-i18n="template.title">Título del artículo — los mejores [producto] de 2026</h1>
         <div class="article-meta">
           <span data-i18n="template.metaUpdated">📅 Actualizado: julio 2026</span>
@@ -39,22 +111,26 @@
         </div>
       </header>
 
-      <img class="article-featured-img" src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80" alt="Imagen principal" loading="eager" />
+      <img class="article-featured-img" src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80" alt="Descripción de la imagen principal del artículo" loading="eager" />
 
       <div class="article-content">
         <p data-i18n-html="template.introP1"><strong>Introducción:</strong> Aquí va un párrafo introductorio explicando qué vas a comparar y por qué es útil para el lector. Incluye la palabra clave principal de forma natural.</p>
 
-        <div class="ad-slot">[Anuncio AdSense 1]</div>
+        <div class="ad-slot" aria-label="Anuncio">[Anuncio AdSense 1]</div>
 
         <h2>1. [Producto A] — El mejor calidad-precio</h2>
-        <div class="product-card">
-          <img class="product-card-img" src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=200&q=80" alt="Producto A" loading="lazy" />
+        <div class="product-card" itemscope itemtype="https://schema.org/Product">
+          <img class="product-card-img" src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=200&q=80" alt="[Producto A] - descripción del producto" loading="lazy" />
           <div class="product-card-info">
-            <h4>Producto A</h4>
-            <div class="rating">★★★★☆ 4.2/5</div>
-            <div class="price">99,99 €</div>
+            <h4 itemprop="name">Producto A</h4>
+            <div class="rating" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+              <span itemprop="ratingValue">4.2</span>/5 · <span itemprop="reviewCount">100</span> valoraciones
+            </div>
+            <div class="price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+              <span itemprop="price">99.99</span> <span itemprop="priceCurrency">EUR</span>
+            </div>
           </div>
-          <a class="btn btn-accent" href="https://amazon.es" target="_blank" rel="nofollow sponsored">Ver precio</a>
+          <a class="btn btn-accent" href="https://amazon.es" target="_blank" rel="nofollow sponsored noopener noreferrer" itemprop="url">Ver precio en Amazon</a>
         </div>
         <p>Descripción detallada del Producto A. Qué ofrece, sus ventajas principales, para quién es ideal. Incluir pros y contras, especificaciones clave y experiencia de uso.</p>
 
@@ -77,17 +153,21 @@
           </div>
         </div>
 
-        <div class="ad-slot">[Anuncio AdSense 2]</div>
+        <div class="ad-slot" aria-label="Anuncio">[Anuncio AdSense 2]</div>
 
         <h2>2. [Producto B] — La opción premium</h2>
-        <div class="product-card">
-          <img class="product-card-img" src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=200&q=80" alt="Producto B" loading="lazy" />
+        <div class="product-card" itemscope itemtype="https://schema.org/Product">
+          <img class="product-card-img" src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=200&q=80" alt="[Producto B] - descripción del producto" loading="lazy" />
           <div class="product-card-info">
-            <h4>Producto B</h4>
-            <div class="rating">★★★★★ 4.8/5</div>
-            <div class="price">199,99 €</div>
+            <h4 itemprop="name">Producto B</h4>
+            <div class="rating" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+              <span itemprop="ratingValue">4.8</span>/5 · <span itemprop="reviewCount">200</span> valoraciones
+            </div>
+            <div class="price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+              <span itemprop="price">199.99</span> <span itemprop="priceCurrency">EUR</span>
+            </div>
           </div>
-          <a class="btn btn-accent" href="https://amazon.es" target="_blank" rel="nofollow sponsored">Ver precio</a>
+          <a class="btn btn-accent" href="https://amazon.es" target="_blank" rel="nofollow sponsored noopener noreferrer" itemprop="url">Ver precio en Amazon</a>
         </div>
         <p>Descripción detallada del Producto B. Para quién merece la pena pagar más. Diferencias clave con el producto anterior.</p>
 
@@ -111,33 +191,34 @@
         </div>
 
         <h2>Tabla comparativa</h2>
-        <div class="comparison-table-wrap">
+        <div class="comparison-table-wrap" role="region" aria-label="Tabla comparativa de productos">
           <table class="comparison-table">
+            <caption class="visually-hidden">Comparativa de características entre Producto A y Producto B</caption>
             <thead>
               <tr>
-                <th>Característica</th>
-                <th class="winner">Producto A 🏆</th>
-                <th>Producto B</th>
+                <th scope="col">Característica</th>
+                <th scope="col" class="winner">Producto A 🏆</th>
+                <th scope="col">Producto B</th>
               </tr>
             </thead>
             <tbody>
               <tr>
-                <td>Precio</td>
+                <th scope="row">Precio</th>
                 <td class="winner">99,99 €</td>
                 <td>199,99 €</td>
               </tr>
               <tr>
-                <td>Peso</td>
+                <th scope="row">Peso</th>
                 <td class="winner">250 g</td>
                 <td>350 g</td>
               </tr>
               <tr>
-                <td>Autonomía</td>
+                <th scope="row">Autonomía</th>
                 <td>10 horas</td>
                 <td class="winner">20 horas</td>
               </tr>
               <tr>
-                <td>Garantía</td>
+                <th scope="row">Garantía</th>
                 <td>2 años</td>
                 <td class="winner">3 años</td>
               </tr>
@@ -145,7 +226,7 @@
           </table>
         </div>
 
-        <div class="ad-slot">[Anuncio AdSense 3]</div>
+        <div class="ad-slot" aria-label="Anuncio">[Anuncio AdSense 3]</div>
 
         <h2 data-i18n="template.conclusionTitle">Conclusión — ¿cuál comprar?</h2>
         <p>Resumen final recomendando uno u otro según el perfil del comprador.</p>
@@ -153,8 +234,54 @@
         <p data-i18n-html="template.conclusionP1"><strong>🧑‍💻 Para la mayoría de personas:</strong> El Producto A es la mejor opción por su relación calidad-precio.</p>
         <p data-i18n-html="template.conclusionP2"><strong>🎯 Para los más exigentes:</strong> El Producto B merece la pena si necesitas [ventaja clave].</p>
 
+        <!-- Schema: Product comparison -->
+        <script type="application/ld+json">
+        [{
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Producto A",
+          "description": "Descripción breve del Producto A.",
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80",
+          "brand": { "@type": "Brand", "name": "Marca A" },
+          "offers": {
+            "@type": "Offer",
+            "price": "99.99",
+            "priceCurrency": "EUR",
+            "url": "https://amazon.es",
+            "availability": "https://schema.org/InStock"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.2",
+            "reviewCount": 100,
+            "bestRating": "5"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Producto B",
+          "description": "Descripción breve del Producto B.",
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80",
+          "brand": { "@type": "Brand", "name": "Marca B" },
+          "offers": {
+            "@type": "Offer",
+            "price": "199.99",
+            "priceCurrency": "EUR",
+            "url": "https://amazon.es",
+            "availability": "https://schema.org/InStock"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "reviewCount": 200,
+            "bestRating": "5"
+          }
+        }]
+        </script>
+
         <div class="cta-section">
-          <a class="btn btn-accent" href="https://amazon.es" target="_blank" rel="nofollow sponsored" data-i18n="template.ctaBtn">🛒 Ver ofertas en Amazon</a>
+          <a class="btn btn-accent" href="https://amazon.es" target="_blank" rel="nofollow sponsored noopener noreferrer" data-i18n="template.ctaBtn">🛒 Ver ofertas en Amazon</a>
         </div>
 
         <div class="disclosure" data-i18n="common.disclosure">⚠️ Este artículo contiene enlaces de afiliado. Si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Esto nos ayuda a mantener el sitio. Gracias por tu apoyo.</div>
@@ -162,7 +289,7 @@
     </article>
   </main>
 
-  <footer class="footer">
+  <footer class="footer" role="contentinfo">
     <div class="footer-grid">
       <div class="footer-brand">
         <h3 data-i18n="template.footerBrand">Guías de Compra</h3>
