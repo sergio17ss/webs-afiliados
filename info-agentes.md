@@ -24,6 +24,13 @@ Web de comparativa de sillas ergonómicas (top 5 Amazon 2026).
 
 - Sergio pasa los links de afiliado con su tag → se actualizan los href de auriculares
 
+## Brand: DuoStudio (julio 2026)
+
+La web pasó a usar **DuoStudio** como marca principal en lugar de "Guías de Compra".
+- El header, footer, meta tags y schema.org usan "DuoStudio"
+- Las claves `common.navBrand` y `template.navBrand` en i18n.js apuntan a "DuoStudio"
+- El tagline descriptivo ("Guías de Compra" / "Buying Guides") se mantiene como sub-brand en títulos y metadatos
+
 ## Diseño v2 (julio 2026)
 
 Se aplicó un rediseño profesional completo:

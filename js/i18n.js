@@ -14,20 +14,20 @@
         disclosure:
           '⚠️ Este artículo contiene enlaces de afiliado. Si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Esto nos ayuda a mantener las guías actualizadas. Todos los productos han sido seleccionados según sus ventas y valoraciones reales en Amazon España.',
         copyright:
-          '© 2026 Guías de Compra · Algunos enlaces son de afiliado. Si compras a través de ellos, recibimos una comisión sin coste adicional para ti.',
+          '© 2026 DuoStudio · Algunos enlaces son de afiliado. Si compras a través de ellos, recibimos una comisión sin coste adicional para ti.',
         prosTitle: 'Ventajas e inconvenientes',
         prosLabel: '✅ Pros',
         consLabel: '❌ Contras',
         langBtn: 'EN',
         comingSoon: 'Próximamente',
         comingSoonDesc: 'Nuevas categorías en camino',
-        navBrand: 'Guías de Compra',
+        navBrand: 'DuoStudio',
       },
       index: {
-        metaTitle: 'Guías de Compra',
+        metaTitle: 'DuoStudio · Guías de Compra',
         metaDesc:
-          'Guías de compra independientes. Encuentra el mejor producto para ti.',
-        title: 'Top Productos por Categoría · Guías de Compra',
+          'DuoStudio — guías de compra independientes. Encuentra el mejor producto para ti.',
+        title: 'DuoStudio · Top Productos por Categoría',
         subtitle:
           'Selecciona una categoría para ver sus guías y comparativas',
         card1Title: 'Auriculares',
@@ -48,7 +48,7 @@
         title:
           'Los 5 mejores auriculares para comprar en 2026',
         metaUpdated: '📅 Actualizado: julio 2026',
-        metaAuthor: '✍️ Por: Guías de Compra',
+        metaAuthor: '✍️ Por: DuoStudio',
         introP1:
           '<strong>Elegir unos auriculares nuevos puede ser abrumador.</strong> Con cientos de modelos disponibles en Amazon, entre inalámbricos, con cable, de diadema, intraauriculares, con cancelación de ruido… es fácil perderse.',
         introP2:
@@ -211,7 +211,7 @@
         title:
           'Top 5 sillas ergonómicas para teletrabajar en 2026',
         metaUpdated: '📅 Actualizado: julio 2026',
-        metaAuthor: '✍️ Por: Guías de Compra',
+        metaAuthor: '✍️ Por: DuoStudio',
         introP1:
           '<strong>Pasamos un tercio de nuestra vida sentados.</strong> Tener una silla ergonómica no es un lujo, es una necesidad. Una mala silla puede causar dolor lumbar, cervical y problemas de circulación.',
         introP2:
@@ -359,16 +359,16 @@
         footerLinkChairs: 'Sillas',
       },
       template: {
-        metaTitle: 'Título del Artículo · Guías de Compra',
+        metaTitle: 'Título del Artículo · DuoStudio',
         metaDesc:
           'Descripción del artículo para SEO. Máximo 160 caracteres.',
-        ogTitle: 'Título del Artículo · Guías de Compra',
-        navBrand: 'Guías de Compra',
+        ogTitle: 'Título del Artículo · DuoStudio',
+        navBrand: 'DuoStudio',
         category: 'Tecnología',
         title:
           'Título del artículo — los mejores [producto] de 2026',
         metaUpdated: '📅 Actualizado: julio 2026',
-        metaAuthor: '✍️ Por: Guías de Compra',
+        metaAuthor: '✍️ Por: DuoStudio',
         introP1:
           '<strong>Introducción:</strong> Aquí va un párrafo introductorio explicando qué vas a comparar y por qué es útil para el lector. Incluye la palabra clave principal de forma natural.',
         prosTitle: '✅ Pros',
@@ -380,7 +380,7 @@
         conclusionP2:
           '<strong>🎯 Para los más exigentes:</strong> El Producto B merece la pena si necesitas [ventaja clave].',
         ctaBtn: '🛒 Ver ofertas en Amazon',
-        footerBrand: 'Guías de Compra',
+        footerBrand: 'DuoStudio',
         footerDesc:
           'Comparativas independientes para ayudarte a tomar la mejor decisión de compra.',
         footerLinks: 'Enlaces',
@@ -399,20 +399,20 @@
         disclosure:
           '⚠️ This article contains affiliate links. If you purchase through them, we earn a small commission at no extra cost to you. This helps us keep our guides up to date. All products were selected based on real sales and ratings on Amazon Spain.',
         copyright:
-          '© 2026 Buying Guides · Some links are affiliate links. If you buy through them, we may earn a commission at no extra cost to you.',
+          '© 2026 DuoStudio · Some links are affiliate links. If you buy through them, we may earn a commission at no extra cost to you.',
         prosTitle: 'Pros and Cons',
         prosLabel: '✅ Pros',
         consLabel: '❌ Cons',
         langBtn: 'ES',
         comingSoon: 'Coming Soon',
         comingSoonDesc: 'New categories on the way',
-        navBrand: 'Buying Guides',
+        navBrand: 'DuoStudio',
       },
       index: {
-        metaTitle: 'Buying Guides',
+        metaTitle: 'DuoStudio · Buying Guides',
         metaDesc:
-          'Independent buying guides. Find the best product for you.',
-        title: 'Top Products by Category · Buying Guides',
+          'DuoStudio — independent buying guides. Find the best product for you.',
+        title: 'DuoStudio · Top Products by Category',
         subtitle:
           'Select a category to browse guides and comparisons',
         card1Title: 'Headphones',
@@ -433,7 +433,7 @@
         title:
           'The 5 best headphones to buy in 2026',
         metaUpdated: '📅 Updated: July 2026',
-        metaAuthor: '✍️ By: Buying Guides',
+        metaAuthor: '✍️ By: DuoStudio',
         introP1:
           '<strong>Choosing new headphones can be overwhelming.</strong> With hundreds of models available on Amazon — wireless, wired, over-ear, in-ear, noise-cancelling — it is easy to get lost.',
         introP2:
@@ -595,7 +595,7 @@
         title:
           'Top 5 ergonomic chairs for working from home in 2026',
         metaUpdated: '📅 Updated: July 2026',
-        metaAuthor: '✍️ By: Buying Guides',
+        metaAuthor: '✍️ By: DuoStudio',
         introP1:
           '<strong>We spend a third of our lives sitting.</strong> Having an ergonomic chair is not a luxury — it is a necessity. A bad chair can cause lower back pain, neck strain, and circulation problems.',
         introP2:
@@ -742,16 +742,16 @@
         footerLinkChairs: 'Chairs',
       },
       template: {
-        metaTitle: 'Article Title · Buying Guides',
+        metaTitle: 'Article Title · DuoStudio',
         metaDesc:
           'Article description for SEO. Maximum 160 characters.',
-        ogTitle: 'Article Title · Buying Guides',
-        navBrand: 'Buying Guides',
+        ogTitle: 'Article Title · DuoStudio',
+        navBrand: 'DuoStudio',
         category: 'Technology',
         title:
           'Article title — the best [product] of 2026',
         metaUpdated: '📅 Updated: July 2026',
-        metaAuthor: '✍️ By: Buying Guides',
+        metaAuthor: '✍️ By: DuoStudio',
         introP1:
           '<strong>Introduction:</strong> Here goes an introductory paragraph explaining what you are comparing and why it is useful for the reader. Include the main keyword naturally.',
         prosTitle: '✅ Pros',
@@ -763,7 +763,7 @@
         conclusionP2:
           '<strong>🎯 For demanding users:</strong> Product B is worth it if you need [key advantage].',
         ctaBtn: '🛒 Check deals on Amazon',
-        footerBrand: 'Buying Guides',
+        footerBrand: 'DuoStudio',
         footerDesc:
           'Independent comparisons to help you make the best purchase decision.',
         footerLinks: 'Links',
