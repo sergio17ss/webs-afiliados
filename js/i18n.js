@@ -226,7 +226,7 @@
         metaTitle:
           'Top 5 Mejores Sillas Ergonómicas 2026 · Comparativa',
         metaDesc:
-          'Comparativa de las 5 sillas ergonómicas más vendidas en Amazon España en 2026. Analizamos Sihoo, Hygiatic, Cazar y más.',
+          'Comparativa de las 5 sillas ergonómicas más vendidas en Amazon España en 2026. Analizamos Sihoo, HOLLUDLE, SONGMICS y GTPlayer.',
         ogTitle:
           'Top 5 Mejores Sillas Ergonómicas 2026 · Guía Completa',
         category: '🪑 Sillas de Oficina',
@@ -266,69 +266,69 @@
           '<li>Reposabrazos solo 2D (no giran)</li><li>No recomendable para personas muy altas (&gt;1,90 m)</li><li>El cojín del asiento podría ser más grueso</li>',
         p1For:
           '<strong>¿Para quién es?</strong> Para quien busca la mejor silla ergonómica sin pasarse de 200 €. La opción más equilibrada para teletrabajo y uso diario.',
-        p2Name: '🥈 Sihoo D01-S',
-        p2Type: 'Premium reposabrazos 4D',
-        p2Price: '~219 €',
-        p2Rating: '★★★★ 4.3/5',
-        p2Best: 'Mejor para largas horas',
+        p2Name: '🥈 HOLLUDLE',
+        p2Type: 'Soporte lumbar 3D',
+        p2Price: '~190 €',
+        p2Rating: '★★★★½ 4.6/5',
+        p2Best: 'Mejor ajuste ergonómico',
         p2Title:
-          '🥈 Sihoo D01-S — La opción premium',
-        p2CardTitle: 'Sihoo D01-S',
+          '🥈 HOLLUDLE — La opción premium con ajuste 3D',
+        p2CardTitle: 'HOLLUDLE Ergonómica',
         p2CardRating:
-          '★★★★ 4.3/5 · 1.890 valoraciones',
-        p2CardPrice: '~219 €',
+          '★★★★½ 4.6/5 · 1.329 valoraciones',
+        p2CardPrice: '~190 €',
         p2Desc1:
-          'La <strong>Sihoo D01-S</strong> es la hermana mayor de la M57. Comparte la misma herencia de Sihoo, conocida por fabricar sillas de oficina para grandes empresas. Cuenta con rejilla de malla de gran calidad, soporte sacro ajustable en altura y profundidad, reposacabezas 3D y reposabrazos <strong>4D</strong>.',
+          'La <strong>HOLLUDLE</strong> es una silla ergonómica con soporte lumbar 3D, reposabrazos 3D y reposacabezas 2D. Su diseño en V y respaldo de malla transpirable la hacen ideal para largas jornadas de trabajo. Amazon\'s Choice con más de 1.300 valoraciones.',
         p2Desc2:
-          'Los reposabrazos 4D se pueden ajustar en altura, profundidad, anchura y rotación, lo que permite una adaptación casi perfecta a cualquier postura. El plus de precio se justifica sobre todo por la calidad de los materiales y una garantía superior.',
+          'Incluye mecanismo de balanceo, soporte lumbar ajustable en altura y profundidad, y reposabrazos ajustables en 3 direcciones. Capacidad de 150 kg y base reforzada. Una silla muy completa por menos de 200 €.',
         p2Pros:
-          '<li>Reposabrazos 4D ajustables</li><li>Respaldo de malla de alta calidad</li><li>Gran transpirabilidad</li><li>Diseño profesional para oficina</li>',
+          '<li>Soporte lumbar 3D ajustable</li><li>Reposabrazos 3D y reposacabezas 2D</li><li>Capacidad de 150 kg</li><li>Amazon\'s Choice con buena valoración</li>',
         p2Cons:
-          '<li>Precio elevado (219 €)</li><li>Asiento algo firme</li><li>Montaje más complejo que la M57</li>',
+          '<li>Marca menos conocida que Sihoo</li><li>Precio elevado (190 €)</li><li>Asiento firme como la mayoría de mallas</li>',
         p2For:
-          '<strong>¿Para quién es?</strong> Para quienes pasan más de 8 horas sentados al día y necesitan el máximo ajuste posible. Ideal para programadores, diseñadores y ofimática intensiva.',
-        p3Name: '🥉 Cazar Ejecutiva',
-        p3Type: 'Acolchada cuero',
-        p3Price: '~169 €',
-        p3Rating: '★★★★½ 4.5/5',
-        p3Best: 'Mejor acolchada',
+          '<strong>¿Para quién es?</strong> Para quienes buscan el máximo ajuste ergonómico sin llegar a los 250 € de las marcas premium. Ideal para programadores y teletrabajo intensivo.',
+        p3Name: '🥉 SONGMICS OBN86BK',
+        p3Type: 'Malla con reposacabezas',
+        p3Price: '~99 €',
+        p3Rating: '★★★★ 4.3/5',
+        p3Best: 'Mejor versátil',
         p3Title:
-          '🥉 Cazar Silla Ejecutiva — La más cómoda',
-        p3CardTitle: 'Cazar Silla Ejecutiva',
+          '🥉 SONGMICS OBN86BK — Silla de malla con reposacabezas',
+        p3CardTitle: 'SONGMICS OBN86BK',
         p3CardRating:
-          '★★★★½ 4.5/5 · 3.150 valoraciones',
-        p3CardPrice: '~169 €',
+          '★★★★ 4.3/5 · 10.274 valoraciones',
+        p3CardPrice: '~99 €',
         p3Desc1:
-          'La <strong>Cazar</strong> es la silla más cómoda de la lista. Su asiento de cuero sintético con relleno de espuma de alta densidad ofrece una sensación de confort inmediato. El respaldo es reclinable y el reposacabezas ajustable.',
+          'La <strong>SONGMICS OBN86BK</strong> es una silla de oficina de malla con reposacabezas ajustable y soporte lumbar. Su mecanismo sincronizado permite ajustar la inclinación del respaldo. Amazon\'s Choice con más de 10.000 valoraciones.',
         p3Desc2:
-          'Aunque no transpira tan bien como las de malla completa, su diseño es más elegante y sofisticado, ideal para una oficina en casa con estilo. Los reposabrazos son acolchados y ajustables en altura.',
+          'Reposabrazos abatibles para ahorrar espacio. Asiento acolchado con espuma de alta densidad. Altura regulable entre 45 y 54,5 cm. SONGMICS es una marca consolidada con 95% de valoraciones positivas de más de 10.000 clientes.',
         p3Pros:
-          '<li>Asiento de cuero muy cómodo</li><li>Diseño elegante y sobrio</li><li>Reposacabezas ajustable</li><li>Soporta hasta 150 kg</li>',
+          '<li>Reposacabezas ajustable incluido</li><li>Reposabrazos abatibles (ahorran espacio)</li><li>Malla transpirable de calidad</li><li>Marca SONGMICS con 10.000+ valoraciones</li>',
         p3Cons:
-          '<li>Sin soporte lumbar ajustable</li><li>El cuero transpira menos que la malla</li><li>Peso elevado (20 kg)</li>',
+          '<li>Reposabrazos no ajustables en 3D</li><li>Construcción principalmente de plástico</li><li>Peso máximo 120 kg</li>',
         p3For:
-          '<strong>¿Para quién es?</strong> Para quienes priorizan la comodidad del asiento y el diseño sobre la transpirabilidad. Perfecta para reuniones, recepción o teletrabajo en videollamadas.',
-        p4Name: '4. Hygiatic Oficina',
+          '<strong>¿Para quién es?</strong> Para quien busca una silla de malla completa con reposacabezas a un precio muy competitivo. Ideal para oficina en casa y uso mixto trabajo-gaming.',
+        p4Name: '4. SONGMICS OBN037BKV2',
         p4Type: 'Malla con lumbar',
-        p4Price: '~89 €',
-        p4Rating: '★★★★½ 4.5/5',
+        p4Price: '~80 €',
+        p4Rating: '★★★★ 4.4/5',
         p4Best: 'Mejor calidad-precio ajustado',
         p4Title:
-          '4. Hygiatic Silla Oficina — Mejor calidad-precio ajustado',
-        p4CardTitle: 'Hygiatic Silla Oficina',
+          '4. SONGMICS OBN037BKV2 — La mejor calidad-precio ajustado',
+        p4CardTitle: 'SONGMICS OBN037BKV2',
         p4CardRating:
-          '★★★★½ 4.5/5 · 5.600 valoraciones',
-        p4CardPrice: '~89 €',
+          '★★★★ 4.4/5 · 8.044 valoraciones',
+        p4CardPrice: '~80 €',
         p4Desc1:
-          'Hygiatic ha logrado lo que parece imposible: una silla ergonómica de calidad por menos de 100 €. Su soporte lumbar ajustable en altura y profundidad, el respaldo de malla y su cojín de espuma viscoelástica la hacen muy transpirable y cómoda.',
+          'La <strong>SONGMICS OBN037BKV2</strong> es una silla ergonómica de malla con soporte lumbar ajustable y reposabrazos abatibles. Por menos de 80 €, ofrece características que otras sillas duplican su precio. Amazon\'s Choice con más de 8.000 valoraciones y 200+ compras al mes.',
         p4Desc2:
-          'Es fácil de montar (20 minutos), pesa menos de 15 kg y tiene una capacidad de 150 kg. La única concesión al precio son los reposabrazos no ajustables, pero por 89 € es una compra inteligentísima.',
+          'Asiento de espuma de 6 cm de grosor, respaldo en S que sigue la curvatura de la espalda, y ruedas autoblocantes de seguridad. Capacidad de 120 kg. SONGMICS es una marca TOP con 95% de valoraciones positivas.',
         p4Pros:
-          '<li>Precio imbatible (89 €)</li><li>Respaldo de malla muy transpirable</li><li>Soporte lumbar ajustable</li><li>Fácil de montar en 20 min</li>',
+          '<li>Precio imbatible (80 €)</li><li>Soporte lumbar ajustable</li><li>Respaldo de malla transpirable</li><li>Amazon\'s Choice con 8.000+ valoraciones</li>',
         p4Cons:
-          '<li>Reposabrazos no ajustables</li><li>Almohadilla del asiento algo fina</li><li>Sin reposacabezas</li>',
+          '<li>Reposabrazos abatibles (no 3D)</li><li>Peso máximo 120 kg</li><li>Montaje algo laborioso</li>',
         p4For:
-          '<strong>¿Para quién es?</strong> Para quien tiene un presupuesto ajustado pero no quiere renunciar a una silla ergonómica de malla. La mejor relación calidad-precio del mercado.',
+          '<strong>¿Para quién es?</strong> Para quien busca la mejor silla ergonómica de malla por menos de 100 €. La mejor relación calidad-precio del mercado.',
         p5Name: '5. GTPlayer Gaming',
         p5Type: 'Deportiva lumbar',
         p5Price: '~99 €',
@@ -363,11 +363,11 @@
         conclusionP1:
           '<strong>🥇 Para la mayoría de personas:</strong> <strong>Sihoo M57</strong> — la mejor silla ergonómica calidad-precio por 159 €. Cómoda, transpirable y ajustable.',
         conclusionP2:
-          '<strong>🥈 Si trabajas muchas horas:</strong> <strong>Sihoo D01-S</strong> — reposabrazos 4D y malla premium para jornadas intensivas.',
+          '<strong>🥈 Si trabajas muchas horas:</strong> <strong>HOLLUDLE</strong> — ajuste 3D completo para jornadas intensivas por 190 €.',
         conclusionP3:
-          '<strong>🥉 Si buscas confort máximo:</strong> <strong>Cazar Ejecutiva</strong> — asiento acolchado de cuero, ideal si no sufres calor.',
+          '<strong>🥉 Malla con reposacabezas:</strong> <strong>SONGMICS OBN86BK</strong> — silla transpirable con reposacabezas por solo 99 €.',
         conclusionP4:
-          '<strong>💰 Presupuesto ajustado:</strong> <strong>Hygiatic</strong> — por 89 € tienes una silla de malla con soporte lumbar.',
+          '<strong>💰 Presupuesto ajustado:</strong> <strong>SONGMICS OBN037BKV2</strong> — por 80 € tienes una silla de malla con soporte lumbar.',
         conclusionP5:
           '<strong>🔝 Si eres alto o corpulento:</strong> <strong>GTPlayer</strong> — hasta 150 kg y 1,95 m de altura.',
         ctaBtn: '🛒 Ver ofertas en Amazon',
@@ -1004,7 +1004,7 @@
         metaTitle:
           'Top 5 Best Ergonomic Chairs 2026 · Comparison',
         metaDesc:
-          'Comparison of the 5 best-selling ergonomic chairs on Amazon Spain in 2026. We review Sihoo, Hygiatic, Cazar, and more.',
+          'Comparison of the 5 best-selling ergonomic chairs on Amazon Spain in 2026. We review Sihoo M57, HOLLUDLE, SONGMICS, and GTPlayer.',
         ogTitle:
           'Top 5 Best Ergonomic Chairs 2026 · Complete Guide',
         category: '🪑 Office Chairs',
@@ -1044,69 +1044,69 @@
           '<li>Armrests are 2D only (no rotation)</li><li>Not ideal for very tall people (&gt;1.90 m)</li><li>Seat cushion could be thicker</li>',
         p1For:
           '<strong>Who is it for?</strong> For those looking for the best ergonomic chair without going over 200 €. The most balanced option for remote work and daily use.',
-        p2Name: '🥈 Sihoo D01-S',
-        p2Type: 'Premium 4D armrests',
-        p2Price: '~219 €',
-        p2Rating: '★★★★ 4.3/5',
-        p2Best: 'Best for long hours',
+        p2Name: '🥈 HOLLUDLE',
+        p2Type: '3D lumbar support',
+        p2Price: '~190 €',
+        p2Rating: '★★★★½ 4.6/5',
+        p2Best: 'Best ergonomic adjustment',
         p2Title:
-          '🥈 Sihoo D01-S — The premium choice',
-        p2CardTitle: 'Sihoo D01-S',
+          '🥈 HOLLUDLE — Premium choice with 3D adjustment',
+        p2CardTitle: 'HOLLUDLE Ergonomic',
         p2CardRating:
-          '★★★★ 4.3/5 · 1,890 ratings',
-        p2CardPrice: '~219 €',
+          '★★★★½ 4.6/5 · 1,329 ratings',
+        p2CardPrice: '~190 €',
         p2Desc1:
-          'The <strong>Sihoo D01-S</strong> is the bigger sibling of the M57. It shares Sihoo\'s heritage of building office chairs for large companies. It features high-quality mesh, height- and depth-adjustable sacral support, a 3D headrest, and <strong>4D armrests</strong>.',
+          'The <strong>HOLLUDLE</strong> is an ergonomic chair with 3D lumbar support, 3D armrests and a 2D headrest. Its V-shaped design and breathable mesh back make it ideal for long work sessions. Amazon\'s Choice with over 1,300 ratings.',
         p2Desc2:
-          'The 4D armrests adjust in height, depth, width, and rotation, allowing near-perfect adaptation to any posture. The price premium is justified by superior material quality and an extended warranty.',
+          'Includes a rocking mechanism, height- and depth-adjustable lumbar support, and 3-way adjustable armrests. Supports up to 150 kg with a reinforced base. A very complete chair for under 200 €.',
         p2Pros:
-          '<li>4D adjustable armrests</li><li>High-quality mesh backrest</li><li>Excellent breathability</li><li>Professional office design</li>',
+          '<li>3D adjustable lumbar support</li><li>3D armrests and 2D headrest</li><li>Supports up to 150 kg</li><li>Amazon\'s Choice with good ratings</li>',
         p2Cons:
-          '<li>High price (219 €)</li><li>Seat is somewhat firm</li><li>Assembly is more complex than the M57</li>',
+          '<li>Less known brand than Sihoo</li><li>Higher price (190 €)</li><li>Firm seat like most mesh chairs</li>',
         p2For:
-          '<strong>Who is it for?</strong> For those who spend more than 8 hours sitting daily and need maximum adjustability. Ideal for programmers, designers, and intensive office work.',
-        p3Name: '🥉 Cazar Executive',
-        p3Type: 'Padded leather',
-        p3Price: '~169 €',
-        p3Rating: '★★★★½ 4.5/5',
-        p3Best: 'Best padded chair',
+          '<strong>Who is it for?</strong> For those seeking maximum ergonomic adjustment without reaching the 250 € premium range. Ideal for programmers and intensive remote work.',
+        p3Name: '🥉 SONGMICS OBN86BK',
+        p3Type: 'Mesh with headrest',
+        p3Price: '~99 €',
+        p3Rating: '★★★★ 4.3/5',
+        p3Best: 'Best versatile value',
         p3Title:
-          '🥉 Cazar Executive Chair — The most comfortable',
-        p3CardTitle: 'Cazar Executive Chair',
+          '🥉 SONGMICS OBN86BK — Mesh chair with headrest',
+        p3CardTitle: 'SONGMICS OBN86BK',
         p3CardRating:
-          '★★★★½ 4.5/5 · 3,150 ratings',
-        p3CardPrice: '~169 €',
+          '★★★★ 4.3/5 · 10,274 ratings',
+        p3CardPrice: '~99 €',
         p3Desc1:
-          'The <strong>Cazar</strong> is the most comfortable chair on the list. Its synthetic leather seat with high-density foam filling delivers instant comfort. The backrest is reclinable and the headrest is adjustable.',
+          'The <strong>SONGMICS OBN86BK</strong> is a mesh office chair with adjustable headrest and lumbar support. Its synchronised mechanism lets you adjust the backrest tilt. Amazon\'s Choice with over 10,000 ratings.',
         p3Desc2:
-          'While it does not breathe as well as full-mesh chairs, its design is more elegant and sophisticated — ideal for a stylish home office. The armrests are padded and height-adjustable.',
+          'Flip-up armrests save space. Padded seat with high-density foam. Adjustable height from 45 to 54.5 cm. SONGMICS is a well-established brand with 95% positive ratings from over 10,000 customers.',
         p3Pros:
-          '<li>Very comfortable leather seat</li><li>Elegant, sophisticated design</li><li>Adjustable headrest</li><li>Supports up to 150 kg</li>',
+          '<li>Adjustable headrest included</li><li>Flip-up armrests (space-saving)</li><li>Quality breathable mesh</li><li>SONGMICS brand with 10,000+ ratings</li>',
         p3Cons:
-          '<li>No adjustable lumbar support</li><li>Leather breathes less than mesh</li><li>Heavy (20 kg)</li>',
+          '<li>Armrests are not 3D adjustable</li><li>Mainly plastic construction</li><li>Max weight 120 kg</li>',
         p3For:
-          '<strong>Who is it for?</strong> For those who prioritise seat comfort and design over breathability. Perfect for meetings, reception areas, or video-call-heavy remote work.',
-        p4Name: '4. Hygiatic Office',
+          '<strong>Who is it for?</strong> For those looking for a full mesh chair with headrest at a very competitive price. Ideal for home office and mixed work-gaming use.',
+        p4Name: '4. SONGMICS OBN037BKV2',
         p4Type: 'Mesh with lumbar',
-        p4Price: '~89 €',
-        p4Rating: '★★★★½ 4.5/5',
+        p4Price: '~80 €',
+        p4Rating: '★★★★ 4.4/5',
         p4Best: 'Best budget value',
         p4Title:
-          '4. Hygiatic Office Chair — Best budget value',
-        p4CardTitle: 'Hygiatic Office Chair',
+          '4. SONGMICS OBN037BKV2 — Best budget value',
+        p4CardTitle: 'SONGMICS OBN037BKV2',
         p4CardRating:
-          '★★★★½ 4.5/5 · 5,600 ratings',
-        p4CardPrice: '~89 €',
+          '★★★★ 4.4/5 · 8,044 ratings',
+        p4CardPrice: '~80 €',
         p4Desc1:
-          'Hygiatic has achieved the seemingly impossible: a quality ergonomic chair for under 100 €. Its height- and depth-adjustable lumbar support, mesh back, and memory foam cushion make it highly breathable and comfortable.',
+          'The <strong>SONGMICS OBN037BKV2</strong> is an ergonomic mesh chair with adjustable lumbar support and flip-up armrests. For under 80 €, it offers features found on chairs twice the price. Amazon\'s Choice with over 8,000 ratings and 200+ monthly purchases.',
         p4Desc2:
-          'It is easy to assemble (20 minutes), weighs under 15 kg, and supports 150 kg. The only compromise at this price is the non-adjustable armrests, but at 89 € it is an incredibly smart purchase.',
+          '6 cm thick foam seat, S-shaped backrest that follows the spine\'s curvature, and safety lock casters. Supports 120 kg. SONGMICS is a top brand with 95% positive ratings.',
         p4Pros:
-          '<li>Unbeatable price (89 €)</li><li>Highly breathable mesh back</li><li>Adjustable lumbar support</li><li>Easy 20-minute assembly</li>',
+          '<li>Unbeatable price (80 €)</li><li>Adjustable lumbar support</li><li>Breathable mesh backrest</li><li>Amazon\'s Choice with 8,000+ ratings</li>',
         p4Cons:
-          '<li>Non-adjustable armrests</li><li>Seat cushion is somewhat thin</li><li>No headrest</li>',
+          '<li>Flip-up armrests (non-3D)</li><li>Max weight 120 kg</li><li>Somewhat laborious assembly</li>',
         p4For:
-          '<strong>Who is it for?</strong> For those on a tight budget who still want a mesh ergonomic chair. The best value for money on the market.',
+          '<strong>Who is it for?</strong> For those looking for the best mesh ergonomic chair under 100 €. The best value for money on the market.',
         p5Name: '5. GTPlayer Gaming',
         p5Type: 'Sporty lumbar',
         p5Price: '~99 €',
@@ -1141,11 +1141,11 @@
         conclusionP1:
           '<strong>🥇 For most people:</strong> <strong>Sihoo M57</strong> — the best value ergonomic chair at 159 €. Comfortable, breathable, and adjustable.',
         conclusionP2:
-          '<strong>🥈 If you work long hours:</strong> <strong>Sihoo D01-S</strong> — 4D armrests and premium mesh for intensive use.',
+          '<strong>🥈 If you work long hours:</strong> <strong>HOLLUDLE</strong> — full 3D adjustment for intensive sessions at 190 €.',
         conclusionP3:
-          '<strong>🥉 Maximum comfort:</strong> <strong>Cazar Executive</strong> — padded leather seat, ideal if you do not overheat.',
+          '<strong>🥉 Mesh with headrest:</strong> <strong>SONGMICS OBN86BK</strong> — breathable mesh chair with headrest for just 99 €.',
         conclusionP4:
-          '<strong>💰 Tight budget:</strong> <strong>Hygiatic</strong> — get a mesh chair with lumbar support for 89 €.',
+          '<strong>💰 Tight budget:</strong> <strong>SONGMICS OBN037BKV2</strong> — get a mesh chair with lumbar support for 80 €.',
         conclusionP5:
           '<strong>🔝 Tall or heavy build:</strong> <strong>GTPlayer</strong> — supports up to 150 kg and 1.95 m height.',
         ctaBtn: '🛒 Check deals on Amazon',
