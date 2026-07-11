@@ -203,9 +203,10 @@
   <header class="header" role="banner">
     <div class="header-inner">
       <a href="../index.html" class="header-logo" data-i18n="common.navBrand" aria-label="Volver al inicio">DuoStudio</a>
-      <div class="header-actions" role="navigation" aria-label="Selector de idioma">
-        <button class="lang-btn" data-lang="es" aria-label="Español">ES</button>
-        <button class="lang-btn" data-lang="en" aria-label="English">EN</button>
+      <div class="header-actions">
+        <button class="lang-btn" onclick="i18n.toggleLang()" aria-label="Switch language">
+          <span class="lang-btn-text">EN</span>
+        </button>
       </div>
     </div>
   </header>
@@ -645,13 +646,6 @@
     </div>
   </footer>
 
-  <script defer>
-    document.querySelectorAll('.lang-btn').forEach(btn => {
-      btn.addEventListener('click', () => {
-        const lang = btn.getAttribute('data-lang');
-        if (typeof setLanguage === 'function') setLanguage(lang);
-      });
-    });
-  </script>
+
 </body>
 </html>
