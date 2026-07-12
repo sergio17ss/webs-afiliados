@@ -247,25 +247,25 @@
         t1Th5: 'Lo mejor',
         p1Name: '🥇 Sihoo M57',
         p1Type: 'Malla ergonómica',
-        p1Price: '~159 €',
+        p1Price: '~250 €',
         p1Rating: '★★★★ 4.4/5',
         p1Best: 'Mejor relación calidad-precio',
         p1Title:
-          '🥇 Sihoo M57 — La mejor relación calidad-precio',
+          '🥇 Sihoo M57 — La mejor silla calidad-precio',
         p1CardTitle: 'Sihoo M57',
         p1CardRating:
-          '★★★★ 4.4/5 · 4.200 valoraciones',
-        p1CardPrice: '~159 €',
+          '★★★★ 4.4/5 · 4.619 valoraciones',
+        p1CardPrice: '~250 €',
         p1Desc1:
-          'La <strong>Sihoo M57</strong> es toda una referencia en el segmento de sillas ergonómicas por debajo de 200 €. Su respaldo de malla transpirable, el soporte lumbar ajustable en altura y profundidad, y su reposacabezas 3D la convierten en la opción más equilibrada del mercado.',
+          'La <strong>Sihoo M57</strong> es toda una referencia en el segmento de sillas ergonómicas de gama media-alta. Su respaldo de malla transpirable, el soporte lumbar ajustable en altura y profundidad, y su reposacabezas 3D la convierten en la opción más equilibrada del mercado.',
         p1Desc2:
-          'El respaldo de malla favorece la circulación del aire (imprescindible si estás muchas horas sentado), y su estructura de acero le otorga una estabilidad que las sillas de este precio no suelen ofrecer. Además, incluye reposabrazos 2D ajustables y un mecanismo de balanceo con tensión ajustable.',
+          'El respaldo de malla favorece la circulación del aire (imprescindible si estás muchas horas sentado), y su estructura de acero le otorga una estabilidad que las sillas de este precio no suelen ofrecer. Además, incluye reposabrazos 2D ajustables, reposacabezas 3D y un mecanismo de balanceo con tensión ajustable.',
         p1Pros:
           '<li>Respaldo de malla transpirable</li><li>Soporte lumbar ajustable en altura y profundidad</li><li>Reposacabezas 3D ajustable</li><li>Soporta hasta 150 kg</li>',
         p1Cons:
           '<li>Reposabrazos solo 2D (no giran)</li><li>No recomendable para personas muy altas (&gt;1,90 m)</li><li>El cojín del asiento podría ser más grueso</li>',
         p1For:
-          '<strong>¿Para quién es?</strong> Para quien busca la mejor silla ergonómica sin pasarse de 200 €. La opción más equilibrada para teletrabajo y uso diario.',
+          '<strong>¿Para quién es?</strong> Para quien busca la mejor silla ergonómica de gama media-alta sin llegar a los 300 € de las premium. La opción más equilibrada para teletrabajo y uso diario.',
         p2Name: '🥈 HOLLUDLE',
         p2Type: 'Soporte lumbar 3D',
         p2Price: '~190 €',
@@ -329,27 +329,27 @@
           '<li>Reposabrazos abatibles (no 3D)</li><li>Peso máximo 120 kg</li><li>Montaje algo laborioso</li>',
         p4For:
           '<strong>¿Para quién es?</strong> Para quien busca la mejor silla ergonómica de malla por menos de 100 €. La mejor relación calidad-precio del mercado.',
-        p5Name: '5. GTPlayer Gaming',
-        p5Type: 'Deportiva lumbar',
-        p5Price: '~99 €',
+        p5Name: '5. GTPlayer GT800A',
+        p5Type: 'Gaming masajeador',
+        p5Price: '~150 €',
         p5Rating: '★★★★ 4.4/5',
-        p5Best: 'Mejor para usuarios altos',
+        p5Best: 'La más completa en extras',
         p5Title:
-          '5. GTPlayer Silla Gaming — Ideal para personas altas',
-        p5CardTitle: 'GTPlayer Silla Gaming',
+          '5. GTPlayer GT800A — Con masajeador y reposapiés',
+        p5CardTitle: 'GTPlayer GT800A',
         p5CardRating:
-          '★★★★ 4.4/5 · 2.800 valoraciones',
-        p5CardPrice: '~99 €',
+          '★★★★ 4.4/5 · 13.725 valoraciones',
+        p5CardPrice: '~150 €',
         p5Desc1:
-          'La <strong>GTPlayer</strong> es una silla de escritorio con estilo gaming que soporta hasta 150 kg y es ideal para personas de hasta 1,95 m. Su espuma viscoelástica moldeada ofrece un confort excelente para jornadas largas.',
+          'La <strong>GTPlayer GT800A</strong> es una silla gaming con masajeador lumbar incorporado y reposapiés retráctil. Su respaldo reclinable hasta 155° y sus cojines lumbar y cervical la hacen ideal para largas sesiones de juego o trabajo.',
         p5Desc2:
-          'El respaldo es reclinable hasta 180°, permitiendo incluso echar una siesta. Incluye cojín lumbar y cervical desmontables. Por 99 €, es difícil de superar en confort y versatilidad.',
+          'Incluye reposabrazos acolchados ajustables en altura, base de nylon y espuma de alta densidad. El masajeador lumbar funciona con USB. Con más de 13.700 valoraciones, es la silla gaming más popular de GTPlayer en Amazon.',
         p5Pros:
-          '<li>Ideal para personas altas (hasta 1,95 m)</li><li>Espuma viscoelástica muy cómoda</li><li>Respaldo reclinable 180°</li><li>Incluye cojines lumbar y cervical</li>',
+          '<li>Masajeador lumbar integrado (USB)</li><li>Reposapiés retráctil incluido</li><li>Reposabrazos ajustables en altura</li><li>Más de 13.700 valoraciones positivas</li>',
         p5Cons:
-          '<li>Reposabrazos fijos (no ajustables)</li><li>Estética gaming (no apta para oficinas serias)</li><li>La tela del cojín tiende a formar bolitas con el uso</li>',
+          '<li>Estética gaming (no para oficinas formales)</li><li>Tapizado de cuero PU transpira menos que la malla</li><li>Peso elevado (19 kg)</li>',
         p5For:
-          '<strong>¿Para quién es?</strong> Para usuarios altos o corpulentos que necesitan una silla ancha y resistente sin gastar una fortuna. También para gamers que quieren una silla todoterreno.',
+          '<strong>¿Para quién es?</strong> Para gamers que buscan una silla con funciones extra (masajeador, reposapiés) sin gastar más de 150 €. También para quienes quieren una silla versátil para gaming y teletrabajo.',
         finalTitle: 'Tabla comparativa final',
         t2Th1: 'Modelo',
         t2Th2: 'Precio',
@@ -361,7 +361,7 @@
         conclusionIntro:
           'La elección depende de tus necesidades y presupuesto:',
         conclusionP1:
-          '<strong>🥇 Para la mayoría de personas:</strong> <strong>Sihoo M57</strong> — la mejor silla ergonómica calidad-precio por 159 €. Cómoda, transpirable y ajustable.',
+          '<strong>🥇 Para la mayoría de personas:</strong> <strong>Sihoo M57</strong> — la mejor silla ergonómica calidad-precio por 250 €. Cómoda, transpirable y ajustable.',
         conclusionP2:
           '<strong>🥈 Si trabajas muchas horas:</strong> <strong>HOLLUDLE</strong> — ajuste 3D completo para jornadas intensivas por 190 €.',
         conclusionP3:
@@ -369,7 +369,7 @@
         conclusionP4:
           '<strong>💰 Presupuesto ajustado:</strong> <strong>SONGMICS OBN037BKV2</strong> — por 80 € tienes una silla de malla con soporte lumbar.',
         conclusionP5:
-          '<strong>🔝 Si eres alto o corpulento:</strong> <strong>GTPlayer</strong> — hasta 150 kg y 1,95 m de altura.',
+          '<strong>🔝 Gaming con extras:</strong> <strong>GTPlayer GT800A</strong> — masajeador lumbar y reposapiés incluidos por 150 €.',
         ctaBtn: '🛒 Ver ofertas en Amazon',
         footerBrand:
           '🪑 Mejores Sillas Ergonómicas 2026',
@@ -1025,25 +1025,25 @@
         t1Th5: 'Best for',
         p1Name: '🥇 Sihoo M57',
         p1Type: 'Mesh ergonomic',
-        p1Price: '~159 €',
+        p1Price: '~250 €',
         p1Rating: '★★★★ 4.4/5',
         p1Best: 'Best value for money',
         p1Title:
-          '🥇 Sihoo M57 — Best value for money',
+          '🥇 Sihoo M57 — The best value chair',
         p1CardTitle: 'Sihoo M57',
         p1CardRating:
-          '★★★★ 4.4/5 · 4,200 ratings',
-        p1CardPrice: '~159 €',
+          '★★★★ 4.4/5 · 4,619 ratings',
+        p1CardPrice: '~250 €',
         p1Desc1:
-          'The <strong>Sihoo M57</strong> is a benchmark in the under-200 € ergonomic chair segment. Its breathable mesh back, height- and depth-adjustable lumbar support, and 3D headrest make it the most balanced option on the market.',
+          'The <strong>Sihoo M57</strong> is a benchmark in the mid-to-high ergonomic chair segment. Its breathable mesh back, height- and depth-adjustable lumbar support, and 3D headrest make it the most balanced option on the market.',
         p1Desc2:
-          'The mesh back promotes air circulation (essential if you sit for long hours), and its steel frame provides stability rarely found at this price point. It also includes 2D adjustable armrests and a rocking mechanism with adjustable tension.',
+          'The mesh back promotes air circulation (essential if you sit for long hours), and its steel frame provides stability rarely found at this price point. It also includes 2D adjustable armrests, 3D headrest, and a rocking mechanism with adjustable tension.',
         p1Pros:
           '<li>Breathable mesh backrest</li><li>Height and depth adjustable lumbar support</li><li>3D adjustable headrest</li><li>Supports up to 150 kg</li>',
         p1Cons:
           '<li>Armrests are 2D only (no rotation)</li><li>Not ideal for very tall people (&gt;1.90 m)</li><li>Seat cushion could be thicker</li>',
         p1For:
-          '<strong>Who is it for?</strong> For those looking for the best ergonomic chair without going over 200 €. The most balanced option for remote work and daily use.',
+          '<strong>Who is it for?</strong> For those looking for the best mid-to-high ergonomic chair without reaching the 300 € premium bracket. The most balanced option for remote work and daily use.',
         p2Name: '🥈 HOLLUDLE',
         p2Type: '3D lumbar support',
         p2Price: '~190 €',
@@ -1107,27 +1107,27 @@
           '<li>Flip-up armrests (non-3D)</li><li>Max weight 120 kg</li><li>Somewhat laborious assembly</li>',
         p4For:
           '<strong>Who is it for?</strong> For those looking for the best mesh ergonomic chair under 100 €. The best value for money on the market.',
-        p5Name: '5. GTPlayer Gaming',
-        p5Type: 'Sporty lumbar',
-        p5Price: '~99 €',
+        p5Name: '5. GTPlayer GT800A',
+        p5Type: 'Gaming massager',
+        p5Price: '~150 €',
         p5Rating: '★★★★ 4.4/5',
-        p5Best: 'Best for tall users',
+        p5Best: 'Best extra features',
         p5Title:
-          '5. GTPlayer Gaming Chair — Ideal for tall people',
-        p5CardTitle: 'GTPlayer Gaming Chair',
+          '5. GTPlayer GT800A — With massager and footrest',
+        p5CardTitle: 'GTPlayer GT800A',
         p5CardRating:
-          '★★★★ 4.4/5 · 2,800 ratings',
-        p5CardPrice: '~99 €',
+          '★★★★ 4.4/5 · 13,725 ratings',
+        p5CardPrice: '~150 €',
         p5Desc1:
-          'The <strong>GTPlayer</strong> is a desk chair with gaming style that supports up to 150 kg and is ideal for people up to 1.95 m tall. Its moulded memory foam provides excellent comfort for long sessions.',
+          'The <strong>GTPlayer GT800A</strong> is a gaming chair with built-in lumbar massager and retractable footrest. Its backrest reclines up to 155° and includes lumbar and neck pillows, ideal for long gaming or work sessions.',
         p5Desc2:
-          'The backrest reclines up to 180°, even allowing for a nap. It includes removable lumbar and cervical cushions. At 99 €, it is hard to beat in terms of comfort and versatility.',
+          'Includes padded height-adjustable armrests, nylon base, and high-density foam. The lumbar massager runs via USB. With over 13,700 ratings, it is GTPlayer\'s most popular gaming chair on Amazon.',
         p5Pros:
-          '<li>Ideal for tall people (up to 1.95 m)</li><li>Very comfortable memory foam</li><li>180° reclining backrest</li><li>Includes lumbar and neck pillows</li>',
+          '<li>Built-in lumbar massager (USB)</li><li>Retractable footrest included</li><li>Height-adjustable armrests</li><li>Over 13,700 positive ratings</li>',
         p5Cons:
-          '<li>Fixed armrests (non-adjustable)</li><li>Gaming aesthetics (not for serious offices)</li><li>Fabric tends to pill over time</li>',
+          '<li>Gaming aesthetics (not for formal offices)</li><li>PU leather breathes less than mesh</li><li>Heavy (19 kg)</li>',
         p5For:
-          '<strong>Who is it for?</strong> For tall or heavy users who need a wide, sturdy chair without spending a fortune. Also for gamers who want an all-rounder chair.',
+          '<strong>Who is it for?</strong> For gamers looking for extra features (massager, footrest) without spending over 150 €. Also for those wanting a versatile chair for gaming and remote work.',
         finalTitle: 'Final comparison table',
         t2Th1: 'Model',
         t2Th2: 'Price',
@@ -1139,7 +1139,7 @@
         conclusionIntro:
           'The choice depends on your needs and budget:',
         conclusionP1:
-          '<strong>🥇 For most people:</strong> <strong>Sihoo M57</strong> — the best value ergonomic chair at 159 €. Comfortable, breathable, and adjustable.',
+          '<strong>🥇 For most people:</strong> <strong>Sihoo M57</strong> — the best value ergonomic chair at 250 €. Comfortable, breathable, and adjustable.',
         conclusionP2:
           '<strong>🥈 If you work long hours:</strong> <strong>HOLLUDLE</strong> — full 3D adjustment for intensive sessions at 190 €.',
         conclusionP3:
@@ -1147,7 +1147,7 @@
         conclusionP4:
           '<strong>💰 Tight budget:</strong> <strong>SONGMICS OBN037BKV2</strong> — get a mesh chair with lumbar support for 80 €.',
         conclusionP5:
-          '<strong>🔝 Tall or heavy build:</strong> <strong>GTPlayer</strong> — supports up to 150 kg and 1.95 m height.',
+          '<strong>🔝 Gaming with extras:</strong> <strong>GTPlayer GT800A</strong> — built-in lumbar massager and footrest for 150 €.',
         ctaBtn: '🛒 Check deals on Amazon',
         footerBrand: '🪑 Best Ergonomic Chairs 2026',
         footerDesc:
