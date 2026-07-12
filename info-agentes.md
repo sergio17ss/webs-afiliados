@@ -7,22 +7,28 @@ Fichero compartido entre agentes de sergio17ss y csanchezvigon-boop.
 ### 🎧 auriculares/
 Web de comparativa de auriculares (top 5 Amazon 2026).
 - URL: https://sergio17ss.github.io/webs-afiliados/auriculares/
-- Enlaces de afiliado pendientes (marcados con `href="#"`)
+- Enlaces de afiliado: ✅ actualizados a formato simple con tag duostudio-21
+- Precios: ✅ actualizados a precios exactos de Amazon (Q20i 39,99€, AirPods 4 139€, Redmi Buds 17,95€)
 
 ### 🪑 oficina/
 Web de comparativa de sillas ergonómicas (top 5 Amazon 2026).
 - URL: https://sergio17ss.github.io/webs-afiliados/oficina/
+- GTPlayer: ✅ cambiado ASIN B09ZTND3R2 → B0H68VN5MQ, precio 145,99€
 
 ## Estados de tareas
 
 - [x] i18n ES/EN implementado en todas las páginas (js/i18n.js + lang switcher)
-- [ ] Poner enlaces de afiliado de Amazon (sergio tiene los ASINs)
+- [x] Enlaces de afiliado de Amazon puestos (tag duostudio-21)
+- [x] Precios actualizados a valores exactos de Amazon
+- [x] GTPlayer cambiado a nuevo ASIN B0H68VN5MQ
 - [ ] Solicitar AdSense
 - [ ] Crear siguiente web (pendiente definir temática)
 
 ## Próximos pasos acordados
 
-- Sergio pasa los links de afiliado con su tag → se actualizan los href de auriculares
+- Pendiente: precios exactos de nutrición (ON Whey, MyProtein Impact/Creatine, Dymatize ISO 100, HSN EvoWhey)
+- Pendiente: verificar KROM KASIC y Corsair K70 RGB Pro en teclados gaming
+- Pendiente: verificar MX Keys S, Cherry DW 9000 Slim y Wave Keys en teclados oficina
 
 ## Brand: DuoStudio (julio 2026)
 

@@ -73,17 +73,17 @@
         t1Th5: 'Lo mejor',
         p1Name: '🥇 Soundcore Q20i',
         p1Type: 'Diadema',
-        p1Price: '~35 €',
+        p1Price: '39,99 €',
         p1Rating: '★★★★½',
         p1Best: 'Mejor relación calidad-precio',
         p1Title:
           '🥇 Soundcore Q20i — El mejor calidad-precio',
         p1CardTitle: 'Soundcore Q20i · Anker',
         p1CardRating:
-          '★★★★½ 4.7/5 · 67.986 valoraciones',
-        p1CardPrice: '~34,77 €',
+          '★★★★½ 4.7/5 · 68.519 valoraciones',
+        p1CardPrice: '39,99 €',
         p1Desc1:
-          'Los <strong>Soundcore Q20i</strong> de Anker son, sin discusión, los auriculares con mejor relación calidad-precio del mercado español. Con más de <strong>67.000 valoraciones</strong> y una nota media de 4.7/5, se han convertido en un fenómeno de ventas.',
+          'Los <strong>Soundcore Q20i</strong> de Anker son, sin discusión, los auriculares con mejor relación calidad-precio del mercado español. Con más de <strong>68.000 valoraciones</strong> y una nota media de 4.7/5, se han convertido en un fenómeno de ventas.',
         p1Desc2:
           'Ofrecen <strong>cancelación de ruido activa híbrida</strong>, algo que hasta hace poco solo veíamos en modelos de más de 100 €. Además, cuentan con certificación <strong>Hi-Res Audio</strong> y un modo de graves potenciados ideal para música urbana y electrónica.',
         p1Pros:
@@ -94,7 +94,7 @@
           '<strong>¿Para quién es?</strong> Para quien busca la mejor cancelación de ruido sin gastar más de 50 €. Ideales para viajar, estudiar o trabajar.',
         p2Name: '🥈 Apple AirPods 4',
         p2Type: 'True Wireless',
-        p2Price: '~129 €',
+        p2Price: '139,00 €',
         p2Rating: '★★★★½',
         p2Best: 'Mejor para ecosistema Apple',
         p2Title:
@@ -102,7 +102,7 @@
         p2CardTitle: 'Apple AirPods 4',
         p2CardRating:
           '★★★★½ 4.7/5 · 13.695 valoraciones',
-        p2CardPrice: '~129 €',
+        p2CardPrice: '139,00 €',
         p2Desc1:
           'Los <strong>AirPods 4</strong> son la opción por defecto para usuarios de iPhone, iPad o Mac. Integran el chip <strong>H2</strong> de Apple, que mejora la cancelación de ruido y la calidad de sonido respecto a la generación anterior.',
         p2Desc2:
@@ -110,7 +110,7 @@
         p2Pros:
           '<li>Audio espacial con seguimiento dinámico</li><li>Integración perfecta con ecosistema Apple</li><li>Resistencia al agua y sudor (IP54)</li><li>Estuche USB-C con carga inalámbrica</li>',
         p2Cons:
-          '<li>Precio elevado (129 €)</li><li>Funciones limitadas en Android</li><li>Diseño abierto (no aísla pasivamente)</li>',
+          '<li>Precio elevado (139 €)</li><li>Funciones limitadas en Android</li><li>Diseño abierto (no aísla pasivamente)</li>',
         p2For:
           '<strong>¿Para quién es?</strong> Para usuarios de iPhone que quieren la mejor integración posible y un sonido envolvente de calidad.',
         p3Name: '🥉 Nothing Ear (a)',
@@ -157,21 +157,21 @@
           '<strong>¿Para quién es?</strong> Para quienes priorizan la autonomía por encima de todo. Perfectos para viajes largos, estudios o trabajo diario sin preocuparse del cargador.',
         p5Name: '5. Xiaomi Redmi Buds 6 Play',
         p5Type: 'True Wireless',
-        p5Price: '~10 €',
+        p5Price: '17,95 €',
         p5Rating: '★★★★',
         p5Best: 'Mejor ultra-budget',
         p5Title:
           '5. Xiaomi Redmi Buds 6 Play — La opción más económica',
         p5CardTitle: 'Xiaomi Redmi Buds 6 Play',
         p5CardRating:
-          '★★★★ 4.4/5 · 12.409 valoraciones',
-        p5CardPrice: '~9,99 €',
+          '★★★★ 4.6/5 · 1.791 valoraciones',
+        p5CardPrice: '17,95 €',
         p5Desc1:
-          'Con un precio ridículo de <strong>menos de 10 €</strong>, los <strong>Redmi Buds 6 Play</strong> de Xiaomi son la puerta de entrada al mundo de los auriculares inalámbricos. Y lo mejor: no son malos, todo lo contrario.',
+          'Con un precio de <strong>17,95 €</strong>, los <strong>Redmi Buds 6 Play</strong> de Xiaomi son la puerta de entrada al mundo de los auriculares inalámbricos. Y lo mejor: no son malos, todo lo contrario.',
         p5Desc2:
-          'Ofrecen <strong>cancelación de ruido básica</strong>, <strong>Bluetooth 5.4</strong> y hasta <strong>36 horas de autonomía total</strong> con el estuche. Por menos de lo que cuesta un menú del día, tienes unos auriculares perfectamente funcionales.',
+          'Ofrecen <strong>cancelación de ruido básica</strong>, <strong>Bluetooth 5.4</strong> y hasta <strong>36 horas de autonomía total</strong> con el estuche. Por menos de 20 €, tienes unos auriculares perfectamente funcionales.',
         p5Pros:
-          '<li>Precio imbatible (9,99 €)</li><li>Bluetooth 5.4 de última generación</li><li>36 horas de autonomía total</li><li>Ligeros y cómodos</li>',
+          '<li>Precio imbatible (17,95 €)</li><li>Bluetooth 5.4 de última generación</li><li>36 horas de autonomía total</li><li>Ligeros y cómodos</li>',
         p5Cons:
           '<li>Cancelación de ruido básica</li><li>Calidad de sonido limitada (esperable por el precio)</li><li>Micrófono justo para llamadas</li>',
         p5For:
@@ -226,7 +226,7 @@
         metaTitle:
           'Top 5 Mejores Sillas Ergonómicas 2026 · Comparativa',
         metaDesc:
-          'Comparativa de las 5 sillas ergonómicas más vendidas en Amazon España en 2026. Analizamos Sihoo, HOLLUDLE, SONGMICS y GTPlayer.',
+          'Comparativa de las 5 sillas ergonómicas más vendidas en Amazon España en 2026. Analizamos Sihoo, HOLLUDLE, SONGMICS y GTPlayer Gaming Chair.',
         ogTitle:
           'Top 5 Mejores Sillas Ergonómicas 2026 · Guía Completa',
         category: '🪑 Sillas de Oficina',
@@ -247,7 +247,7 @@
         t1Th5: 'Lo mejor',
         p1Name: '🥇 Sihoo M57',
         p1Type: 'Malla ergonómica',
-        p1Price: '~250 €',
+        p1Price: '249,99 €',
         p1Rating: '★★★★ 4.4/5',
         p1Best: 'Mejor relación calidad-precio',
         p1Title:
@@ -255,7 +255,7 @@
         p1CardTitle: 'Sihoo M57',
         p1CardRating:
           '★★★★ 4.4/5 · 4.619 valoraciones',
-        p1CardPrice: '~250 €',
+        p1CardPrice: '249,99 €',
         p1Desc1:
           'La <strong>Sihoo M57</strong> es toda una referencia en el segmento de sillas ergonómicas de gama media-alta. Su respaldo de malla transpirable, el soporte lumbar ajustable en altura y profundidad, y su reposacabezas 3D la convierten en la opción más equilibrada del mercado.',
         p1Desc2:
@@ -268,7 +268,7 @@
           '<strong>¿Para quién es?</strong> Para quien busca la mejor silla ergonómica de gama media-alta sin llegar a los 300 € de las premium. La opción más equilibrada para teletrabajo y uso diario.',
         p2Name: '🥈 HOLLUDLE',
         p2Type: 'Soporte lumbar 3D',
-        p2Price: '~190 €',
+        p2Price: '189,99 €',
         p2Rating: '★★★★½ 4.6/5',
         p2Best: 'Mejor ajuste ergonómico',
         p2Title:
@@ -276,7 +276,7 @@
         p2CardTitle: 'HOLLUDLE Ergonómica',
         p2CardRating:
           '★★★★½ 4.6/5 · 1.329 valoraciones',
-        p2CardPrice: '~190 €',
+        p2CardPrice: '189,99 €',
         p2Desc1:
           'La <strong>HOLLUDLE</strong> es una silla ergonómica con soporte lumbar 3D, reposabrazos 3D y reposacabezas 2D. Su diseño en V y respaldo de malla transpirable la hacen ideal para largas jornadas de trabajo. Amazon\'s Choice con más de 1.300 valoraciones.',
         p2Desc2:
@@ -289,7 +289,7 @@
           '<strong>¿Para quién es?</strong> Para quienes buscan el máximo ajuste ergonómico sin llegar a los 250 € de las marcas premium. Ideal para programadores y teletrabajo intensivo.',
         p3Name: '🥉 SONGMICS OBN86BK',
         p3Type: 'Malla con reposacabezas',
-        p3Price: '~99 €',
+        p3Price: '99,99 €',
         p3Rating: '★★★★ 4.3/5',
         p3Best: 'Mejor versátil',
         p3Title:
@@ -297,7 +297,7 @@
         p3CardTitle: 'SONGMICS OBN86BK',
         p3CardRating:
           '★★★★ 4.3/5 · 10.274 valoraciones',
-        p3CardPrice: '~99 €',
+        p3CardPrice: '99,99 €',
         p3Desc1:
           'La <strong>SONGMICS OBN86BK</strong> es una silla de oficina de malla con reposacabezas ajustable y soporte lumbar. Su mecanismo sincronizado permite ajustar la inclinación del respaldo. Amazon\'s Choice con más de 10.000 valoraciones.',
         p3Desc2:
@@ -310,7 +310,7 @@
           '<strong>¿Para quién es?</strong> Para quien busca una silla de malla completa con reposacabezas a un precio muy competitivo. Ideal para oficina en casa y uso mixto trabajo-gaming.',
         p4Name: '4. SONGMICS OBN037BKV2',
         p4Type: 'Malla con lumbar',
-        p4Price: '~80 €',
+        p4Price: '79,99 €',
         p4Rating: '★★★★ 4.4/5',
         p4Best: 'Mejor calidad-precio ajustado',
         p4Title:
@@ -318,7 +318,7 @@
         p4CardTitle: 'SONGMICS OBN037BKV2',
         p4CardRating:
           '★★★★ 4.4/5 · 8.044 valoraciones',
-        p4CardPrice: '~80 €',
+        p4CardPrice: '79,99 €',
         p4Desc1:
           'La <strong>SONGMICS OBN037BKV2</strong> es una silla ergonómica de malla con soporte lumbar ajustable y reposabrazos abatibles. Por menos de 80 €, ofrece características que otras sillas duplican su precio. Amazon\'s Choice con más de 8.000 valoraciones y 200+ compras al mes.',
         p4Desc2:
@@ -329,27 +329,27 @@
           '<li>Reposabrazos abatibles (no 3D)</li><li>Peso máximo 120 kg</li><li>Montaje algo laborioso</li>',
         p4For:
           '<strong>¿Para quién es?</strong> Para quien busca la mejor silla ergonómica de malla por menos de 100 €. La mejor relación calidad-precio del mercado.',
-        p5Name: '5. GTPlayer GT800A',
+        p5Name: '5. GTPlayer Gaming Chair',
         p5Type: 'Gaming masajeador',
-        p5Price: '~150 €',
-        p5Rating: '★★★★ 4.4/5',
+        p5Price: '145,99 €',
+        p5Rating: '★★★★★ 5.0/5',
         p5Best: 'La más completa en extras',
         p5Title:
-          '5. GTPlayer GT800A — Con masajeador y reposapiés',
-        p5CardTitle: 'GTPlayer GT800A',
+          '5. GTPlayer Gaming Chair — Con reposapiés y masajeador',
+        p5CardTitle: 'GTPlayer Gaming Chair',
         p5CardRating:
-          '★★★★ 4.4/5 · 13.725 valoraciones',
-        p5CardPrice: '~150 €',
+          '★★★★★ 5.0/5 · 1 valoración',
+        p5CardPrice: '145,99 €',
         p5Desc1:
-          'La <strong>GTPlayer GT800A</strong> es una silla gaming con masajeador lumbar incorporado y reposapiés retráctil. Su respaldo reclinable hasta 155° y sus cojines lumbar y cervical la hacen ideal para largas sesiones de juego o trabajo.',
+          'La <strong>GTPlayer Gaming Chair</strong> es una silla gaming con reposapiés retráctil y masajeador lumbar integrado. Su respaldo reclinable y sus cojines lumbar y cervical la hacen ideal para largas sesiones de juego o trabajo.',
         p5Desc2:
-          'Incluye reposabrazos acolchados ajustables en altura, base de nylon y espuma de alta densidad. El masajeador lumbar funciona con USB. Con más de 13.700 valoraciones, es la silla gaming más popular de GTPlayer en Amazon.',
+          'Incluye reposabrazos acolchados ajustables en altura, base cromada y espuma de alta densidad. Soporta hasta 180 kg. Con masajeador lumbar que funciona vía USB y reposapiés retráctil, ofrece el mejor conjunto de extras de la comparativa.',
         p5Pros:
-          '<li>Masajeador lumbar integrado (USB)</li><li>Reposapiés retráctil incluido</li><li>Reposabrazos ajustables en altura</li><li>Más de 13.700 valoraciones positivas</li>',
+          '<li>Reposapiés retráctil incluido</li><li>Masajeador lumbar integrado (USB)</li><li>Reposabrazos ajustables en altura</li><li>Soporta hasta 180 kg</li>',
         p5Cons:
-          '<li>Estética gaming (no para oficinas formales)</li><li>Tapizado de cuero PU transpira menos que la malla</li><li>Peso elevado (19 kg)</li>',
+          '<li>Estética gaming (no para oficinas formales)</li><li>Tapizado de cuero PU transpira menos que la malla</li><li>Producto nuevo con pocas valoraciones aún</li>',
         p5For:
-          '<strong>¿Para quién es?</strong> Para gamers que buscan una silla con funciones extra (masajeador, reposapiés) sin gastar más de 150 €. También para quienes quieren una silla versátil para gaming y teletrabajo.',
+          '<strong>¿Para quién es?</strong> Para gamers que buscan una silla con funciones extra (masajeador, reposapiés) por menos de 150 €. También para quienes quieren una silla versátil para gaming y teletrabajo.',
         finalTitle: 'Tabla comparativa final',
         t2Th1: 'Modelo',
         t2Th2: 'Precio',
@@ -369,7 +369,7 @@
         conclusionP4:
           '<strong>💰 Presupuesto ajustado:</strong> <strong>SONGMICS OBN037BKV2</strong> — por 80 € tienes una silla de malla con soporte lumbar.',
         conclusionP5:
-          '<strong>🔝 Gaming con extras:</strong> <strong>GTPlayer GT800A</strong> — masajeador lumbar y reposapiés incluidos por 150 €.',
+          '<strong>🔝 Gaming con extras:</strong> <strong>GTPlayer Gaming Chair</strong> — reposapiés y masajeador lumbar por 145 €.',
         ctaBtn: '🛒 Ver ofertas en Amazon',
         footerBrand:
           '🪑 Mejores Sillas Ergonómicas 2026',
@@ -415,7 +415,7 @@
       },
       tecladosGaming: {
         metaTitle: 'Top 5 Mejores Teclados Gaming 2026 · Comparativa Completa',
-        metaDesc: 'Comparativa de los 5 mejores teclados gaming en Amazon España. Logitech G413 SE, Razer Huntsman V3 Pro, Corsair K70, KROM KASIC y EPOMAKER AK820 Pro. Precios y análisis.',
+        metaDesc: 'Comparativa de los 5 mejores teclados gaming en Amazon España. Logitech G413 SE, KROM KASIC, Razer Huntsman V3 Pro, Razer Huntsman Mini y EPOMAKER Ajazz AK820 Pro. Precios y análisis.',
         ogTitle: 'Top 5 Mejores Teclados Gaming 2026 · Guía Completa',
         category: '🎮 Teclados Gaming',
         title: 'Top 5 teclados gaming en 2026',
@@ -426,7 +426,7 @@
         g1Title: '1. Logitech G413 SE — Mejor calidad-precio',
         g1CardTitle: 'Logitech G413 SE',
         g1CardRating: '★★★★ 4.3/5 · 1.800 valoraciones',
-        g1CardPrice: '~55 €',
+        g1CardPrice: '59,99 €',
         g1Desc1: 'El <strong>Logitech G413 SE</strong> es un teclado mecánico completo con interruptores táctiles Romer-G. Su construcción en aleación de aluminio y teclas PBT lo hacen duradero y estable. La retroiluminación LED blanca es limpia y profesional.',
         g1Desc2: 'Incluye anti-ghosting y teclas multimedia. Es compatible con Windows y macOS. Aunque no tiene RGB ni software G Hub, su fiabilidad y precio lo convierten en la opción más equilibrada.',
         g1Pros: '<li>Construcción en aluminio muy robusta</li><li>Teclas PBT resistentes al desgaste</li><li>Precio ajustado para un mecánico de calidad</li><li>Anti-ghosting en todas las teclas</li>',
@@ -435,7 +435,7 @@
         g2Title: '2. KROM KASIC — Teclado gaming mecánico económico',
         g2CardTitle: 'KROM KASIC',
         g2CardRating: '★★★★ 4.1/5 · 2.200 valoraciones',
-        g2CardPrice: '~40 €',
+        g2CardPrice: '29,90 €',
         g2Desc1: 'El <strong>KROM KASIC</strong> es un teclado mecánico con switches rojos lineales y retroiluminación Rainbow. Su diseño compacto y layout español lo hacen muy accesible para el mercado nacional.',
         g2Desc2: 'Ofrece 25 teclas anti-ghosting, reposamuñecas integrado y teclas multimedia. No es el más premium del mercado, pero cumple sobradamente para quien empieza en el gaming.',
         g2Pros: '<li>Precio imbatible para un mecánico</li><li>Layout español con Ñ</li><li>Reposamuñecas integrado</li><li>Switches rojos silenciosos</li>',
@@ -444,25 +444,25 @@
         g3Title: '3. Razer Huntsman V3 Pro — Máximo rendimiento competitivo',
         g3CardTitle: 'Razer Huntsman V3 Pro',
         g3CardRating: '★★★★★ 4.6/5 · 1.200 valoraciones',
-        g3CardPrice: '~210 €',
+        g3CardPrice: '189,99 €',
         g3Desc1: 'El <strong>Razer Huntsman V3 Pro</strong> utiliza switches ópticos analógicos con tecnología Snap Tap y Rapid Trigger. Detecta la profundidad de pulsación, lo que permite respuestas ultras rápidas sin recorrido muerto.',
         g3Desc2: 'Incluye dial multifunción, reposamuñecas magnético y memoria integrada para perfiles. Es el teclado de referencia para esports y juegos competitivos donde cada milisegundo cuenta.',
         g3Pros: '<li>Switches ópticos analógicos más rápidos del mercado</li><li>Snap Tap y Rapid Trigger para ventaja competitiva</li><li>Construcción premium con reposamuñecas magnético</li><li>Dial multifunción y memoria de perfiles</li>',
         g3Cons: '<li>Precio muy elevado</li><li>Sin layout español (QWERTY US)</li><li>Excesivo para jugadores casuales</li>',
         g3For: '<strong>¿Para quién es?</strong> Para jugadores competitivos de FPS que quieren la máxima velocidad de respuesta. También para entusiastas del hardware premium.',
-        g4Title: '4. Corsair K70 RGB Pro — Clásico premium con Cherry MX',
-        g4CardTitle: 'Corsair K70 RGB Pro',
-        g4CardRating: '★★★★ 4.4/5 · 3.500 valoraciones',
-        g4CardPrice: '~150 €',
-        g4Desc1: 'El <strong>Corsair K70 RGB Pro</strong> es un teclado mecánico con switches Cherry MX, marco de aluminio anodizado y retroiluminación RGB por tecla. Incluye reposamuñecas desmontable de textura suave.',
-        g4Desc2: 'Incorpora modo torneo (bloquea teclas no esenciales), puerto USB pasante y rueda de volumen dedicada. El software iCUE permite personalizar cada tecla, perfiles y efectos RGB.',
-        g4Pros: '<li>Switches Cherry MX de máxima calidad</li><li>Marco de aluminio muy sólido</li><li>RGB brillante con software iCUE completo</li><li>Modo torneo y rueda de volumen</li>',
-        g4Cons: '<li>Precio elevado</li><li>Cable USB grueso, no desmontable</li><li>El software iCUE consume recursos</li>',
-        g4For: '<strong>¿Para quién es?</strong> Para entusiastas del gaming que quieren un teclado robusto con la mejor calidad de switches y personalización RGB total.',
+        g4Title: '4. Razer Huntsman Mini — Teclado 60% compacto con switches ópticos',
+        g4CardTitle: 'Razer Huntsman Mini',
+        g4CardRating: '★★★★★ 4.6/5 · 1.200 valoraciones',
+        g4CardPrice: '89,99 €',
+        g4Desc1: 'El <strong>Razer Huntsman Mini</strong> es un teclado gaming 60% con switches ópticos lineales púrpura de Razer. Su formato ultracompacto sin teclado numérico ni teclas de función maximiza el espacio para el ratón en juegos FPS. La respuesta de los switches ópticos es la más rápida del mercado.',
+        g4Desc2: 'Incluye cable USB-C desmontable trenzado, iluminación RGB Chroma personalizable por tecla y software Razer Synapse. El layout español con tecla Ñ lo hace perfecto para el mercado nacional. Ideal para jugadores que buscan un teclado pequeño pero potente.',
+        g4Pros: '<li>Switches ópticos lineales más rápidos que los mecánicos tradicionales</li><li>Formato 60% ultracompacto</li><li>Layout español con Ñ</li><li>RGB Chroma personalizable por tecla</li>',
+        g4Cons: '<li>Sin teclas de función dedicadas (Fn + número)</li><li>Sin reposamuñecas incluido</li><li>Curva de aprendizaje para usuarios de teclados completos</li>',
+        g4For: '<strong>¿Para quién es?</strong> Para jugadores que quieren máximo espacio para el ratón y switches ópticos ultrarrápidos. Ideal para FPS competitivos y escritorios pequeños.',
         g5Title: '5. EPOMAKER Ajazz AK820 Pro — Teclado 75% inalámbrico y versátil',
         g5CardTitle: 'EPOMAKER Ajazz AK820 Pro',
         g5CardRating: '★★★★ 4.3/5 · 850 valoraciones',
-        g5CardPrice: '~70 €',
+        g5CardPrice: '82,99 €',
         g5Desc1: 'El <strong>EPOMAKER Ajazz AK820 Pro</strong> es un teclado mecánico 75% con pantalla LCD y perilla de control. Conexión inalámbrica 2.4G, Bluetooth y USB-C. Switches hot-swappables que permiten cambiar los interruptores sin soldar.',
         g5Desc2: 'Distribución española, iluminación RGB y software personalizable. La pantalla muestra información del sistema o animaciones. Muy valorado por su versatilidad y formato compacto.',
         g5Pros: '<li>Formato 75% compacto con teclas de función</li><li>Switches hot-swappables</li><li>Triple conexión: 2.4G, BT, USB-C</li><li>Pantalla LCD y perilla incluida</li>',
@@ -478,7 +478,7 @@
         gBest1: 'Mejor calidad-precio',
         gBest2: 'Económico mecánico',
         gBest3: 'Máximo rendimiento',
-        gBest4: 'Premium Cherry MX',
+        gBest4: 'Compacto 60%',
         gBest5: 'Compacto versátil',
         buyingGuideTitle: 'Guía de compra: cómo elegir teclado gaming',
         buyingGuide1: '<strong>Switches para gaming.</strong> Para juegos FPS, switches lineales (rojos) ofrecen la respuesta más rápida. Para MMO y MOBA, los táctiles (marrones) dan mejor control. Los switches ópticos de Razer son los más rápidos del mercado.',
@@ -519,7 +519,7 @@
         o1Title: '1. Logitech MX Keys S — Mejor teclado profesional',
         o1CardTitle: 'Logitech MX Keys S',
         o1CardRating: '★★★★★ 4.7/5 · 4.200 valoraciones',
-        o1CardPrice: '~99 €',
+        o1CardPrice: '94,99 €',
         o1Desc1: 'El <strong>Logitech MX Keys S</strong> es el teclado de oficina más vendido por una razón. Teclas esféricas con retroiluminación adaptativa que se enciende al acercar las manos. Conexión Bluetooth o Logi Bolt, con hasta 3 dispositivos simultáneos.',
         o1Desc2: 'Sensación de escritura precisa pero silenciosa. Batería recargable de 10 días con retroiluminación, 5 meses sin ella. Compatible con Windows, macOS, Linux y ChromeOS.',
         o1Pros: '<li>Sensación de escritura premium</li><li>Retroiluminación adaptativa inteligente</li><li>Conexión multi-dispositivo (hasta 3)</li><li>Batería de larga duración</li>',
@@ -528,7 +528,7 @@
         o2Title: '2. Logitech ERGO K860 — Máxima ergonomía split',
         o2CardTitle: 'Logitech ERGO K860',
         o2CardRating: '★★★★★ 4.5/5 · 3.240 valoraciones',
-        o2CardPrice: '~120 €',
+        o2CardPrice: '101,35 €',
         o2Desc1: 'El <strong>Logitech ERGO K860</strong> es un teclado ergonómico partido con curvatura natural y reposamuñecas integrado de memory foam. Reduce la tensión en muñecas y antebrazos hasta un 21% según estudios.',
         o2Desc2: 'Incluye elevación ajustable (tenting de 7°), conexión Bluetooth y Logi Bolt. Funciona con 2 pilas AAA que duran hasta 2 años. Compatible con Windows, macOS, ChromeOS y Android.',
         o2Pros: '<li>Diseño partido que mejora la postura</li><li>Reposamuñecas integrado muy cómodo</li><li>Elevación ajustable</li><li>Duración de pilas excepcional</li>',
@@ -537,7 +537,7 @@
         o3Title: '3. Cherry DW 9000 Slim — Profesional silencioso',
         o3CardTitle: 'Cherry DW 9000 Slim',
         o3CardRating: '★★★★ 4.2/5 · 1.500 valoraciones',
-        o3CardPrice: '~60 €',
+        o3CardPrice: '99,99 €',
         o3Desc1: 'El <strong>Cherry DW 9000 Slim</strong> es un teclado inalámbrico de perfil bajo con teclas silenciosas. Diseño profesional en color negro, con teclado numérico completo y receptor USB unificador.',
         o3Desc2: 'Las teclas Chiclet ofrecen una escritura precisa y muy silenciosa, ideal para oficinas compartidas. Incluye teclas de acceso directo a calculadora, email y navegador.',
         o3Pros: '<li>Teclas muy silenciosas</li><li>Perfil bajo y diseño profesional</li><li>Teclado numérico completo</li><li>Marca alemana de confianza</li>',
@@ -546,7 +546,7 @@
         o4Title: '4. Logitech Wave Keys — Ergonómico asequible',
         o4CardTitle: 'Logitech Wave Keys',
         o4CardRating: '★★★★ 4.3/5 · 900 valoraciones',
-        o4CardPrice: '~55 €',
+        o4CardPrice: '59,99 €',
         o4Desc1: 'El <strong>Logitech Wave Keys</strong> es un teclado ergonómico con diseño ondulado y reposamuñecas integrado. Conexión Bluetooth y Logi Bolt, con duración de pilas de hasta 3 años.',
         o4Desc2: 'Su forma curva mantiene las muñecas en una posición natural sin la curva de aprendizaje de los teclados partidos. Ideal como primer teclado ergonómico.',
         o4Pros: '<li>Precio muy asequible para un ergonómico</li><li>Reposamuñecas integrado cómodo</li><li>Fácil adaptación (sin curva de aprendizaje)</li><li>Batería de larga duración</li>',
@@ -555,7 +555,7 @@
         o5Title: '5. TECKNET Mini — Teclado ultra económico',
         o5CardTitle: 'TECKNET Mini',
         o5CardRating: '★★★★ 4.5/5 · 2.365 valoraciones',
-        o5CardPrice: '~17 €',
+        o5CardPrice: '19,99 €',
         o5Desc1: 'El <strong>TECKNET Mini</strong> es un teclado inalámbrico ultra delgado a un precio imbatible. Conexión 2.4 GHz con receptor USB, diseño compacto y teclas silenciosas de perfil bajo.',
         o5Desc2: 'Incluye teclado numérico y teclas multimedia. Funciona con una pila AAA incluida. Compatible con Windows, Mac y Android TV. Más de 200 unidades compradas al mes.',
         o5Pros: '<li>Precio increíblemente bajo</li><li>Diseño slim y ligero</li><li>Teclas silenciosas</li><li>Incluye teclado numérico</li>',
@@ -612,8 +612,8 @@
         p1Title: '1. Optimum Nutrition Gold Standard 100% Whey — La más vendida del mundo',
         p1CardTitle: 'ON Gold Standard Whey',
         p1CardRating: '★★★★★ 4.7/5 · 12.000 valoraciones',
-        p1CardPrice: '~65 € (2,27 kg)',
-        p1Desc1: 'La <strong>Optimum Nutrition Gold Standard 100% Whey</strong> es la proteína más vendida del mundo desde hace más de 20 años. Mezcla de aislado, concentrado e hidrolizado de suero de leche. Aporta 24 g de proteína y 5 g de BCAA por dosis.',
+        p1CardPrice: '44,50 € (900 g)',
+        p1Desc1: 'La <strong>Optimum Nutrition Gold Standard 100% Whey</strong> es la proteína más vendida del mundo desde hace más de 20 años. Mezcla de aislado, concentrado e hidrolizado de suero de leche. Aporta 24 g de proteína y 5 g de BCAA por dosis. Este formato de 900 g es ideal para probar la calidad de ON antes de comprar el formato grande.',
         p1Desc2: 'Disponible en más de 15 sabores. Baja en grasa y azúcares. Se disuelve bien en agua o leche. Fabricada con control de calidad, con análisis de laboratorio independientes que confirman su pureza.',
         p1Pros: '<li>Marca más vendida y fiable del mundo</li><li>24 g de proteína por dosis con BCAA incluidos</li><li>Se disuelve fácilmente</li><li>Múltiples sabores disponibles</li>',
         p1Cons: '<li>Precio superior a marcas blancas</li><li>Contiene edulcorantes artificiales</li><li>No apta para veganos</li>',
@@ -630,16 +630,16 @@
         p3Title: '3. MyProtein Creatine Monohydrate — La creatina más popular',
         p3CardTitle: 'MyProtein Creatine Monohydrate',
         p3CardRating: '★★★★★ 4.7/5 · 5.000 valoraciones',
-        p3CardPrice: '~20 € (1 kg)',
-        p3Desc1: 'La <strong>MyProtein Creatine Monohydrate</strong> es uno de los suplementos más vendidos en Amazon España. Creatina monohidrato en polvo micronizada, sin sabor, fácil de mezclar. 100% pura, sin aditivos.',
-        p3Desc2: 'La creatina es el suplemento con más evidencia científica: mejora la fuerza, la potencia y la recuperación muscular. Dosis recomendada: 3-5 g al día. Un envase de 1 kg dura unos 6-8 meses.',
+        p3CardPrice: '16,99 € (500 g)',
+        p3Desc1: 'La <strong>MyProtein Creatine Monohydrate</strong> es uno de los suplementos más vendidos en Amazon España. Creatina monohidrato en polvo micronizada, sin sabor, fácil de mezclar. 100% pura, sin aditivos. Este formato de 500 g es perfecto para empezar.',
+        p3Desc2: 'La creatina es el suplemento con más evidencia científica: mejora la fuerza, la potencia y la recuperación muscular. Dosis recomendada: 3-5 g al día. Un envase de 500 g dura unos 3-4 meses.',
         p3Pros: '<li>100% creatina monohidrato pura</li><li>Polvo micronizado se disuelve bien</li><li>Precio imbatible por kg</li><li>Evidencia científica sólida</li>',
         p3Cons: '<li>Solo un ingrediente (no esperes milagros)</li><li>Puede causar hinchazón inicial</li><li>Requiere constancia diaria</li>',
         p3For: '<strong>¿Para quién es?</strong> Para cualquier deportista que entrene fuerza o alta intensidad. Es el suplemento básico recomendado por la mayoría de expertos en nutrición deportiva.',
         p4Title: '4. Dymatize ISO 100 Hydrolyzed — Proteína premium de absorción rápida',
         p4CardTitle: 'Dymatize ISO 100',
         p4CardRating: '★★★★★ 4.6/5 · 4.200 valoraciones',
-        p4CardPrice: '~55 € (1,8 kg)',
+        p4CardPrice: '59,58 € (930 g)',
         p4Desc1: 'El <strong>Dymatize ISO 100</strong> es un hidrolizado de proteína de suero con 25 g de proteína por dosis y solo 0,5 g de grasa. Procesado para una absorción ultra rápida, ideal para post-entreno inmediato.',
         p4Desc2: 'Bajo en lactosa, apto para personas sensibles. Contiene 5,5 g de BCAA. Certificado por Informed-Sport (libre de sustancias prohibidas). Sabor excelente comparado con otras proteínas.',
         p4Pros: '<li>Absorción ultra rápida (hidrolizado)</li><li>Muy bajo en lactosa</li><li>Certificado Informed-Sport</li><li>Sabor superior a la media</li>',
@@ -648,8 +648,8 @@
         p5Title: '5. HSN EvoWhey — Mejor proteína española calidad-precio',
         p5CardTitle: 'HSN EvoWhey',
         p5CardRating: '★★★★ 4.4/5 · 2.500 valoraciones',
-        p5CardPrice: '~25 € (1 kg)',
-        p5Desc1: 'La <strong>HSN EvoWhey</strong> es una proteína de suero concentrado de fabricación española con 22 g de proteína por dosis. Sin aceites ni carbohidratos añadidos. Edulcorada con stevia.',
+        p5CardPrice: '77,90 € (2 kg)',
+        p5Desc1: 'La <strong>HSN EvoWhey</strong> es una proteína de suero concentrado de fabricación española con 22 g de proteína por dosis. Sin aceites ni carbohidratos añadidos. Edulcorada con stevia. El formato de 2 kg es el más vendido y ofrece el mejor precio por dosis.',
         p5Desc2: 'HSN es una marca española con laboratorio propio y análisis públicos. Su EvoWhey tiene una excelente relación calidad-precio y está disponible en más de 20 sabores. Envío rápido desde España.',
         p5Pros: '<li>Fabricación española con control de calidad</li><li>Edulcorada con stevia (sin aspartamo)</li><li>Precio muy competitivo</li><li>Análisis de laboratorio públicos</li>',
         p5Cons: '<li>Marca menos conocida internacionalmente</li><li>Solo concentrado (no aislado)</li><li>Disponibilidad limitada fuera de España</li>',
@@ -670,7 +670,7 @@
         conclusionIntro: 'Depende de tu objetivo y presupuesto:',
         conclusionP1: '<strong>🥇 Para la mayoría:</strong> <strong>ON Gold Standard Whey</strong> — la proteína más fiable del mercado, calidad garantizada.',
         conclusionP2: '<strong>🥈 Si buscas ahorrar:</strong> <strong>MyProtein Impact Whey</strong> — excelente relación calidad-precio para el día a día.',
-        conclusionP3: '<strong>🥉 Suplemento imprescindible:</strong> <strong>MyProtein Creatina</strong> — el básico con más ciencia detrás, 20 € para 8 meses.',
+        conclusionP3: '<strong>🥉 Suplemento imprescindible:</strong> <strong>MyProtein Creatina</strong> — el básico con más ciencia detrás, 16,99 € para 3-4 meses.',
         conclusionP4: '<strong>⚡ Recuperación rápida:</strong> <strong>Dymatize ISO 100</strong> — si entrenas duro y quieres lo mejor para post-entreno.',
         conclusionP5: '<strong>🇪🇸 Marca española:</strong> <strong>HSN EvoWhey</strong> — calidad nacional con stevia y buen precio.',
         ctaBtn: '🛒 Ver ofertas en Amazon',
@@ -852,17 +852,17 @@
         t1Th5: 'Best for',
         p1Name: '🥇 Soundcore Q20i',
         p1Type: 'Over-ear',
-        p1Price: '~35 €',
+        p1Price: '39.99 €',
         p1Rating: '★★★★½',
         p1Best: 'Best value for money',
         p1Title:
           '🥇 Soundcore Q20i — Best value for money',
         p1CardTitle: 'Soundcore Q20i · Anker',
         p1CardRating:
-          '★★★★½ 4.7/5 · 67,986 ratings',
-        p1CardPrice: '~34.77 €',
+          '★★★★½ 4.7/5 · 68,519 ratings',
+        p1CardPrice: '39.99 €',
         p1Desc1:
-          'The <strong>Soundcore Q20i</strong> by Anker are, without question, the headphones with the best value for money on the Spanish market. With over <strong>67,000 ratings</strong> and an average score of 4.7/5, they have become a sales phenomenon.',
+          'The <strong>Soundcore Q20i</strong> by Anker are, without question, the headphones with the best value for money on the Spanish market. With over <strong>68,000 ratings</strong> and an average score of 4.7/5, they have become a sales phenomenon.',
         p1Desc2:
           'They feature <strong>hybrid active noise cancellation</strong>, something that until recently was only seen in models over 100 €. They also boast <strong>Hi-Res Audio</strong> certification and a bass boost mode ideal for urban and electronic music.',
         p1Pros:
@@ -873,7 +873,7 @@
           '<strong>Who is it for?</strong> For those looking for the best noise cancellation without spending over 50 €. Ideal for travel, studying, or working.',
         p2Name: '🥈 Apple AirPods 4',
         p2Type: 'True Wireless',
-        p2Price: '~129 €',
+        p2Price: '139.00 €',
         p2Rating: '★★★★½',
         p2Best: 'Best for Apple ecosystem',
         p2Title:
@@ -881,7 +881,7 @@
         p2CardTitle: 'Apple AirPods 4',
         p2CardRating:
           '★★★★½ 4.7/5 · 13,695 ratings',
-        p2CardPrice: '~129 €',
+        p2CardPrice: '139.00 €',
         p2Desc1:
           'The <strong>AirPods 4</strong> are the default choice for iPhone, iPad, or Mac users. They integrate Apple\'s <strong>H2 chip</strong>, which improves noise cancellation and sound quality over the previous generation.',
         p2Desc2:
@@ -889,7 +889,7 @@
         p2Pros:
           '<li>Spatial audio with dynamic head tracking</li><li>Seamless integration with Apple ecosystem</li><li>Water and sweat resistant (IP54)</li><li>USB-C case with wireless charging</li>',
         p2Cons:
-          '<li>High price (129 €)</li><li>Limited features on Android</li><li>Open design (no passive isolation)</li>',
+          '<li>High price (139 €)</li><li>Limited features on Android</li><li>Open design (no passive isolation)</li>',
         p2For:
           '<strong>Who is it for?</strong> For iPhone users who want the best possible integration and high-quality spatial sound.',
         p3Name: '🥉 Nothing Ear (a)',
@@ -936,21 +936,21 @@
           '<strong>Who is it for?</strong> For those who prioritise battery life above all else. Perfect for long trips, studying, or daily work without worrying about charging.',
         p5Name: '5. Xiaomi Redmi Buds 6 Play',
         p5Type: 'True Wireless',
-        p5Price: '~10 €',
+        p5Price: '17.95 €',
         p5Rating: '★★★★',
         p5Best: 'Best ultra-budget',
         p5Title:
           '5. Xiaomi Redmi Buds 6 Play — The most affordable option',
         p5CardTitle: 'Xiaomi Redmi Buds 6 Play',
         p5CardRating:
-          '★★★★ 4.4/5 · 12,409 ratings',
-        p5CardPrice: '~9.99 €',
+          '★★★★ 4.6/5 · 1,791 ratings',
+        p5CardPrice: '17.95 €',
         p5Desc1:
-          'At a ridiculous price of <strong>under 10 €</strong>, the <strong>Redmi Buds 6 Play</strong> by Xiaomi are the gateway to wireless earbuds. And the best part: they are not bad — quite the opposite.',
+          'At a price of <strong>17.95 €</strong>, the <strong>Redmi Buds 6 Play</strong> by Xiaomi are the gateway to wireless earbuds. And the best part: they are not bad — quite the opposite.',
         p5Desc2:
-          'They offer <strong>basic noise cancellation</strong>, <strong>Bluetooth 5.4</strong>, and up to <strong>36 hours of total battery life</strong> with the charging case. For less than the cost of a lunch menu, you get perfectly functional wireless earbuds.',
+          'They offer <strong>basic noise cancellation</strong>, <strong>Bluetooth 5.4</strong>, and up to <strong>36 hours of total battery life</strong> with the charging case. For under 20 €, you get perfectly functional wireless earbuds.',
         p5Pros:
-          '<li>Unbeatable price (9.99 €)</li><li>Latest Bluetooth 5.4</li><li>36 hours total battery life</li><li>Lightweight and comfortable</li>',
+          '<li>Unbeatable price (17.95 €)</li><li>Latest Bluetooth 5.4</li><li>36 hours total battery life</li><li>Lightweight and comfortable</li>',
         p5Cons:
           '<li>Basic noise cancellation</li><li>Limited sound quality (expected at this price)</li><li>Mediocre microphone for calls</li>',
         p5For:
@@ -1004,7 +1004,7 @@
         metaTitle:
           'Top 5 Best Ergonomic Chairs 2026 · Comparison',
         metaDesc:
-          'Comparison of the 5 best-selling ergonomic chairs on Amazon Spain in 2026. We review Sihoo M57, HOLLUDLE, SONGMICS, and GTPlayer.',
+          'Comparison of the 5 best-selling ergonomic chairs on Amazon Spain in 2026. We review Sihoo M57, HOLLUDLE, SONGMICS, and GTPlayer Gaming Chair.',
         ogTitle:
           'Top 5 Best Ergonomic Chairs 2026 · Complete Guide',
         category: '🪑 Office Chairs',
@@ -1025,7 +1025,7 @@
         t1Th5: 'Best for',
         p1Name: '🥇 Sihoo M57',
         p1Type: 'Mesh ergonomic',
-        p1Price: '~250 €',
+        p1Price: '€249.99',
         p1Rating: '★★★★ 4.4/5',
         p1Best: 'Best value for money',
         p1Title:
@@ -1033,7 +1033,7 @@
         p1CardTitle: 'Sihoo M57',
         p1CardRating:
           '★★★★ 4.4/5 · 4,619 ratings',
-        p1CardPrice: '~250 €',
+        p1CardPrice: '€249.99',
         p1Desc1:
           'The <strong>Sihoo M57</strong> is a benchmark in the mid-to-high ergonomic chair segment. Its breathable mesh back, height- and depth-adjustable lumbar support, and 3D headrest make it the most balanced option on the market.',
         p1Desc2:
@@ -1046,7 +1046,7 @@
           '<strong>Who is it for?</strong> For those looking for the best mid-to-high ergonomic chair without reaching the 300 € premium bracket. The most balanced option for remote work and daily use.',
         p2Name: '🥈 HOLLUDLE',
         p2Type: '3D lumbar support',
-        p2Price: '~190 €',
+        p2Price: '€189.99',
         p2Rating: '★★★★½ 4.6/5',
         p2Best: 'Best ergonomic adjustment',
         p2Title:
@@ -1054,7 +1054,7 @@
         p2CardTitle: 'HOLLUDLE Ergonomic',
         p2CardRating:
           '★★★★½ 4.6/5 · 1,329 ratings',
-        p2CardPrice: '~190 €',
+        p2CardPrice: '€189.99',
         p2Desc1:
           'The <strong>HOLLUDLE</strong> is an ergonomic chair with 3D lumbar support, 3D armrests and a 2D headrest. Its V-shaped design and breathable mesh back make it ideal for long work sessions. Amazon\'s Choice with over 1,300 ratings.',
         p2Desc2:
@@ -1067,7 +1067,7 @@
           '<strong>Who is it for?</strong> For those seeking maximum ergonomic adjustment without reaching the 250 € premium range. Ideal for programmers and intensive remote work.',
         p3Name: '🥉 SONGMICS OBN86BK',
         p3Type: 'Mesh with headrest',
-        p3Price: '~99 €',
+        p3Price: '€99.99',
         p3Rating: '★★★★ 4.3/5',
         p3Best: 'Best versatile value',
         p3Title:
@@ -1075,7 +1075,7 @@
         p3CardTitle: 'SONGMICS OBN86BK',
         p3CardRating:
           '★★★★ 4.3/5 · 10,274 ratings',
-        p3CardPrice: '~99 €',
+        p3CardPrice: '€99.99',
         p3Desc1:
           'The <strong>SONGMICS OBN86BK</strong> is a mesh office chair with adjustable headrest and lumbar support. Its synchronised mechanism lets you adjust the backrest tilt. Amazon\'s Choice with over 10,000 ratings.',
         p3Desc2:
@@ -1088,7 +1088,7 @@
           '<strong>Who is it for?</strong> For those looking for a full mesh chair with headrest at a very competitive price. Ideal for home office and mixed work-gaming use.',
         p4Name: '4. SONGMICS OBN037BKV2',
         p4Type: 'Mesh with lumbar',
-        p4Price: '~80 €',
+        p4Price: '€79.99',
         p4Rating: '★★★★ 4.4/5',
         p4Best: 'Best budget value',
         p4Title:
@@ -1096,7 +1096,7 @@
         p4CardTitle: 'SONGMICS OBN037BKV2',
         p4CardRating:
           '★★★★ 4.4/5 · 8,044 ratings',
-        p4CardPrice: '~80 €',
+        p4CardPrice: '€79.99',
         p4Desc1:
           'The <strong>SONGMICS OBN037BKV2</strong> is an ergonomic mesh chair with adjustable lumbar support and flip-up armrests. For under 80 €, it offers features found on chairs twice the price. Amazon\'s Choice with over 8,000 ratings and 200+ monthly purchases.',
         p4Desc2:
@@ -1107,25 +1107,25 @@
           '<li>Flip-up armrests (non-3D)</li><li>Max weight 120 kg</li><li>Somewhat laborious assembly</li>',
         p4For:
           '<strong>Who is it for?</strong> For those looking for the best mesh ergonomic chair under 100 €. The best value for money on the market.',
-        p5Name: '5. GTPlayer GT800A',
+        p5Name: '5. GTPlayer Gaming Chair',
         p5Type: 'Gaming massager',
-        p5Price: '~150 €',
-        p5Rating: '★★★★ 4.4/5',
+        p5Price: '€145.99',
+        p5Rating: '★★★★★ 5.0/5',
         p5Best: 'Best extra features',
         p5Title:
-          '5. GTPlayer GT800A — With massager and footrest',
-        p5CardTitle: 'GTPlayer GT800A',
+          '5. GTPlayer Gaming Chair — With footrest and massager',
+        p5CardTitle: 'GTPlayer Gaming Chair',
         p5CardRating:
-          '★★★★ 4.4/5 · 13,725 ratings',
-        p5CardPrice: '~150 €',
+          '★★★★★ 5.0/5 · 1 rating',
+        p5CardPrice: '€145.99',
         p5Desc1:
-          'The <strong>GTPlayer GT800A</strong> is a gaming chair with built-in lumbar massager and retractable footrest. Its backrest reclines up to 155° and includes lumbar and neck pillows, ideal for long gaming or work sessions.',
+          'The <strong>GTPlayer Gaming Chair</strong> is a gaming chair with retractable footrest and built-in lumbar massager. Its reclining backrest and lumbar and neck pillows make it ideal for long gaming or work sessions.',
         p5Desc2:
-          'Includes padded height-adjustable armrests, nylon base, and high-density foam. The lumbar massager runs via USB. With over 13,700 ratings, it is GTPlayer\'s most popular gaming chair on Amazon.',
+          'Includes padded height-adjustable armrests, chrome base, and high-density foam. Supports up to 180 kg. With a USB-powered lumbar massager and retractable footrest, it offers the best feature set in this comparison.',
         p5Pros:
-          '<li>Built-in lumbar massager (USB)</li><li>Retractable footrest included</li><li>Height-adjustable armrests</li><li>Over 13,700 positive ratings</li>',
+          '<li>Retractable footrest included</li><li>Built-in lumbar massager (USB)</li><li>Height-adjustable armrests</li><li>Supports up to 180 kg</li>',
         p5Cons:
-          '<li>Gaming aesthetics (not for formal offices)</li><li>PU leather breathes less than mesh</li><li>Heavy (19 kg)</li>',
+          '<li>Gaming aesthetics (not for formal offices)</li><li>PU leather breathes less than mesh</li><li>New product with few ratings yet</li>',
         p5For:
           '<strong>Who is it for?</strong> For gamers looking for extra features (massager, footrest) without spending over 150 €. Also for those wanting a versatile chair for gaming and remote work.',
         finalTitle: 'Final comparison table',
@@ -1147,7 +1147,7 @@
         conclusionP4:
           '<strong>💰 Tight budget:</strong> <strong>SONGMICS OBN037BKV2</strong> — get a mesh chair with lumbar support for 80 €.',
         conclusionP5:
-          '<strong>🔝 Gaming with extras:</strong> <strong>GTPlayer GT800A</strong> — built-in lumbar massager and footrest for 150 €.',
+          '<strong>🔝 Gaming with extras:</strong> <strong>GTPlayer Gaming Chair</strong> — built-in footrest and lumbar massager for €145.',
         ctaBtn: '🛒 Check deals on Amazon',
         footerBrand: '🪑 Best Ergonomic Chairs 2026',
         footerDesc:
@@ -1192,7 +1192,7 @@
       },
       tecladosGaming: {
         metaTitle: 'Top 5 Best Gaming Keyboards 2026 · Full Comparison',
-        metaDesc: 'Comparison of the 5 best gaming keyboards on Amazon Spain. Logitech G413 SE, Razer Huntsman V3 Pro, Corsair K70, KROM KASIC and EPOMAKER AK820 Pro. Prices and analysis.',
+        metaDesc: 'Comparison of the 5 best gaming keyboards on Amazon Spain. Logitech G413 SE, KROM KASIC, Razer Huntsman V3 Pro, Razer Huntsman Mini and EPOMAKER Ajazz AK820 Pro. Prices and analysis.',
         ogTitle: 'Top 5 Best Gaming Keyboards 2026 · Complete Guide',
         category: '🎮 Gaming Keyboards',
         title: 'Top 5 gaming keyboards in 2026',
@@ -1203,7 +1203,7 @@
         g1Title: '1. Logitech G413 SE — Best value for money',
         g1CardTitle: 'Logitech G413 SE',
         g1CardRating: '★★★★ 4.3/5 · 1,800 ratings',
-        g1CardPrice: '~55 €',
+        g1CardPrice: '€59.99',
         g1Desc1: 'The <strong>Logitech G413 SE</strong> is a full mechanical keyboard with tactile Romer-G switches. Its aluminium alloy construction and PBT keycaps make it durable and stable. The white LED backlighting is clean and professional.',
         g1Desc2: 'Includes anti-ghosting and multimedia keys. Compatible with Windows and macOS. Although it lacks RGB or G Hub software, its reliability and price make it the most balanced option.',
         g1Pros: '<li>Very robust aluminium construction</li><li>PBT keycaps resistant to wear</li><li>Great price for a quality mechanical</li><li>Anti-ghosting on all keys</li>',
@@ -1212,7 +1212,7 @@
         g2Title: '2. KROM KASIC — Budget mechanical gaming keyboard',
         g2CardTitle: 'KROM KASIC',
         g2CardRating: '★★★★ 4.1/5 · 2,200 ratings',
-        g2CardPrice: '~40 €',
+        g2CardPrice: '€29.90',
         g2Desc1: 'The <strong>KROM KASIC</strong> is a mechanical keyboard with red linear switches and Rainbow backlighting. Its compact design and Spanish layout make it very accessible for the local market.',
         g2Desc2: 'Offers 25 anti-ghosting keys, integrated wrist rest and multimedia keys. Not the most premium on the market, but more than enough for beginners.',
         g2Pros: '<li>Unbeatable price for a mechanical</li><li>Spanish layout with Ñ</li><li>Integrated wrist rest</li><li>Silent red switches</li>',
@@ -1221,25 +1221,25 @@
         g3Title: '3. Razer Huntsman V3 Pro — Maximum competitive performance',
         g3CardTitle: 'Razer Huntsman V3 Pro',
         g3CardRating: '★★★★★ 4.6/5 · 1,200 ratings',
-        g3CardPrice: '~210 €',
+        g3CardPrice: '€189.99',
         g3Desc1: 'The <strong>Razer Huntsman V3 Pro</strong> uses analogue optical switches with Snap Tap and Rapid Trigger technology. It detects keypress depth, allowing ultra-fast responses with zero dead travel.',
         g3Desc2: 'Includes multi-function dial, magnetic wrist rest and integrated profile memory. It is the reference keyboard for esports and competitive gaming where every millisecond counts.',
         g3Pros: '<li>Fastest analogue optical switches on the market</li><li>Snap Tap and Rapid Trigger for competitive edge</li><li>Premium construction with magnetic wrist rest</li><li>Multi-function dial and profile memory</li>',
         g3Cons: '<li>Very expensive</li><li>No Spanish layout (QWERTY US)</li><li>Overkill for casual gamers</li>',
         g3For: '<strong>Who is it for?</strong> For competitive FPS players who want the fastest response speed. Also for premium hardware enthusiasts.',
-        g4Title: '4. Corsair K70 RGB Pro — Premium classic with Cherry MX',
-        g4CardTitle: 'Corsair K70 RGB Pro',
-        g4CardRating: '★★★★ 4.4/5 · 3,500 ratings',
-        g4CardPrice: '~150 €',
-        g4Desc1: 'The <strong>Corsair K70 RGB Pro</strong> is a mechanical keyboard with Cherry MX switches, anodized aluminium frame and per-key RGB backlighting. Includes a detachable soft-texture wrist rest.',
-        g4Desc2: 'Features tournament mode (locks non-essential keys), USB passthrough port and dedicated volume wheel. iCUE software allows full customization of keys, profiles and RGB effects.',
-        g4Pros: '<li>Top quality Cherry MX switches</li><li>Very solid aluminium frame</li><li>Bright RGB with full iCUE software</li><li>Tournament mode and volume wheel</li>',
-        g4Cons: '<li>High price</li><li>Thick USB cable, not detachable</li><li>iCUE software consumes resources</li>',
-        g4For: '<strong>Who is it for?</strong> For gaming enthusiasts who want a robust keyboard with the best switch quality and full RGB customization.',
+        g4Title: '4. Razer Huntsman Mini — 60% compact keyboard with optical switches',
+        g4CardTitle: 'Razer Huntsman Mini',
+        g4CardRating: '★★★★★ 4.6/5 · 1,200 ratings',
+        g4CardPrice: '€89.99',
+        g4Desc1: 'The <strong>Razer Huntsman Mini</strong> is a 60% gaming keyboard with Razer linear purple optical switches. Its ultra-compact format with no numpad or function keys maximizes mouse space for FPS games. Optical switch response is the fastest on the market.',
+        g4Desc2: 'Includes detachable braided USB-C cable, per-key Chroma RGB lighting and Razer Synapse software. Spanish layout with Ñ key makes it perfect for the local market. Ideal for gamers wanting a small but powerful keyboard.',
+        g4Pros: '<li>Fastest optical linear switches on the market</li><li>Ultra-compact 60% format</li><li>Spanish layout with Ñ</li><li>Per-key Chroma RGB customizable</li>',
+        g4Cons: '<li>No dedicated function keys (Fn + number)</li><li>No wrist rest included</li><li>Learning curve for full-size users</li>',
+        g4For: '<strong>Who is it for?</strong> For gamers wanting maximum mouse space and ultra-fast optical switches. Ideal for competitive FPS and small desks.',
         g5Title: '5. EPOMAKER Ajazz AK820 Pro — 75% wireless versatile keyboard',
         g5CardTitle: 'EPOMAKER Ajazz AK820 Pro',
         g5CardRating: '★★★★ 4.3/5 · 850 ratings',
-        g5CardPrice: '~70 €',
+        g5CardPrice: '€82.99',
         g5Desc1: 'The <strong>EPOMAKER Ajazz AK820 Pro</strong> is a 75% mechanical keyboard with LCD screen and control knob. 2.4G wireless, Bluetooth and USB-C connection. Hot-swappable switches that can be changed without soldering.',
         g5Desc2: 'Spanish distribution, RGB lighting and customizable software. The screen displays system information or animations. Highly rated for its versatility and compact format.',
         g5Pros: '<li>Compact 75% format with function keys</li><li>Hot-swappable switches</li><li>Triple connection: 2.4G, BT, USB-C</li><li>LCD screen and knob included</li>',
@@ -1255,7 +1255,7 @@
         gBest1: 'Best value',
         gBest2: 'Budget mechanical',
         gBest3: 'Maximum performance',
-        gBest4: 'Premium Cherry MX',
+        gBest4: 'Compact 60%',
         gBest5: 'Compact versatile',
         buyingGuideTitle: 'Buying guide: how to choose a gaming keyboard',
         buyingGuide1: '<strong>Switches for gaming.</strong> For FPS games, linear switches (red) offer the fastest response. For MMO and MOBA, tactile switches (brown) give better control. Razer\'s optical switches are the fastest on the market.',
@@ -1296,7 +1296,7 @@
         o1Title: '1. Logitech MX Keys S — Best professional keyboard',
         o1CardTitle: 'Logitech MX Keys S',
         o1CardRating: '★★★★★ 4.7/5 · 4,200 ratings',
-        o1CardPrice: '~99 €',
+        o1CardPrice: '€94.99',
         o1Desc1: 'The <strong>Logitech MX Keys S</strong> is the best-selling office keyboard for a reason. Spherical keys with adaptive backlighting that turns on when your hands approach. Bluetooth or Logi Bolt connection, with up to 3 simultaneous devices.',
         o1Desc2: 'Precise yet quiet typing feel. Rechargeable battery lasting 10 days with backlighting, 5 months without. Compatible with Windows, macOS, Linux and ChromeOS.',
         o1Pros: '<li>Premium typing feel</li><li>Smart adaptive backlighting</li><li>Multi-device connection (up to 3)</li><li>Long battery life</li>',
@@ -1305,7 +1305,7 @@
         o2Title: '2. Logitech ERGO K860 — Maximum split ergonomics',
         o2CardTitle: 'Logitech ERGO K860',
         o2CardRating: '★★★★★ 4.5/5 · 3,240 ratings',
-        o2CardPrice: '~120 €',
+        o2CardPrice: '€101.35',
         o2Desc1: 'The <strong>Logitech ERGO K860</strong> is a split ergonomic keyboard with natural curve and integrated memory foam wrist rest. Reduces wrist and forearm strain by up to 21% according to studies.',
         o2Desc2: 'Includes adjustable tenting (7°), Bluetooth and Logi Bolt connection. Runs on 2 AAA batteries lasting up to 2 years. Compatible with Windows, macOS, ChromeOS and Android.',
         o2Pros: '<li>Split design that improves posture</li><li>Very comfortable integrated wrist rest</li><li>Adjustable tenting</li><li>Exceptional battery life</li>',
@@ -1314,7 +1314,7 @@
         o3Title: '3. Cherry DW 9000 Slim — Silent professional',
         o3CardTitle: 'Cherry DW 9000 Slim',
         o3CardRating: '★★★★ 4.2/5 · 1,500 ratings',
-        o3CardPrice: '~60 €',
+        o3CardPrice: '€99.99',
         o3Desc1: 'The <strong>Cherry DW 9000 Slim</strong> is a low-profile wireless keyboard with silent keys. Professional black design, full numeric keypad and unifying USB receiver.',
         o3Desc2: 'Chiclet keys offer precise, very quiet typing, ideal for shared offices. Includes shortcut keys for calculator, email and browser.',
         o3Pros: '<li>Very quiet keys</li><li>Low profile and professional design</li><li>Full numeric keypad</li><li>Trusted German brand</li>',
@@ -1323,7 +1323,7 @@
         o4Title: '4. Logitech Wave Keys — Affordable ergonomic',
         o4CardTitle: 'Logitech Wave Keys',
         o4CardRating: '★★★★ 4.3/5 · 900 ratings',
-        o4CardPrice: '~55 €',
+        o4CardPrice: '€59.99',
         o4Desc1: 'The <strong>Logitech Wave Keys</strong> is an ergonomic keyboard with wave design and integrated wrist rest. Bluetooth and Logi Bolt connection, with battery life of up to 3 years.',
         o4Desc2: 'Its curved shape keeps wrists in a natural position without the learning curve of split keyboards. Ideal as a first ergonomic keyboard.',
         o4Pros: '<li>Very affordable for an ergonomic keyboard</li><li>Comfortable integrated wrist rest</li><li>Easy adaptation (no learning curve)</li><li>Long battery life</li>',
@@ -1332,7 +1332,7 @@
         o5Title: '5. TECKNET Mini — Ultra-budget keyboard',
         o5CardTitle: 'TECKNET Mini',
         o5CardRating: '★★★★ 4.5/5 · 2,365 ratings',
-        o5CardPrice: '~17 €',
+        o5CardPrice: '€19.99',
         o5Desc1: 'The <strong>TECKNET Mini</strong> is an ultra-slim wireless keyboard at an unbeatable price. 2.4 GHz connection with USB receiver, compact design and quiet low-profile keys.',
         o5Desc2: 'Includes numeric keypad and multimedia keys. Runs on one included AAA battery. Compatible with Windows, Mac and Android TV. Over 200 units purchased monthly.',
         o5Pros: '<li>Incredibly low price</li><li>Slim and lightweight design</li><li>Quiet keys</li><li>Includes numeric keypad</li>',
@@ -1389,8 +1389,8 @@
         p1Title: '1. Optimum Nutrition Gold Standard 100% Whey — World\'s best seller',
         p1CardTitle: 'ON Gold Standard Whey',
         p1CardRating: '★★★★★ 4.7/5 · 12,000 ratings',
-        p1CardPrice: '~65 € (2.27 kg)',
-        p1Desc1: '<strong>Optimum Nutrition Gold Standard 100% Whey</strong> has been the world\'s best-selling protein for over 20 years. A blend of whey isolate, concentrate, and hydrolysate. Provides 24 g of protein and 5 g of BCAA per serving.',
+        p1CardPrice: '€44.50 (900 g)',
+        p1Desc1: '<strong>Optimum Nutrition Gold Standard 100% Whey</strong> has been the world\'s best-selling protein for over 20 years. A blend of whey isolate, concentrate, and hydrolysate. Provides 24 g of protein and 5 g of BCAA per serving. This 900 g format is perfect for trying ON quality before buying the larger tub.',
         p1Desc2: 'Available in over 15 flavours. Low in fat and sugar. Mixes well in water or milk. Manufactured with quality control and independent lab testing confirming its purity.',
         p1Pros: '<li>World\'s most trusted and best-selling brand</li><li>24 g protein per serving with BCAA</li><li>Mixes easily</li><li>Multiple flavours available</li>',
         p1Cons: '<li>Higher price than house brands</li><li>Contains artificial sweeteners</li><li>Not vegan-friendly</li>',
@@ -1407,16 +1407,16 @@
         p3Title: '3. MyProtein Creatine Monohydrate — Most popular creatine',
         p3CardTitle: 'MyProtein Creatine Monohydrate',
         p3CardRating: '★★★★★ 4.7/5 · 5,000 ratings',
-        p3CardPrice: '~20 € (1 kg)',
-        p3Desc1: '<strong>MyProtein Creatine Monohydrate</strong> is one of the best-selling supplements on Amazon Spain. Micronised powder, unflavoured, easy to mix. 100% pure, no additives.',
-        p3Desc2: 'Creatine is the supplement with the most scientific evidence: it improves strength, power, and muscle recovery. Recommended dose: 3-5 g per day. A 1 kg tub lasts about 6-8 months.',
+        p3CardPrice: '€16.99 (500 g)',
+        p3Desc1: '<strong>MyProtein Creatine Monohydrate</strong> is one of the best-selling supplements on Amazon Spain. Micronised powder, unflavoured, easy to mix. 100% pure, no additives. This 500 g format is ideal for starters.',
+        p3Desc2: 'Creatine is the supplement with the most scientific evidence: it improves strength, power, and muscle recovery. Recommended dose: 3-5 g per day. A 500 g tub lasts about 3-4 months.',
         p3Pros: '<li>100% pure creatine monohydrate</li><li>Micronised powder mixes well</li><li>Unbeatable price per kg</li><li>Solid scientific evidence</li>',
         p3Cons: '<li>Single ingredient (no miracles)</li><li>May cause initial bloating</li><li>Requires daily consistency</li>',
         p3For: '<strong>Who is it for?</strong> For any athlete training strength or high intensity. The basic supplement recommended by most sports nutrition experts.',
         p4Title: '4. Dymatize ISO 100 Hydrolyzed — Premium fast-absorption protein',
         p4CardTitle: 'Dymatize ISO 100',
         p4CardRating: '★★★★★ 4.6/5 · 4,200 ratings',
-        p4CardPrice: '~55 € (1.8 kg)',
+        p4CardPrice: '€59.58 (930 g)',
         p4Desc1: '<strong>Dymatize ISO 100</strong> is a hydrolysed whey protein with 25 g of protein per serving and only 0.5 g of fat. Processed for ultra-fast absorption, ideal for immediate post-workout recovery.',
         p4Desc2: 'Low in lactose, suitable for sensitive people. Contains 5.5 g of BCAA. Informed-Sport certified (free from banned substances). Excellent flavour compared to other proteins.',
         p4Pros: '<li>Ultra-fast absorption (hydrolysed)</li><li>Very low in lactose</li><li>Informed-Sport certified</li><li>Above average flavour</li>',
@@ -1425,8 +1425,8 @@
         p5Title: '5. HSN EvoWhey — Best Spanish brand protein',
         p5CardTitle: 'HSN EvoWhey',
         p5CardRating: '★★★★ 4.4/5 · 2,500 ratings',
-        p5CardPrice: '~25 € (1 kg)',
-        p5Desc1: '<strong>HSN EvoWhey</strong> is a Spanish-made whey concentrate with 22 g of protein per serving. No added oils or carbohydrates. Sweetened with stevia.',
+        p5CardPrice: '€77.90 (2 kg)',
+        p5Desc1: '<strong>HSN EvoWhey</strong> is a Spanish-made whey concentrate with 22 g of protein per serving. No added oils or carbohydrates. Sweetened with stevia. The 2 kg format is the best-selling option and offers the best price per serving.',
         p5Desc2: 'HSN is a Spanish brand with its own lab and public analysis. EvoWhey offers excellent value for money and is available in over 20 flavours. Fast shipping within Spain.',
         p5Pros: '<li>Spanish manufacturing with quality control</li><li>Sweetened with stevia (no aspartame)</li><li>Very competitive price</li><li>Public lab test results</li>',
         p5Cons: '<li>Less known internationally</li><li>Concentrate only (not isolate)</li><li>Limited availability outside Spain</li>',
@@ -1447,7 +1447,7 @@
         conclusionIntro: 'It depends on your goal and budget:',
         conclusionP1: '<strong>🥇 For most people:</strong> <strong>ON Gold Standard Whey</strong> — the most reliable protein on the market, guaranteed quality.',
         conclusionP2: '<strong>🥈 If you want to save:</strong> <strong>MyProtein Impact Whey</strong> — excellent value for daily use.',
-        conclusionP3: '<strong>🥉 Essential supplement:</strong> <strong>MyProtein Creatine</strong> — the basic with the most science backing it, 20 € for 8 months.',
+        conclusionP3: '<strong>🥉 Essential supplement:</strong> <strong>MyProtein Creatine</strong> — the basic with the most science backing it, €16.99 for 3-4 months.',
         conclusionP4: '<strong>⚡ Fast recovery:</strong> <strong>Dymatize ISO 100</strong> — if you train hard and want the best for post-workout.',
         conclusionP5: '<strong>🇪🇸 Spanish brand:</strong> <strong>HSN EvoWhey</strong> — national quality with stevia and great price.',
         ctaBtn: '🛒 Check prices on Amazon',
