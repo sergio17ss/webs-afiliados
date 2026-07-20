@@ -27,6 +27,7 @@
         footerLinkChairs: 'Sillas',
         footerLinkKeyboards: 'Teclados',
         footerLinkNutrition: 'Nutrición',
+        navMethodology: 'Metodología',
       },
       index: {
         metaTitle: 'DuoStudio · Guías de Compra',
@@ -47,6 +48,26 @@
         card4Title: 'Nutrición Deportiva',
         card4Desc:
           'Top 5 mejores suplementos 2026 &middot; Comparativa',
+      },
+      metodologia: {
+        metaTitle: 'Metodología · Cómo seleccionamos y analizamos productos | DuoStudio',
+        metaDesc: 'Conoce cómo DuoStudio selecciona, analiza y recomienda productos. Criterios editoriales, fuentes y proceso de revisión.',
+        ogTitle: 'Metodología · Cómo trabajamos en DuoStudio',
+        title: 'Metodología editorial',
+        lastUpdated: '📅 Última actualización: julio 2026',
+        intro: 'En DuoStudio trabajamos para ofrecerte guías de compra útiles, honestas y transparentes. Esta página explica cómo seleccionamos los productos, qué criterios usamos y cómo nos aseguramos de que nuestra información sea fiable.',
+        s1Title: '1. Selección de productos',
+        s1Text: 'Los productos que analizamos se seleccionan en función de su popularidad en Amazon España, valoraciones de usuarios, novedad en el mercado y relevancia para nuestros lectores. No pagamos por incluir productos ni aceptamos muestras gratuitas a cambio de reseñas favorables.',
+        s2Title: '2. Criterios de análisis',
+        s2Text: 'Para cada producto evaluamos: características técnicas, relación calidad-precio, opiniones de usuarios reales, durabilidad esperada y soporte del fabricante. Comparamos productos de la misma gama para ofrecer recomendaciones equilibradas.',
+        s3Title: '3. Fuentes de información',
+        s3Text: 'Nuestras guías se basan en datos públicos de Amazon España (precios, valoraciones, características del producto), análisis independientes de medios especializados y nuestra propia experiencia práctica cuando es posible. No utilizamos inteligencia artificial para generar las recomendaciones finales.',
+        s4Title: '4. Actualización de contenido',
+        s4Text: 'Las guías se revisan y actualizan periódicamente para reflejar cambios de precios, nuevos lanzamientos y variaciones en la popularidad de los productos. La fecha de la última actualización aparece en cada guía.',
+        s5Title: '5. Transparencia sobre afiliados',
+        s5Text: 'DuoStudio participa en el programa de afiliados de Amazon EU. Esto significa que si compras un producto a través de uno de nuestros enlaces, recibimos una pequeña comisión sin coste adicional para ti. Esta comisión no influye en nuestras recomendaciones. Trabajamos con los mismos datos y criterios para todos los productos, independientemente de los acuerdos de afiliación.',
+        ctaTitle: '¿Tienes alguna duda?',
+        ctaText: 'Si quieres sugerirnos un producto o categoría, o tienes preguntas sobre nuestra metodología, puedes consultar nuestra política de privacidad o escribirnos. Valoramos tus comentarios para seguir mejorando.',
       },
       auriculares: {
         metaTitle:
@@ -806,6 +827,7 @@
         footerLinkChairs: 'Chairs',
         footerLinkKeyboards: 'Keyboards',
         footerLinkNutrition: 'Nutrition',
+        navMethodology: 'Methodology',
       },
       index: {
         metaTitle: 'DuoStudio · Buying Guides',
@@ -826,6 +848,26 @@
         card4Title: 'Sports Nutrition',
         card4Desc:
           'Top 5 best supplements 2026 &middot; Comparison',
+      },
+      metodologia: {
+        metaTitle: 'Methodology · How We Select and Review Products | DuoStudio',
+        metaDesc: 'Learn how DuoStudio selects, analyzes, and recommends products. Editorial criteria, sources, and review process.',
+        ogTitle: 'Methodology · How We Work at DuoStudio',
+        title: 'Editorial Methodology',
+        lastUpdated: '📅 Last updated: July 2026',
+        intro: 'At DuoStudio we work to provide useful, honest, and transparent buying guides. This page explains how we select products, what criteria we use, and how we ensure our information is reliable.',
+        s1Title: '1. Product Selection',
+        s1Text: 'The products we review are selected based on their popularity on Amazon Spain, user ratings, market relevance, and reader interest. We do not pay to include products nor accept free samples in exchange for favorable reviews.',
+        s2Title: '2. Review Criteria',
+        s2Text: 'For each product we evaluate: technical specifications, value for money, real user reviews, expected durability, and manufacturer support. We compare products within the same range to provide balanced recommendations.',
+        s3Title: '3. Information Sources',
+        s3Text: 'Our guides are based on public data from Amazon Spain (prices, ratings, product specs), independent expert reviews, and our own hands-on experience when possible. We do not use artificial intelligence to generate final recommendations.',
+        s4Title: '4. Content Updates',
+        s4Text: 'Guides are regularly reviewed and updated to reflect price changes, new releases, and shifts in product popularity. The last update date appears on each guide.',
+        s5Title: '5. Affiliate Transparency',
+        s5Text: 'DuoStudio participates in the Amazon EU Associates Programme. This means if you buy a product through one of our links, we earn a small commission at no extra cost to you. This commission does not influence our recommendations. We use the same data and criteria for all products regardless of affiliate agreements.',
+        ctaTitle: 'Have questions?',
+        ctaText: 'If you would like to suggest a product or category, or have questions about our methodology, feel free to check our privacy policy or reach out. We value your feedback.',
       },
       auriculares: {
         metaTitle:
