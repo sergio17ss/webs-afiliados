@@ -89,4 +89,20 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://sergio17ss.github.io/webs-afiliados/afiliados/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sergio17ss.github.io/webs-afiliados/afiliados/" />
   </url>
+  <url>
+    <loc>https://sergio17ss.github.io/webs-afiliados/sobre/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sergio17ss.github.io/webs-afiliados/sobre/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sergio17ss.github.io/webs-afiliados/sobre/" />
+  </url>
+  <url>
+    <loc>https://sergio17ss.github.io/webs-afiliados/contacto/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sergio17ss.github.io/webs-afiliados/contacto/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sergio17ss.github.io/webs-afiliados/contacto/" />
+  </url>
 </urlset>

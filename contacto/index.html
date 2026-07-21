@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="es" data-i18n-title="contacto.metaTitle" data-i18n-desc="contacto.metaDesc" data-i18n-og-title="contacto.ogTitle">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Contacta con DuoStudio. Envíanos tus preguntas, sugerencias o comentarios a través de nuestro formulario de contacto." />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://sergio17ss.github.io/webs-afiliados/contacto/" />
+  <meta name="author" content="DuoStudio" />
+  <title data-i18n="contacto.metaTitle">Contacto · DuoStudio</title>
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Contacto · DuoStudio" />
+  <meta property="og:description" content="Contacta con DuoStudio. Envíanos tus preguntas, sugerencias o comentarios." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://sergio17ss.github.io/webs-afiliados/contacto/" />
+  <meta property="og:site_name" content="DuoStudio" />
+  <meta property="og:locale" content="es_ES" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Contacto · DuoStudio" />
+  <meta name="twitter:description" content="Contacta con DuoStudio. Envíanos tus preguntas, sugerencias o comentarios." />
+
+  <!-- Hreflang -->
+  <link rel="alternate" hreflang="es" href="https://sergio17ss.github.io/webs-afiliados/contacto/" />
+  <link rel="alternate" hreflang="x-default" href="https://sergio17ss.github.io/webs-afiliados/contacto/" />
+
+  <link rel="stylesheet" href="../css/style.css" />
+  <script defer src="../js/i18n.js"></script>
+
+  <!-- Schema: ContactPage -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ContactPage",
+    "name": "Contacto · DuoStudio",
+    "description": "Contacta con DuoStudio. Envíanos tus preguntas, sugerencias o comentarios.",
+    "url": "https://sergio17ss.github.io/webs-afiliados/contacto/",
+    "mainEntity": {
+      "@type": "Organization",
+      "name": "DuoStudio",
+      "url": "https://sergio17ss.github.io/webs-afiliados/",
+      "email": "info@duostudio.es"
+    },
+    "inLanguage": "es"
+  }
+  </script>
+
+  <style>
+    .contact-form {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      margin: 1.5rem 0;
+    }
+    .contact-form label {
+      font-weight: 600;
+      font-size: 0.95rem;
+    }
+    .contact-form input,
+    .contact-form textarea {
+      width: 100%;
+      padding: 0.75rem 1rem;
+      border: 1px solid #d1d5db;
+      border-radius: 8px;
+      font-size: 1rem;
+      font-family: inherit;
+      background: #fff;
+      transition: border-color 0.2s;
+    }
+    .contact-form input:focus,
+    .contact-form textarea:focus {
+      outline: none;
+      border-color: var(--primary, #0071e3);
+      box-shadow: 0 0 0 3px rgba(0, 113, 227, 0.15);
+    }
+    .contact-form textarea {
+      min-height: 150px;
+      resize: vertical;
+    }
+    .contact-form button {
+      align-self: flex-start;
+      padding: 0.75rem 2rem;
+      background: var(--primary, #0071e3);
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .contact-form button:hover {
+      background: #005bb5;
+    }
+    .contact-email {
+      font-size: 1.1rem;
+      margin: 1rem 0;
+    }
+    .contact-email a {
+      color: var(--primary, #0071e3);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .contact-email a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header class="header" role="banner">
+    <div class="header-inner">
+      <a href="../index.html" class="header-logo" data-i18n="common.navBrand" aria-label="Volver al inicio">DuoStudio</a>
+      <div class="header-actions">
+        <button class="lang-btn" onclick="i18n.toggleLang()" aria-label="Switch language">
+          <span class="lang-btn-text">EN</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main class="legal-page">
+    <article class="legal-content">
+      <h1 data-i18n="contacto.title">Contacto</h1>
+      <p class="legal-date" data-i18n="contacto.lastUpdated">📅 Última actualización: julio 2026</p>
+
+      <p data-i18n="contacto.intro">¿Tienes alguna pregunta, sugerencia o comentario? Nos encantaría escucharte. Puedes contactarnos a través de cualquiera de los siguientes medios.</p>
+
+      <h2 data-i18n="contacto.s1Title">Email</h2>
+      <p data-i18n-html="contacto.s1Text">Puedes escribirnos directamente a <strong>info@duostudio.es</strong>. Respondemos a todos los mensajes en un plazo máximo de 48 horas laborables.</p>
+
+      <h2 data-i18n="contacto.s2Title">Formulario de contacto</h2>
+      <p data-i18n="contacto.s2Text">También puedes utilizar el siguiente formulario para enviarnos tu mensaje. Rellena los campos y te responderemos lo antes posible.</p>
+
+      <form class="contact-form" action="mailto:info@duostudio.es" method="post" enctype="text/plain">
+        <div>
+          <label for="name" data-i18n="contacto.formName">Tu nombre</label>
+          <input type="text" id="name" name="name" required />
+        </div>
+        <div>
+          <label for="email" data-i18n="contacto.formEmail">Tu email</label>
+          <input type="email" id="email" name="email" required />
+        </div>
+        <div>
+          <label for="message" data-i18n="contacto.formMessage">Tu mensaje</label>
+          <textarea id="message" name="message" required></textarea>
+        </div>
+        <button type="submit" data-i18n="contacto.formSubmit">Enviar mensaje</button>
+      </form>
+
+      <h2 data-i18n="contacto.s3Title">¿Qué tipo de consultas atendemos?</h2>
+      <p data-i18n="contacto.s3Text">Estamos encantados de ayudarte con: preguntas sobre nuestros productos recomendados, sugerencias de categorías o productos para analizar, incidencias técnicas con el sitio web, consultas sobre nuestra metodología editorial.</p>
+
+      <h2 data-i18n="contacto.s4Title">Horario de respuesta</h2>
+      <p data-i18n="contacto.s4Text">Nuestro horario de atención es de lunes a viernes de 9:00 a 18:00 (hora peninsular española). Intentamos responder a todos los mensajes en un máximo de 48 horas laborables. Los mensajes recibidos fuera de horario serán atendidos el siguiente día laborable.</p>
+    </article>
+  </main>
+
+  <footer class="footer" role="contentinfo">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <h3>DuoStudio</h3>
+        <p data-i18n="common.copyright">Comparativas independientes para ayudarte a tomar la mejor decisión de compra.</p>
+      </div>
+      <div>
+        <h4 data-i18n="common.navDocs">Enlaces</h4>
+        <ul class="footer-links">
+          <li><a href="../index.html" data-i18n="common.navHome">Inicio</a></li>
+          <li><a href="../auriculares/" data-i18n="common.footerLinkHeadphones">Auriculares</a></li>
+          <li><a href="../oficina/" data-i18n="common.footerLinkChairs">Sillas</a></li>
+          <li><a href="../teclados/" data-i18n="common.footerLinkKeyboards">Teclados</a></li>
+          <li><a href="../nutricion/" data-i18n="common.footerLinkNutrition">Nutrición</a></li>
+          <li><a href="../metodologia/" data-i18n="common.navMethodology">Metodología</a></li>
+          <li><a href="../sobre/" data-i18n="common.navAbout">Sobre nosotros</a></li>
+          <li><a href="../contacto/" data-i18n="common.navContact">Contacto</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Legal</h4>
+        <ul class="footer-links">
+          <li><a href="../privacidad/" data-i18n="common.navPrivacy">Política de privacidad</a></li>
+          <li><a href="../terminos/" data-i18n="common.navTerms">Términos y condiciones</a></li>
+          <li><a href="../afiliados/" data-i18n="common.navAffiliate">Aviso de afiliados</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom" data-i18n="common.copyright">
+      © 2026 DuoStudio · Algunos enlaces son de afiliado
+    </div>
+  </footer>
+</body>
+</html>
