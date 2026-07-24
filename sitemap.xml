@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Homepage -->
   <url>
     <loc>https://duostudio.es/</loc>
     <lastmod>2026-07-22</lastmod>
@@ -9,54 +10,96 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/" />
   </url>
+
+  <!-- Tecnología -->
   <url>
-    <loc>https://duostudio.es/auriculares/</loc>
+    <loc>https://duostudio.es/articulos/tecnologia/auriculares/auriculares-guia-compra</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/articulos/tecnologia/auriculares/auriculares-guia-compra" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/articulos/tecnologia/auriculares/auriculares-guia-compra" />
+  </url>
+  <url>
+    <loc>https://duostudio.es/articulos/tecnologia/auriculares/auriculares-deporte</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/auriculares/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/auriculares/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/articulos/tecnologia/auriculares/auriculares-deporte" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/articulos/tecnologia/auriculares/auriculares-deporte" />
   </url>
   <url>
-    <loc>https://duostudio.es/oficina/</loc>
+    <loc>https://duostudio.es/articulos/tecnologia/auriculares/auriculares-gaming</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/oficina/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/oficina/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/articulos/tecnologia/auriculares/auriculares-gaming" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/articulos/tecnologia/auriculares/auriculares-gaming" />
   </url>
   <url>
-    <loc>https://duostudio.es/teclados/</loc>
+    <loc>https://duostudio.es/articulos/tecnologia/auriculares/auriculares-cancelacion-ruido</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/teclados/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/teclados/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/articulos/tecnologia/auriculares/auriculares-cancelacion-ruido" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/articulos/tecnologia/auriculares/auriculares-cancelacion-ruido" />
   </url>
   <url>
-    <loc>https://duostudio.es/teclados/gaming/</loc>
-    <lastmod>2026-07-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/teclados/gaming/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/teclados/gaming/" />
-  </url>
-  <url>
-    <loc>https://duostudio.es/teclados/oficina/</loc>
-    <lastmod>2026-07-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/teclados/oficina/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/teclados/oficina/" />
-  </url>
-  <url>
-    <loc>https://duostudio.es/nutricion/</loc>
+    <loc>https://duostudio.es/articulos/tecnologia/auriculares/auriculares-menos-50eur</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/nutricion/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/nutricion/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/articulos/tecnologia/auriculares/auriculares-menos-50eur" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/articulos/tecnologia/auriculares/auriculares-menos-50eur" />
   </url>
+  <url>
+    <loc>https://duostudio.es/articulos/tecnologia/auriculares/auriculares-menos-100eur</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/articulos/tecnologia/auriculares/auriculares-menos-100eur" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/articulos/tecnologia/auriculares/auriculares-menos-100eur" />
+  </url>
+
+  <!-- Teclados -->
+  <url>
+    <loc>https://duostudio.es/articulos/tecnologia/teclados/teclados-gaming</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/articulos/tecnologia/teclados/teclados-gaming" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/articulos/tecnologia/teclados/teclados-gaming" />
+  </url>
+  <url>
+    <loc>https://duostudio.es/articulos/tecnologia/teclados/teclados-oficina</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/articulos/tecnologia/teclados/teclados-oficina" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/articulos/tecnologia/teclados/teclados-oficina" />
+  </url>
+
+  <!-- Hogar -->
+  <url>
+    <loc>https://duostudio.es/articulos/hogar/sillas-oficina/sillas-oficina-guia-compra</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/articulos/hogar/sillas-oficina/sillas-oficina-guia-compra" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/articulos/hogar/sillas-oficina/sillas-oficina-guia-compra" />
+  </url>
+
+  <!-- Salud -->
+  <url>
+    <loc>https://duostudio.es/articulos/salud/nutricion/nutricion-suplementos</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/articulos/salud/nutricion/nutricion-suplementos" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/articulos/salud/nutricion/nutricion-suplementos" />
+  </url>
+
+  <!-- Páginas legales -->
   <url>
     <loc>https://duostudio.es/metodologia/</loc>
     <lastmod>2026-07-22</lastmod>
@@ -64,6 +107,22 @@
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/metodologia/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/metodologia/" />
+  </url>
+  <url>
+    <loc>https://duostudio.es/sobre/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/sobre/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/sobre/" />
+  </url>
+  <url>
+    <loc>https://duostudio.es/contacto/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/contacto/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/contacto/" />
   </url>
   <url>
     <loc>https://duostudio.es/privacidad/</loc>
@@ -88,21 +147,5 @@
     <priority>0.3</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/afiliados/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/afiliados/" />
-  </url>
-  <url>
-    <loc>https://duostudio.es/sobre/</loc>
-    <lastmod>2026-07-22</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/sobre/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/sobre/" />
-  </url>
-  <url>
-    <loc>https://duostudio.es/contacto/</loc>
-    <lastmod>2026-07-22</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="es" href="https://duostudio.es/contacto/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://duostudio.es/contacto/" />
   </url>
 </urlset>

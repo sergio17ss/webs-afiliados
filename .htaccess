@@ -1,0 +1,24 @@
+RewriteEngine On
+
+# Redirect old URLs to new SEO architecture
+# Auriculares
+Redirect 301 /auriculares/ /articulos/tecnologia/auriculares/auriculares-guia-compra
+
+# Teclados
+Redirect 301 /teclados/ /articulos/tecnologia/teclados/
+Redirect 301 /teclados/gaming/ /articulos/tecnologia/teclados/teclados-gaming
+Redirect 301 /teclados/oficina/ /articulos/tecnologia/teclados/teclados-oficina
+
+# Sillas de oficina
+Redirect 301 /oficina/ /articulos/hogar/sillas-oficina/sillas-oficina-guia-compra
+
+# Nutrición
+Redirect 301 /nutricion/ /articulos/salud/nutricion/nutricion-suplementos
+
+# Páginas legales (sin cambio de URL)
+# /metodologia/ -> /metodologia/
+# /sobre/ -> /sobre/
+# /contacto/ -> /contacto/
+# /privacidad/ -> /privacidad/
+# /terminos/ -> /terminos/
+# /afiliados/ -> /afiliados/
