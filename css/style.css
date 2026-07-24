@@ -779,3 +779,63 @@ a:hover {
     font-size: 1.3rem;
   }
 }
+
+/* ===== CONTACT FORM ===== */
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+.contact-form label {
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-family: inherit;
+  background: #fff;
+  transition: border-color 0.2s;
+}
+.contact-form input:focus,
+.contact-form textarea:focus {
+  outline: none;
+  border-color: var(--primary, #0071e3);
+  box-shadow: 0 0 0 3px rgba(0, 113, 227, 0.15);
+}
+.contact-form textarea {
+  min-height: 150px;
+  resize: vertical;
+}
+.contact-form button {
+  align-self: flex-start;
+  padding: 0.75rem 2rem;
+  background: var(--primary, #0071e3);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.contact-form button:hover {
+  background: #005bb5;
+}
+.contact-email {
+  font-size: 1.1rem;
+  margin: 1rem 0;
+}
+.contact-email a {
+  color: var(--primary, #0071e3);
+  text-decoration: none;
+  font-weight: 600;
+}
+.contact-email a:hover {
+  text-decoration: underline;
+}
