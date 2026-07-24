@@ -1,19 +1,24 @@
 RewriteEngine On
 
+# Remove .html extension for cleaner URLs
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html [L]
+
 # Redirect old URLs to new SEO architecture
 # Auriculares
-Redirect 301 /auriculares/ /articulos/tecnologia/auriculares/auriculares-guia-compra
+RewriteRule ^auriculares/?$ /articulos/tecnologia/auriculares/auriculares-guia-compra [R=301,L]
 
 # Teclados
-Redirect 301 /teclados/ /articulos/tecnologia/teclados/
-Redirect 301 /teclados/gaming/ /articulos/tecnologia/teclados/teclados-gaming
-Redirect 301 /teclados/oficina/ /articulos/tecnologia/teclados/teclados-oficina
+RewriteRule ^teclados/?$ /articulos/tecnologia/teclados/teclados-gaming [R=301,L]
+RewriteRule ^teclados/gaming/?$ /articulos/tecnologia/teclados/teclados-gaming [R=301,L]
+RewriteRule ^teclados/oficina/?$ /articulos/tecnologia/teclados/teclados-oficina [R=301,L]
 
 # Sillas de oficina
-Redirect 301 /oficina/ /articulos/hogar/sillas-oficina/sillas-oficina-guia-compra
+RewriteRule ^oficina/?$ /articulos/hogar/sillas-oficina/sillas-oficina-guia-compra [R=301,L]
 
 # Nutrición
-Redirect 301 /nutricion/ /articulos/salud/nutricion/nutricion-suplementos
+RewriteRule ^nutricion/?$ /articulos/salud/nutricion/nutricion-suplementos [R=301,L]
 
 # Páginas legales (sin cambio de URL)
 # /metodologia/ -> /metodologia/
