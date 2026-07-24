@@ -5,20 +5,23 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [L]
 
+# Redirect /articulos/ URLs to new locations
+RewriteRule ^articulos/(.*)$ /$1 [R=301,L]
+
 # Redirect old URLs to new SEO architecture
 # Auriculares
-RewriteRule ^auriculares/?$ /articulos/tecnologia/auriculares/auriculares-guia-compra [R=301,L]
+RewriteRule ^auriculares/?$ /tecnologia/auriculares/auriculares-guia-compra [R=301,L]
 
 # Teclados
-RewriteRule ^teclados/?$ /articulos/tecnologia/teclados/teclados-gaming [R=301,L]
-RewriteRule ^teclados/gaming/?$ /articulos/tecnologia/teclados/teclados-gaming [R=301,L]
-RewriteRule ^teclados/oficina/?$ /articulos/tecnologia/teclados/teclados-oficina [R=301,L]
+RewriteRule ^teclados/?$ /tecnologia/teclados/teclados-gaming [R=301,L]
+RewriteRule ^teclados/gaming/?$ /tecnologia/teclados/teclados-gaming [R=301,L]
+RewriteRule ^teclados/oficina/?$ /tecnologia/teclados/teclados-oficina [R=301,L]
 
 # Sillas de oficina
-RewriteRule ^oficina/?$ /articulos/hogar/sillas-oficina/sillas-oficina-guia-compra [R=301,L]
+RewriteRule ^oficina/?$ /hogar/sillas-oficina/sillas-oficina-guia-compra [R=301,L]
 
 # Nutrición
-RewriteRule ^nutricion/?$ /articulos/salud/nutricion/nutricion-suplementos [R=301,L]
+RewriteRule ^nutricion/?$ /salud/nutricion/nutricion-suplementos [R=301,L]
 
 # Páginas legales (sin cambio de URL)
 # /metodologia/ -> /metodologia/
